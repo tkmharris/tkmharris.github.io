@@ -7,7 +7,7 @@ set -ex
 jekyll build
 
 # Ensure any commits are pushed to github
-git push 
+git push
 
 # Switch to master, which is where we keep the built pages
 git checkout master
@@ -22,11 +22,10 @@ rm -r _site
 
 # Commit the new content
 git add .
-git commit -am "build: $(date)" 
+git commit -am "build: $(date)"
 
 # Push to github, to reflect the changes on my website
 git push
 
 # By default, we stay in the source branch, for ease of editing
 git checkout source
-
