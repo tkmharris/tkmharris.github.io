@@ -17,7 +17,7 @@ markdown: rdiscount
 permalink: pretty
 highlighter: pygments
 
-exclude: [archived, notes, README.md]
+exclude: [archived, notes, README.md, LICENSE.md]
 
 gems: [jekyll-last-modified-at]
 
