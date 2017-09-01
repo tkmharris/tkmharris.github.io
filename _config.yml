@@ -11,8 +11,6 @@ url: "www.tkmharris.net/"
 
 
 
-
-
 markdown: rdiscount
 permalink: pretty
 highlighter: pygments
