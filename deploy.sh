@@ -12,6 +12,9 @@ git push
 # Switch to master, which is where we keep the built pages
 git checkout master
 
+# copy _site folder from source
+git checkout source -- _site
+
 # Clean the directory, so it will only contain generated files, CNAME and git
 # files
 find . -maxdepth 1 -not -name CNAME -a -not -name '.git*' -a -not -name _site -a -not -name . -exec rm -r {} \;
