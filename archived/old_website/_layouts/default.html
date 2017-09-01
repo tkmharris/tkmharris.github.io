@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+
+  <head>
+    <meta charset="utf-8">
+    <title>{{ site.name }}</title>
+		<link rel="stylesheet" type="text/css" href="/assets/css/default.css"/>
+    <link href="/assets/js/lightbox2-master/dist/css/lightbox.css" rel="stylesheet">
+    {% include jax.html %}
+    <meta name="description" content="{{ site.description }}">
+
+	</head>
+
+	<body style="width:750px;">
+    {% include header.html %}
+    <div class="static-box">
+    {% if page.tags == 'booklist' %}
+      {% include books_title.html %}
+    {% endif %}
+    {{ content }}
+    </div>
+    {% include footer.html %}
+
+    <script src="/assets/js/lightbox2-master/dist/js/lightbox-plus-jquery.js"></script>
+	</body>
+
+</html>

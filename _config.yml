@@ -1,0 +1,27 @@
+# Site settings
+title: "Tom Harris"
+author:
+  name:     "Tom Harris"
+  email:    "tkmharris@gmail.com"
+  twitter:  "@Eschatom"
+  mastodon: "@tomharris@mastodon.social"
+title: "Tom Harris"
+description: ""
+url: "www.tkmharris.net/"
+
+
+
+
+
+markdown: rdiscount
+permalink: pretty
+highlighter: pygments
+
+exclude: [archived, notes, README.md]
+
+gems: [jekyll-last-modified-at]
+
+# Build settings
+markdown: rdiscount
+permalink: pretty
+highlighter: pygments
