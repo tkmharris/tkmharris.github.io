@@ -20,9 +20,17 @@ in *Homology, Homotopy and Applications **17** (2015), no. 1, 267-280.*
 2. [Exterior power operations on higher K-groups via binary complexes](/assets/files/ExteriorPowersBinaryComplexes.pdf)  
 (with Bernhard K&ouml;ck and Lenny Taelman)  
 in *Annals of K-Theory 2-3 (2017), 409--450.*
-#### Other (ug seminar, pisano)
+
+#### Other
+
+Here are some notes on the [Pisano semiperiod](/assets/files/pisano_semiperiod.pdf).
+
+The series of [seminars for undergraduates](http://ugseminars.co.nf/) I started while I was a graduate student is still going strong.
+
 ## Blog
+
 ## Other
      * turing drawings
-     * recipes (all in one big page, with contents links)
+     
+Here are some of my favourite [recipes](/recipes/).
 ## links
