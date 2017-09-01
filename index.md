@@ -1,19 +1,28 @@
 ---
-layout: frontpage
-image: /assets/images/me/Tom_Harris_2016.png
+layout: page
+title: Tom Harris
 ---
-I am a person who tries to be interested in things. This is where I keep stuff on the web.
-
-Details of my mathematical work can be found under the [maths](./maths/) tab.
-Sometimes I [blog](./blog/) about the things I do,
-or the things that interest me.
-
-Outside of maths, I like running, hiking, swimming outdoors, and
-[reading books](/booklist/). My favourite number is 26.
-
-<a  class="specialeffects" href="/stumpy/">=^.^=</a>
 
 
 
-<!-- <script type="text/javascript">document.write('<iframe src="http://adultcatfinder.com/embed/"
-width="320" height="430" style="position:fixed;bottom:0px;right:10px;z-index:100" frameBorder="0"></iframe>');</script> -->
+* about me, incl. job and phd history, links to other places I can be found online, interests, pic to the right, link to booklist
+     ("I post infrequently on [twitter] and much more frequently on [mastodon]. I put pictures on [instagram] and interesting links on [pinboard].)
+
+## Contact
+
+## Maths
+Between 2011 and 2015 I did a PhD with [Dr. Bernhard K&ouml;ck](http://www.southampton.ac.uk/maths/about/staff/bk2.page) at the University of Southampton. My research was in algebraic K-theory. My [thesis](/assets/files/thesis.pdf) was about Grayson's algebraic presentation of the higher algebraic K-groups.
+
+#### Publications
+1. [Algebraic proofs of some fundamental theorems in algebraic K-theory](/assets/files/FundamentalTheoremsAlgebraicKtheory.pdf)  
+in *Homology, Homotopy and Applications **17** (2015), no. 1, 267-280.*
+
+2. [Exterior power operations on higher K-groups via binary complexes](/assets/files/ExteriorPowersBinaryComplexes.pdf)  
+(with Bernhard K&ouml;ck and Lenny Taelman)  
+in *Annals of K-Theory 2-3 (2017), 409--450.*
+#### Other (ug seminar, pisano)
+## Blog
+## Other
+     * turing drawings
+     * recipes (all in one big page, with contents links)
+## links

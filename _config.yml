@@ -24,4 +24,4 @@ gems: [jekyll-last-modified-at]
 # Build settings
 markdown: rdiscount
 permalink: pretty
-highlighter: pygments
+highlighter: rouge
