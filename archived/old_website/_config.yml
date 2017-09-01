@@ -1,0 +1,16 @@
+name: "Tom Harris"
+description: "Tom Harris' website. A place to keep my stuff on the web."
+url: "www.tkmharris.net/"
+
+paginate: 5
+paginate_path: "/blog/page:num"
+
+markdown: rdiscount
+permalink: pretty
+highlighter: pygments
+
+exclude: [archived]
+
+gems: [jekyll-paginate, jekyll-last-modified-at, jekyll/footnotes]
+
+
