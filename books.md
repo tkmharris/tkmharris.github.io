@@ -1,3 +1,10 @@
+---
+layout: default
+tags: static
+title: Booklist
+---
+
+
 Re-reads are marked with an asterisk (&lowast;).
 Works read in translation are marked with a dagger (&dagger;).
 
@@ -12,19 +19,19 @@ Works read in translation are marked with a dagger (&dagger;).
 
 3. **Alfred Tarski: Life and Logic**, Anita & Solomon Feferman.  
 
-4. **A Winter Book**, Tove Jansson.&dagger;  
+4. **A Winter Book**, Tove Jansson. &dagger; (Swedish)
 
 5. **The Fish Ladder**, Katharine Norbury.  
 A potentially-interesting nature book ruined by the author's unbearable narcissism.
 
-6. **Orkneyinga Saga**, Anonymous.&dagger;  
+6. **Orkneyinga Saga**, Anonymous. &dagger; (Old Norse)  
 The saga of the Earls of Orkney from 950ish to 1200ish. Part history, part legend, [frequently unintentionally hilarious](/2017/03/02/orkneyinga-saga/).
 
 7. **Fingersmith**, Sarah Waters.  
 
 8. **The Secret History**, Donna Tartt.  
 
-9. **Beyond the Northlands: Viking voyages and the Old Norse sagas**, Eleanor Rosamund Barraclough.  
+9. **Beyond the Northlands**, Eleanor Rosamund Barraclough.  
 
 10. **A Tale for the Time Being**, Ruth Ozeki.  
 I heard about this on the [Overdue podcast](http://overduepodcast.com/) so I knew some of the story in advance. A meditation of sorts on time and suffering, but wrapped up in a flowing story. Its comparisons between Zen Buddhism and quantum physics irked me no end (as always). Otherwise very good.
@@ -33,13 +40,13 @@ I heard about this on the [Overdue podcast](http://overduepodcast.com/) so I kne
 
 12. **Wild**, Cheryl Strayed.  
 
-13. **The Housekeeper and the Professor**, Yoko Ogawa &dagger;.  
+13. **The Housekeeper and the Professor**, Yoko Ogawa. &dagger; (Japanese)  
 Novella about a mathematician with an 80 minute memory, his housekeeper, and her son. Includes some simple, but correct, maths and is mostly non-embarrassing for the mathematically-trained to read.
 
 14. **Concepts of Modern Mathematics**, Ian Stewart.  
 The maths book I wish somebody had given me when I was 18. Explains the ideas behind various parts of modern maths in a non-technical but also not-empty manner.
 
-15. **June**, Gerbrand Bakker.&dagger;  
+15. **June**, Gerbrand Bakker. &dagger;  
 
 16. **Dirk Gently's Holistic Detective Agency**, Douglas Adams.  
 
@@ -55,9 +62,9 @@ I got this book of essays I went to see Mark Greif interviewed by Laurie Penny a
 
 21. **Kill All Normies**, Angela Nagle.  
 
-22. **The Blue Fox**, Sj&oacute;n.  
+22. **The Blue Fox**, Sj&oacute;n. &dagger; (Icelandic)
 
-23. **Do No Harm: stories of life, death, and brain surgery**, Henry Marsh.
+23. **Do No Harm**, Henry Marsh.
 
 24. **Heroes of the Frontier**, Dave Eggers.  
 
@@ -76,9 +83,9 @@ the crossword**, Alan Connor.
 A nice little book about the history of crosswords.
 The entire book is arranged as a puzzle, with clues supplied by Araucaria.
 
-2. **Berlin Poplars**, Anne B. Ragde. &dagger;  
+2. **Berlin Poplars**, Anne B. Ragde. &dagger; (Norwegian)  
 
-3. **Consolations of the Forest**, Sylvain Tesson. &dagger;  
+3. **Consolations of the Forest**, Sylvain Tesson. &dagger; (French)  
 A diary of six months spent living alone in the wilderness,
 during the Siberian winter, in a log cabin on the shores of Lake Baikal.
 
@@ -86,7 +93,7 @@ during the Siberian winter, in a log cabin on the shores of Lake Baikal.
 
 5. **Tamara Drewe**, Posy Simmonds.  &lowast;  
 
-6. **My Struggle 3: Boyhood Island**, Karl Ove Knausg&#229;rd. &dagger;  
+6. **My Struggle 3: Boyhood Island**, Karl Ove Knausg&#229;rd. &dagger; (Norwegian)  
 This third volume covers Knausg&#229;rd's life up to
 age 12 or so on the island of Trom&oslash;ya.
 
@@ -104,7 +111,7 @@ Wittgenstein lived a beautiful life.
 I wonder why so much gothic horror is set in New England?
 *(edit: one-word answer suggested by Emilio Pierro -- "Puritans")*
 
-11. **Siddhartha**, Hermann Hesse. &dagger;  
+11. **Siddhartha**, Hermann Hesse. &dagger; (German)  
 
 12. **The Outrun**, Amy Liptrot.  
 Stark and moving memoir of the author's return to Orkney and recovery
@@ -126,9 +133,9 @@ settlement on Greenland.
 
 18. **No One Belongs Here More Than You**, Miranda July.  
 
-19. **Eichmann in Jerusalem: a report on the banality of evil**, Hannah Arendt.  
+19. **Eichmann in Jerusalem**, Hannah Arendt.  
 
-20. **My Struggle 4: Dancing in the Dark**, Karl Ove Knausg&#229;rd. &dagger;  
+20. **My Struggle 4: Dancing in the Dark**, Karl Ove Knausg&#229;rd. &dagger; (Norwegian)  
 The fourth volume describes Knausg&#229;rd's late teenage years: girls, drinking,
 and his earliest attempts to be a writer.
 
@@ -136,7 +143,7 @@ and his earliest attempts to be a writer.
 
 22. **Public Library (and other stories)**, Ali Smith.  
 
-23. **The Shpeherd's Life: a tale of the Lake District**, James Rebanks.  
+23. **The Shpeherd's Life**, James Rebanks.  
 
 24. **An Account of the Decline of the Great Auk, According to One Who Saw It**, Jessie Greengrass.  
 Really good debut collection of short stories. The title story is the standout.
@@ -170,7 +177,7 @@ More fun than Hardy's *Apology*, but less coherent.
 
 38. **We Don't Know What We're Doing**, Thomas Morris.  
 
-39. **My Struggle 5: Some Rain Must Fall**, Karl Ove Knausg&#229;rd. &dagger;  
+39. **My Struggle 5: Some Rain Must Fall**, Karl Ove Knausg&#229;rd. &dagger; (Norwegian)  
 Covers the 14 years that Knausg&#229;rd spent living in Bergen, from beginning university to the end of his first marriage.
 
 40. **The One Hundred Nights of Hero**, Isabel Greenberg.  
@@ -189,7 +196,7 @@ Long comic about stories and storytelling.
 Very, very funny. Did you know Werner Herzog is too self-conscious to eat Wiener
 Hotdogs?
 
-2. **My Struggle 1: a death in the family**, Karl Ove Knausg&#229;rd. &dagger;  
+2. **My Struggle 1: a death in the family**, Karl Ove Knausg&#229;rd. &dagger; (Norwegian)  
 The first volume of Knausg&#229;rd's autobiographical cycle.
 It's brutally honest and incredibly good.
 
@@ -208,13 +215,12 @@ My favourite Pratchett book as a child, re-read after he died.
 A celebration of MacFarlane's favourite nature writers.
 Enjoyable, but not of the same standard as MacFarlane's The Old Ways*.
 
-9. **The Cyberiad**, Stanis&#x142;aw Lem. &dagger;  
+9. **The Cyberiad**, Stanis&#x142;aw Lem. &dagger; (Polish)  
 Excelelnt translation.
 
 10. **Lightning Rods**, Helen DeWitt.  
 
-11. **In the All-Night Caf&eacute;:
-a memoir of Belle and Sebastian's formative year**, Stuart David.  
+11. **In the All-Night Caf&eacute;**, Stuart David.  
 
 12. **Foundation**, Isaac Asimov. &lowast;
 13. **Foundation and Empire**, Isaac Asimov.
@@ -228,7 +234,7 @@ liberal capitalist world. Frankly this made me pretty despondent for the future.
 I'm afraid I didn't enjoy this very much,
 I found it hard to distinguish from other pop-maths books.
 
-17. **My Struggle 2: a man in love**, Karl Ove Knausg&#229;rd. &dagger;  
+17. **My Struggle 2: a man in love**, Karl Ove Knausg&#229;rd. &dagger; (Norwegian)  
 Even better than the first volume.
 
 18. **North**, Seamus Heaney.  
@@ -245,7 +251,7 @@ A re-read of an old favourite.
 
 23. **Decline and Fall: the diaries of Chris Mullin 2005-2010**.  
 
-24. **Everything and More: a brief history of infinity**,
+24. **Everything and More**,
 David Foster Wallace.  
 A spirited attempt to write an interesting lay person's history of the
 mathematics of the transfinite. Contains some pretty huge maths blunders.
@@ -254,11 +260,11 @@ mathematics of the transfinite. Contains some pretty huge maths blunders.
 
 26. **The Way of the Runner**, Adharanand Finn.  
 
-27. **The Girl with the Dragon Tattoo**, Stieg Larsson. &dagger;  
+27. **The Girl with the Dragon Tattoo**, Stieg Larsson. &dagger; (Swedish)
 
-28. **The Girl who Played with Fire**, Stieg Larsson. &dagger;  
+28. **The Girl who Played with Fire**, Stieg Larsson. &dagger; (Swedish)
 
-29. **The Girl who Kicked the Hornet's Nest**, Stieg Larsson. &dagger;  
+29. **The Girl who Kicked the Hornet's Nest**, Stieg Larsson. &dagger; (Swedish)
 I didn't read these during the hype period of about a decade ago.
 Suffice to say they were as gripping as expected.
 
@@ -268,10 +274,13 @@ Suffice to say they were as gripping as expected.
 
 32. **Not That Kind of Girl**, Lena Dunham.  
 
-33. **Look Who's Back**, Timur Vermes. &dagger;  
+33. **Look Who's Back**, Timur Vermes. &dagger; (German)  
 
-34. **60 Degrees North: around the world in search of home**,
+34. **60 Degrees North*,
 Malachy Tallack.  
 
 35. **Girls to the Front: the true story of the riot grrrl revolution**,
 Sara Marcus.
+
+
+[Home](/)

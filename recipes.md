@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: default
 tags: static
+title: Recipes
 ---
-
-# Recipes
 
 ## 2 ingredient banana oat biscuits
 
@@ -273,3 +272,6 @@ About 15 minutes before the veg is done, put the couscous in a large heatproof b
 
 To serve, spoon the couscous onto a bowl or plate and spoon the
 vegetables onto the couscous. Finish with chopped coriander if desired.
+
+
+[Home](/)

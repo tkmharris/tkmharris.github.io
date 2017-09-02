@@ -1,17 +1,33 @@
 ---
-layout: page
+layout: default
+tags: static
 title: Tom Harris
 ---
 
+Hello, welcome to my home page. I'm Tom, I live in Cambridge, UK, and I commission and edit maths books for CUP.
 
+I'm a person who tries to be interested in things. The things I like to think about most, in increasing order of my own ignorance, are:  
 
-* about me, incl. job and phd history, links to other places I can be found online, interests, pic to the right, link to booklist
-     ("I post infrequently on [twitter] and much more frequently on [mastodon]. I put pictures on [instagram] and interesting links on [pinboard].)
+  * pure mathematics
+  * logic and formal systems in general
+  * fiction
+  * cultural studies
+
+Between 2011 and 2015 I did my PhD in algebraic K-theory with [Dr. Bernhard K&ouml;ck](http://www.southampton.ac.uk/maths/about/staff/bk2.page) at the University of Southampton. My [thesis](/assets/files/thesis.pdf) was about Grayson's algebraic presentation of the higher algebraic K-groups.
+
+Outside of maths, I like running, hiking, swimming outdoors, and
+[reading books](/books/).
+
+I post infrequently on [Twitter](https://twitter.com/Eschatom) and much more frequently on [Mastodon](https://mastodon.social/users/tomharris). I put pictures on [Instagram](https://www.instagram.com/tkmharris/) and interesting links on [Pinboard](https://pinboard.in/u:tkmharris).
+
 
 ## Contact
+The easiest way to get in touch with me is by email:
+[&#116;&#107;&#109;&#104;&#97;&#114;&#114;&#105;&#115;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;](mailto:&#116;&#107;&#109;&#104;&#97;&#114;&#114;&#105;&#115;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;)
+
+PGP, if you're feeling sneaky: [https://keybase.io/tkmharris](https://keybase.io/tkmharris)
 
 ## Maths
-Between 2011 and 2015 I did a PhD with [Dr. Bernhard K&ouml;ck](http://www.southampton.ac.uk/maths/about/staff/bk2.page) at the University of Southampton. My research was in algebraic K-theory. My [thesis](/assets/files/thesis.pdf) was about Grayson's algebraic presentation of the higher algebraic K-groups.
 
 #### Publications
 1. [Algebraic proofs of some fundamental theorems in algebraic K-theory](/assets/files/FundamentalTheoremsAlgebraicKtheory.pdf)  
@@ -25,12 +41,38 @@ in *Annals of K-Theory 2-3 (2017), 409--450.*
 
 Here are some notes on the [Pisano semiperiod](/assets/files/pisano_semiperiod.pdf).
 
-The series of [seminars for undergraduates](http://ugseminars.co.nf/) I started while I was a graduate student is still going strong.
+A series of [seminars for undergraduates](http://ugseminars.co.nf/) I started while I was a graduate student.
 
 ## Blog
 
-## Other
-     * turing drawings
-     
+I've been keeping a [blog]() for the last couple of years. There's no particular topic: sometimes it's reflections on things I've been reading or thinking about, but other times it's more like a diary (especially if I've been somewhere interesting recently). I suppose the topic is "things I'd like to share with my friends". That's good enough, I think.
+
+## Misc
+
 Here are some of my favourite [recipes](/recipes/).
-## links
+
+If you need to get me a gift: [wishlist](/wishlist/).
+
+[=^.^=](/stumpy/)
+
+## Links
+Things I like.
+
+#### Magazines
+* [London Review of Books](https://www.lrb.co.uk/)
+* [The Baffler](https://thebaffler.com/)
+* [n+1](https://nplusonemag.com/)
+
+#### Blogs
+* [Idle Words](http://www.idlewords.com/) (Maciej Cegłowski)
+* [Quomodocumque](https://quomodocumque.wordpress.com/) (Jordan Ellenberg)
+* [The Accidental Mathematician](https://ilaba.wordpress.com/) (Izabella Laba)
+* [Eruditorium Press](http://www.eruditorumpress.com/)
+
+#### Podcasts
+* [The Relentless Picnic](https://soundcloud.com/relentless-picnic)
+* [Memetic Hazard](http://memetichazard.co.uk/)
+
+#### Shops
+* [Topping and Company Booksellers](http://www.toppingbooks.co.uk/), Bath & Ely.
+* [Char Teas](http://www.charteas.com/), Winchester.
