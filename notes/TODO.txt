@@ -1,3 +1,5 @@
+Google fonts not loading on github pages
+
 Make favicon
 
 change markdown processor to kramdown

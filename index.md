@@ -5,12 +5,12 @@ title: Tom Harris
 ---
 
 Hello, welcome to my home page. I'm Tom, I live in Cambridge, UK, and I commission and edit maths books for CUP.  
-I'm a person who tries to be interested in things. The things I like to think about most, in increasing order of my own ignorance, are:  
+I'm a person who tries to be interested in things. The things I like to think about most, in decreasing order of how much I know about them, are:  
 
-  * pure mathematics
+  * pure mathematics (PhD)
   * logic and formal systems in general
   * fiction
-  * cultural studies
+  * cultural studies (total amatuer)
 
 Between 2011 and 2015 I did my PhD in algebraic K-theory with [Dr. Bernhard K&ouml;ck](http://www.southampton.ac.uk/maths/about/staff/bk2.page) at the University of Southampton.  
 My [thesis](/assets/files/thesis.pdf) was about Grayson's algebraic presentation of the higher algebraic K-groups.
@@ -72,7 +72,3 @@ Things I like.
 #### Podcasts
 * [The Relentless Picnic](https://soundcloud.com/relentless-picnic)
 * [Memetic Hazard](http://memetichazard.co.uk/)
-
-#### Shops
-* [Topping and Company Booksellers](http://www.toppingbooks.co.uk/), Bath & Ely.
-* [Char Teas](http://www.charteas.com/), Winchester.

@@ -46,7 +46,7 @@ Novella about a mathematician with an 80 minute memory, his housekeeper, and her
 14. **Concepts of Modern Mathematics**, Ian Stewart.  
 The maths book I wish somebody had given me when I was 18. Explains the ideas behind various parts of modern maths in a non-technical but also not-empty manner.
 
-15. **June**, Gerbrand Bakker. &dagger;  
+15. **June**, Gerbrand Bakker. &dagger; (Dutch)  
 
 16. **Dirk Gently's Holistic Detective Agency**, Douglas Adams.  
 
@@ -276,7 +276,7 @@ Suffice to say they were as gripping as expected.
 
 33. **Look Who's Back**, Timur Vermes. &dagger; (German)  
 
-34. **60 Degrees North*,
+34. **60 Degrees North**,
 Malachy Tallack.  
 
 35. **Girls to the Front: the true story of the riot grrrl revolution**,
