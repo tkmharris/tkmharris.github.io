@@ -1,0 +1,46 @@
+body {
+  font-family: 'Noticia Text', serif;
+  font-size:14px;
+  margin:35px;
+  line-height:150%;
+  color:#000000;
+  background-color:#FEF9E6;
+}
+
+h1,h2 {
+  font-family: 'Alfa Slab One', sans-serif;
+  font-weight:300; color:#df3746;
+}
+
+div {
+  margin-bottom:14px;
+}
+div.c1 {
+  display:inline;
+  float:right;
+  margin-top:5px;
+  margin-right:10px;
+  margin-bottom:5px;
+  margin-left:10px
+}
+
+a:link {
+  text-decoration:none;
+  font-weight:bold;
+  color:#df3746;
+}
+
+a:visited {
+  text-decoration:none;
+  color:#82373b;
+}
+
+a:hover {
+  text-decoration:underline;
+  color:#982a4f;
+}
+
+a:active {
+  text-decoration:underline;
+  color:#c13f6f;
+}
