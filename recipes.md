@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 tags: static
 title: Recipes
 ---
@@ -272,6 +272,3 @@ About 15 minutes before the veg is done, put the couscous in a large heatproof b
 
 To serve, spoon the couscous onto a bowl or plate and spoon the
 vegetables onto the couscous. Finish with chopped coriander if desired.
-
-
-[Home](/)

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 tags: static
 title: Booklist
 ---
@@ -281,6 +281,3 @@ Malachy Tallack.
 
 35. **Girls to the Front: the true story of the riot grrrl revolution**,
 Sara Marcus.
-
-
-[Home](/)

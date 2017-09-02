@@ -1,11 +1,10 @@
 ---
-layout: default
+layout: front
 tags: static
 title: Tom Harris
 ---
 
-Hello, welcome to my home page. I'm Tom, I live in Cambridge, UK, and I commission and edit maths books for CUP.
-
+Hello, welcome to my home page. I'm Tom, I live in Cambridge, UK, and I commission and edit maths books for CUP.  
 I'm a person who tries to be interested in things. The things I like to think about most, in increasing order of my own ignorance, are:  
 
   * pure mathematics
@@ -13,7 +12,8 @@ I'm a person who tries to be interested in things. The things I like to think ab
   * fiction
   * cultural studies
 
-Between 2011 and 2015 I did my PhD in algebraic K-theory with [Dr. Bernhard K&ouml;ck](http://www.southampton.ac.uk/maths/about/staff/bk2.page) at the University of Southampton. My [thesis](/assets/files/thesis.pdf) was about Grayson's algebraic presentation of the higher algebraic K-groups.
+Between 2011 and 2015 I did my PhD in algebraic K-theory with [Dr. Bernhard K&ouml;ck](http://www.southampton.ac.uk/maths/about/staff/bk2.page) at the University of Southampton.  
+My [thesis](/assets/files/thesis.pdf) was about Grayson's algebraic presentation of the higher algebraic K-groups.
 
 Outside of maths, I like running, hiking, swimming outdoors, and
 [reading books](/books/).
