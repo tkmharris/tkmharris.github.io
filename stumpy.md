@@ -1,6 +1,6 @@
 ---
 title: Stumpy
-layout: page
+layout: default
 ---
 
 <img src="/assets/images/stumpy.jpg" width=30%>
