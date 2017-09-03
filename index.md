@@ -4,8 +4,12 @@ tags: static
 title: Tom Harris
 ---
 
+<div class="c1">
+  <img border="0" height="320" src="/assets/images/tomharris.png">
+</div>
+
 Hello, welcome to my home page. I'm Tom, I live in Cambridge, UK, and I commission and edit maths books for CUP.  
-I'm a person who tries to be interested in things. The things I like to think about most, in decreasing order of how much I know about them, are:  
+I'm a person who tries to be interested in things. The things I like to think about most are:  
 
   * pure mathematics (PhD)
   * logic and formal systems in general
