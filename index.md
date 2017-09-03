@@ -19,7 +19,7 @@ I'm a person who tries to be interested in things. The things I like to think ab
 Between 2011 and 2015 I did my PhD in algebraic K-theory with [Dr. Bernhard K&ouml;ck](http://www.southampton.ac.uk/maths/about/staff/bk2.page) at the University of Southampton.  
 My [thesis](/assets/files/thesis.pdf) was about Grayson's algebraic presentation of the higher algebraic K-groups.
 
-Outside of maths, I like running, hiking, swimming outdoors, and
+For recreation, I like running, hiking, swimming outdoors, and
 [reading books](/books/).
 
 I post infrequently on [Twitter](https://twitter.com/Eschatom) and much more frequently on [Mastodon](https://mastodon.social/users/tomharris). I put pictures on [Instagram](https://www.instagram.com/tkmharris/) and interesting links on [Pinboard](https://pinboard.in/u:tkmharris).
@@ -53,9 +53,9 @@ I've been keeping a [blog]() for the last couple of years. There's no particular
 
 ### Misc
 
-Here are some of my favourite [recipes](/recipes/).
+Some of my favourite [recipes](/recipes/).
 
-If you need to get me a gift: [wishlist](/wishlist/).
+[Wishlist](/wishlist/), if you need to get me a gift.
 
 ### Links
 Things I like.
