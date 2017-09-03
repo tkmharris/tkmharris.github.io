@@ -4,7 +4,7 @@ tags: static
 title: Recipes
 ---
 
-## 2 ingredient banana oat biscuits
+### 2 ingredient banana oat biscuits
 
 This is a good way to use up old bananas that have gone a bit soft.
 (Another good thing to do with those is to chop them up, freeze them, and use them in smoothies later.)
@@ -33,7 +33,7 @@ them into biscuit shapes about ~1.5cm thick on the tray. Bake for ~10
 minutes or until the biscuits are set. Cool on a wire rack.
 
 
-## Carrot, squash, and ginger soup
+### Carrot, squash, and ginger soup
 
 Makes two large portions.
 
@@ -59,7 +59,7 @@ Blend until smooth, adjust seasoning with salt and pepper.
 Serve with the chopped coriander leaves scattered over,
 with bread rolls on the side.
 
-## Cheesy tomato risotto
+### Cheesy tomato risotto
 
 Makes 2 dinner portions
 
@@ -89,7 +89,7 @@ Bring to a low simmer and cook until almost all the liquid has been absorbed. No
 The mushrooms and pepper can be changed or added to with any other veg you want really. Thinly sliced butternut squash or courgette is nice.
 
 
-## Celeriac remoulade
+### Celeriac remoulade
 
 Serves 3/4 people as a starter.
 
@@ -109,7 +109,7 @@ Mix the mayonnaise, mustard, and lemon juice together in a large bowl with a spr
 Peel and quarter the celeriac, then quickly grate it coarsely and stir it into the sauce until evenly coated. Serve with toast and plenty of watercress.
 
 
-## Dream biscuits
+### Dream biscuits
 
 #### Ingredients
 
@@ -128,7 +128,7 @@ Sieve in the flour and mix to form an even dough.
 Wrap the dough in clingfilm, and chill in the fridge for at least half an hour. Preheat the oven to 150C. Grease two large baking sheets.  
 Roll the chilled dough into small balls and press them onto the baking sheet. Bake in the oven for 20-25 minutes.  
 
-## Earl Grey biscuits
+### Earl Grey biscuits
 
 #### Ingredients
 
@@ -154,7 +154,7 @@ Preheat the oven to 180C, and line two baking trays with baking paper.
 Cut the dough into thin biscuits and spread them out on the trays.
 Bake for ~15 mins or until slightly golden. Leave to cool on a rack.
 
-## Mackerel, potato, and radish salad
+### Mackerel, potato, and radish salad
 
 Makes two large dinner portions, or 4 lunch portions.
 
@@ -183,11 +183,11 @@ To make the dressing, blend the remaining oil with the garlic, lemon juie, yoghu
 Remove the veg from the oven and let it cool for 5 minutes. Toss the salad with the dressing and add the vegetables. Shred the mackerel fillets and add them to the mix as well.
 Serve with bread.
 
-## Mushroom and squash risotto
+### Mushroom and squash risotto
 
 Makes two dinner portions.
 
-## Ingredients
+#### Ingredients
 
 * 1 onion, chopped
 * ~150g fresh mushrooms
@@ -200,7 +200,7 @@ Makes two dinner portions.
 * salt and pepper to taste
 * chopped parsley to serve
 
-## Method
+#### Method
 
 Fry the onion and squash in the butter. When the squash is soft, add the fresh mushrooms. While the vegetables are cooking, soak the dried mushrooms in the veg stock.
 
@@ -209,7 +209,7 @@ wine. Pour in stock mix and stir it through. Simmer gently until the rice is coo
 
 Serve with chopped parsley and fresh bread.
 
-## Sweet chili tofu with sticky rice
+### Sweet chili tofu with sticky rice
 
 Makes 4 dinner portions
 
@@ -234,7 +234,7 @@ Chop the spring onions and peppers finely and put them in a bowl with the tofu. 
 
 Serve the mixture on top of bowls of the rice, and top with the sliced avocado.
 
-## Winter veg couscous
+### Winter veg couscous
 
 This recipe serves 3/4 people.
 

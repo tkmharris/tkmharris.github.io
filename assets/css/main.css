@@ -3,10 +3,10 @@ body {
   padding:0;
 	height:100%;
   line-height:120%;
-  font-family: 'Noticia Text', serif;
-  font-size:16px;
-  color:#000000;
-  background-color:#FEF9E6;
+  font-family: 'Cabin', sans-serif;
+  font-size: 16px;
+  color:828081;
+  background-color:#F7F9EB;
 
 }
 
@@ -32,12 +32,25 @@ body {
   font-size:12px;
 }
 
-h1,h2 {
-  font-family: 'Alfa Slab One', sans-serif;
-  font-weight:300; color:#df3746;
+h1 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 56px;
+  color:#64b38a;
+}
+
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 44px;
+  color:#64b38a;
+}
+
+h3 {
+  font-size: 26px;
+  padding-top: 10px;
 }
 
 p {
+  padding-left: 10px;
   max-width: 70%;
 }
 
@@ -54,20 +67,33 @@ div.c1 {
 a:link {
   text-decoration:none;
   font-weight:bold;
-  color:#df3746;
+  color:#64b38a;
 }
 
 a:visited {
   text-decoration:none;
-  color:#82373b;
+  color:#1e392a;
 }
 
 a:hover {
   text-decoration:underline;
-  color:#982a4f;
+  color:#3cc47c;
 }
 
 a:active {
   text-decoration:underline;
   color:#c13f6f;
+}
+
+a.specialeffects {
+  color: transparent;
+  font-weight: bold;
+  font-size: 2rem;
+  text-decoration:none;
+}
+
+a.specialeffects:hover {
+  color: #3cc47c;
+  font-weight: bold;
+  text-decoration:none;
 }

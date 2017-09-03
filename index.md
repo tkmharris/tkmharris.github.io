@@ -25,13 +25,13 @@ Outside of maths, I like running, hiking, swimming outdoors, and
 I post infrequently on [Twitter](https://twitter.com/Eschatom) and much more frequently on [Mastodon](https://mastodon.social/users/tomharris). I put pictures on [Instagram](https://www.instagram.com/tkmharris/) and interesting links on [Pinboard](https://pinboard.in/u:tkmharris).
 
 
-## Contact
+### Contact
 The easiest way to get in touch with me is by email:
 [&#116;&#107;&#109;&#104;&#97;&#114;&#114;&#105;&#115;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;](mailto:&#116;&#107;&#109;&#104;&#97;&#114;&#114;&#105;&#115;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;)
 
 PGP, if you're feeling sneaky: [https://keybase.io/tkmharris](https://keybase.io/tkmharris)
 
-## Maths
+### Maths
 
 #### Publications
 1. [Algebraic proofs of some fundamental theorems in algebraic K-theory](/assets/files/FundamentalTheoremsAlgebraicKtheory.pdf)  
@@ -47,19 +47,17 @@ Here are some notes on the [Pisano semiperiod](/assets/files/pisano_semiperiod.p
 
 A series of [seminars for undergraduates](http://ugseminars.co.nf/) I started while I was a graduate student.
 
-## Blog
+### Blog
 
 I've been keeping a [blog]() for the last couple of years. There's no particular topic: sometimes it's reflections on things I've been reading or thinking about, but other times it's more like a diary (especially if I've been somewhere interesting recently). I suppose the topic is "things I'd like to share with my friends". That's good enough, I think.
 
-## Misc
+### Misc
 
 Here are some of my favourite [recipes](/recipes/).
 
 If you need to get me a gift: [wishlist](/wishlist/).
 
-[=^.^=](/stumpy/)
-
-## Links
+### Links
 Things I like.
 
 #### Magazines

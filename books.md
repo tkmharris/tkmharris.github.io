@@ -264,7 +264,7 @@ mathematics of the transfinite. Contains some pretty huge maths blunders.
 
 28. **The Girl who Played with Fire**, Stieg Larsson. &dagger; (Swedish)
 
-29. **The Girl who Kicked the Hornet's Nest**, Stieg Larsson. &dagger; (Swedish)
+29. **The Girl who Kicked the Hornet's Nest**, Stieg Larsson. &dagger; (Swedish)  
 I didn't read these during the hype period of about a decade ago.
 Suffice to say they were as gripping as expected.
 
