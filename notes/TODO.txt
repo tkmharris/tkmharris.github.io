@@ -1,12 +1,10 @@
 Google fonts not loading on github pages
 
+Get MathJax working?
+
 Make favicon
 
-change markdown processor to kramdown
-
 Fix xml so that links appear correctly on Feedly.
-
-Indent text slightly (not headings)
 
 
 
