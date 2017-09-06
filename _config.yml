@@ -6,21 +6,13 @@ author:
   twitter:  "@Eschatom"
   mastodon: "@tomharris@mastodon.social"
 title: "Tom Harris"
-url: "www.tkmharris.net/"
-
-
-
-
-
-markdown: rdiscount
-permalink: pretty
-highlighter: pygments
+url: "www.tkmharris.net"
 
 exclude: [archived, notes, README.md, LICENSE.md, deploy.sh]
 
 gems: [jekyll-last-modified-at]
 
 # Build settings
-markdown: rdiscount
+markdown: kramdown
 permalink: pretty
 highlighter: rouge
