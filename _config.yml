@@ -8,11 +8,19 @@ author:
 title: "Tom Harris"
 url: "www.tkmharris.net/"
 
+
+
+
+
+markdown: rdiscount
+permalink: pretty
+highlighter: pygments
+
 exclude: [archived, notes, README.md, LICENSE.md, deploy.sh]
 
 gems: [jekyll-last-modified-at]
 
 # Build settings
-markdown: kramdown
+markdown: rdiscount
 permalink: pretty
 highlighter: rouge
