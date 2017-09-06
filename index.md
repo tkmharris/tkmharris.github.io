@@ -80,4 +80,6 @@ Things I like.
 Here come dat math:  
 $$\int_{-\infty}^{\infty} e^{-x^2} = \sqrt{\pi}$$  
 oh shit waddup!
+
+Currently broken :'(
 -->
