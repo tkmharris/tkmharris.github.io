@@ -4,7 +4,7 @@
 set -ex
 
 # Make sure _site is up-to-date
-bundle exec jekyll build
+jekyll build
 
 # Ensure any commits are pushed to github
 git push 
