@@ -49,7 +49,7 @@ A series of [seminars for undergraduates](http://ugseminars.co.nf/) I started wh
 
 ### Blog
 
-I've been keeping a [blog]() for the last couple of years. There's no particular topic: sometimes it's reflections on things I've been reading or thinking about, but other times it's more like a diary (especially if I've been somewhere interesting recently). I suppose the topic is "things I'd like to share with my friends". That's good enough, I think.
+I've been keeping a [blog](www.tkmharris.net/blog/) for the last couple of years. There's no particular topic: sometimes it's reflections on things I've been reading or thinking about, but other times it's more like a diary (especially if I've been somewhere interesting recently). I suppose the topic is "things I'd like to share with my friends". That's good enough, I think.
 
 ### Misc
 
