@@ -14,5 +14,6 @@ gems: [jekyll-last-modified-at]
 
 # Build settings
 markdown: kramdown
+mathjax: true
 permalink: pretty
 highlighter: rouge
