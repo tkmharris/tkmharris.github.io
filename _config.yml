@@ -13,7 +13,7 @@ exclude: [archived, notes, README.md, LICENSE.md, deploy.sh]
 gems: [jekyll-last-modified-at]
 
 # Build settings
-markdown: kramdown
+markdown: rdiscount
 mathjax: true
 permalink: pretty
 highlighter: rouge
