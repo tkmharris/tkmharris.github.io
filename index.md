@@ -71,11 +71,9 @@ Things I like.
 * [Memetic Hazard](http://memetichazard.co.uk/)
 
 
-<!--
 ### Maths test
 Here come dat math:  
 $$\int_{-\infty}^{\infty} e^{-x^2} = \sqrt{\pi}$$  
 oh shit waddup!
 
 Currently broken :'(
--->
