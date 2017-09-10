@@ -1,0 +1,3 @@
+Google analytics in _config.yml
+
+Make nice circular favicon of snowfield
