@@ -1,9 +1,3 @@
+Google analytics in _config.yml
 
-
-Get MathJax working.
-
-Fix xml so that links appear correctly on Feedly.
-
-
-
-
+Make nice circular favicon of snowfield
