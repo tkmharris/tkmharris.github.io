@@ -21,7 +21,10 @@ Tom Harris:
   # Icons appear in order, can be rearranged:
   social:
     # facebook:        <username>
+    email:           mailto:<tkmharris@gmail.com>
+    rss:             '/feed.xml'
     twitter:         Eschatom
+    instagram:       tkmharris
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
@@ -30,7 +33,6 @@ Tom Harris:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -55,8 +57,6 @@ Tom Harris:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:<tkmharris@gmail.com>
-    rss:             https://<url>/feed.xml
 
 # Another author
 #mdo:

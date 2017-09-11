@@ -24,6 +24,10 @@
     name: Instagram
     icon: icon-instagram
     prepend: 'https://instagram.com/'
+  mastodon:
+    name: Mastodon
+    icon: icon-mastodon
+    prepend: 'https://mastodon.social/'
   whatsapp:
     name: WhatsApp
     icon: icon-whatsapp
