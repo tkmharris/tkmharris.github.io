@@ -1,3 +1,12 @@
 Google analytics in _config.yml
 
-Make nice circular favicon of snowfield
+Figure out how to put picture sinline side-by-side
+
+Pictures don't load when you click on them.
+
+Find out how to put images into footnotes without breaking the footnotes.
+
+HOLD TXT:
+
+<!--![Mittens](/assets/img/posts/2017-07-13/mittens.jpg){:.center width="90%"}-->
+
