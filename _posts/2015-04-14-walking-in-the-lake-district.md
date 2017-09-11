@@ -3,7 +3,7 @@ title: Walking in the Lake District
 layout: post
 date: 2015-04-14
 tags: [travel, hiking]
-image: /assets/img/2015-04-14/Helvellyn.jpg
+image: /assets/img/posts/2015-04-14/Helvellyn.jpg
 ---
 
 Last week I was on holiday with Ana, and Dave and Lotta, walking in the Lake
@@ -21,9 +21,9 @@ lovely view at the op of the post.
 
 On the last day we walked another old route from Ambleside to Patterdale,
 taking in six fells along the way. At Cofa Pike I took a photo of
-<a href="/assets/img/2015-04-14/Grisedale_tarn_2015.jpg" data-lightbox="grisedale"
+<a href="/assets/img/posts/2015-04-14/Grisedale_tarn_2015.jpg" data-lightbox="grisedale"
 data-title="Grisedale Tarn from above, 2015">Grisedale Tarn</a>
-<a href="/assets/img/2015-04-14/Grisedale_tarn_2012.jpg" data-lightbox="grisedale"
+<a href="/assets/img/posts/2015-04-14/Grisedale_tarn_2012.jpg" data-lightbox="grisedale"
 data-title="Grisedale Tarn shore, 2012"></a>
 from above. The last time I saw the tarn it was shrouded in mist and looked
 as though it might go on forever. I was a little disappointed to have it demystified,
@@ -32,4 +32,4 @@ one day I will swim in it.
 
 With the weather so fine, we couldn't resist a few posing photographs.
 Here I am with Ana on the last slopes down from St. Sunday Crag, with Ullswater in the background.
-<img style="padding-top: 1rem" src="/assets/img/2015-04-14/posing.jpg">
+![Tom & Ana Ullswater](/assets/img/posts/2015-04-14/posing.jpg){:.center width="90%"}

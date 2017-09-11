@@ -1,11 +1,9 @@
 ---
-title: Iceland hiking
+title: Hiking in South Iceland&colon; Laugavegur, Þórsmörk, and Fimmvörðuháls
 layout: post
 date: 2017-09-06
 tags: [travel, hiking]
 ---
-
-### Laugavegur, Þórsmörk, and Fimmvörðuháls
 
 This June, after travelling to Reykjavík for work and [a little bit of tourism](/2017/07/09/reykjavik/), I spent the better part of a week hiking in the Iceland's Southern highlands. I have some experience of mountain, but this was the first big trip I've done on my own and I happy to say that it went really well, I had a great time. The trails I walked&mdash;Laugavegur, a daywalk around Þórsmörk, and the Skógar trail over Fimmvörðuháls&mdash;are all absurdly scenic, I really recommend taking this trip if you're into mountain walking and you have the time and resources to do so. The walks themselves are not very challenging and could be completed by anybody healthy and not too unfit.
 
@@ -21,84 +19,83 @@ The bus journey was not encouraging. The landscape got rapidly more forbidding a
 
 From that stop it was another hour along decreasingly road-like roads to Landmannalaugar. I'd been regularly checking the Ferðafélag Íslands ([Icelandic Hiking Association](https://www.fi.is/en)) Facebook page in the preceding weeks, and I was glad to see that the snow covering Landmannalaugar had finally melted. Everything was damp, but at least pretty green:
 
-<img class ="displayed" src="/assets/img/2017-07-13/landmannalaugar.jpg" width = 80%>
+![Landmannalaugar](/assets/img/posts/2017-07-13/landmannalaugar.jpg){:.center width="90%"}
 
 The first trail I was going to walk was the [Laugavegur](https://en.wikipedia.org/wiki/Laugavegur), which runs 55 very varied km from Landmannalaugar to Þórsmörk. Since we were due to arrive in Landmannalaugar at 1pm, my plan had been to do just a short section of the trail on the first afternoon, 4.5 hours uphill to the FI Hut at the pass at Hrafntinnusker. By the time we arrived though it was clear that it wasn't a good day for walking. The rain was like bullets and my coat was no match, I was extremely cold and damp within a few minutes of being outside. I went to the information hut and they told me that the weather reports from Hrafntinnusker (another 400m higher up and still covered in snow) were sufficiently worrying that the wardens were "strongly advising" walkers to stay the night at Landmannalaugar. So I dropped off my bag in the dorm room in the hut and settled in for the afternoon.[^3]
 
 Besides being the start point of the Laugavegur (and numerous other walks in the area), Landmannalaugar is famous for its hot springs&mdash;"Landmannalaugar" loosely translates as "The Common Man's Pools". I had planned to just take a look at the pools before starting out, but since I was delayed for the day I was able to take a dip. That walking the 100m to the springs outside in the rain in my trunks, but I fugured the water would make up for it. Most people I suppose, when they think of hot springs in Iceland, think of the [Blue Lagoon](http://www.bluelagoon.com/) or similar; the pools at Landmannalaugar are a little less fancy:
-<img class ="displayed" src="/assets/img/2017-07-13/landmannalaugar-springs.jpg" width = 80%>
+![Landmannalaugar hot springs](/assets/img/posts/2017-07-13/landmannalaugar-springs.jpg){:.center width="90%"}
 I later found out that the nice even temperature you get at the Blue Lagoon is not an accident: the whole thing was purpose built as a tourist attraction. It turns out real hot springs aren't lovely bathwater rising from the ground. Instead there is a freezing cold river and a few springs of literally boiling water spewing out from underground into it. One sits on the gravelly riverbed and tries to find a position where the hot and cold mix to a bearable medium, getting periodicallly burned or too cold as the wind and currents change. Which is not to say I didn't like it, but it wasn't the luxury experience I had anticipated. I stayed in for about an hour though, huddled around the springs like penguins with the other bathers, trying to ignore the driving rain. It was an experience anyway. When I got out I realised somebody had mistakenly taken my towel and I had to make my way back shivering violently in the rain.
 
-<img class ="displayed" src="/assets/img/2017-07-13/landmannalaugar-campsite.jpg" width = 80%>
+![Landmannalaugar campsite](/assets/img/posts/2017-07-13/landmannalaugar-campsite.jpg){:.center width="90%"}
 
 #### Day 1: Landmannalaugar &ndash; Álftavatn
 
-<img class ="displayed" src="/assets/img/2017-07-13/day1-hotspot.jpg" width = 80%>
+![Hotspot](/assets/img/posts/2017-07-13/day1-hotspot.jpg){:.center width="90%"}
 
-<img class ="displayed" src="/assets/img/2017-07-13/hraftinnusker.jpg" width = 80%>
+![Hraftinnusker](/assets/img/posts/2017-07-13/hraftinnusker.jpg){:.center width="90%"}
 
-<img class ="displayed" src="/assets/img/2017-07-13/day1-ryolite.jpg" width = 80%>
+![Ryolite hills](/assets/img/posts/2017-07-13/day1-ryolite.jpg){:.center width="90%"}
 
 Here I was overtaken by people training for the Laugavegur ultramarathon.
 
 First river crossing.
 
-<img class ="displayed" src="/assets/img/2017-07-13/alftavatn-evening.jpg" width = 80%>
+![Áltavatn evening](/assets/img/posts/2017-07-13/alftavatn-evening.jpg){:.center width="90%"}
 
+![Áltavatn path](/assets/img/posts/2017-07-13/alftavatn-path.jpg){:.center width="90%"}
 
 #### Day 2: Álftavatn &ndash; Emstrur
 
-<img class ="displayed" src="/assets/img/2017-07-13/alftavatn-morning.jpg" width = 80%>
+![Áltavatn morning](/assets/img/posts/2017-07-13/alftavatn-morning.jpg){:.center width="90%"}
 
 
-Quite spread out, so i was lucky to catch up a couple of workers just in time to get a pictture in the world's best posing spot.
-<img class ="displayed" src="/assets/img/2017-07-13/day2-pose.jpg" width = 80%>
+Quite spread out, so I was lucky to catch up a couple of workers just in time to get a pictture in the world's best posing spot.
+![Posing](/assets/img/posts/2017-07-13/day2-pose.jpg){:.center width="90%"}
 
-<img class ="displayed" src="/assets/img/2017-07-13/day2-sunburn.jpg" width = 80%>
+![Sunburn](/assets/img/posts/2017-07-13/day2-sunburn.jpg){:.center width="90%"}
 
 LINK TO CANYON PICS
 
 #### Day 3: Emstrur &ndash; Þórsmörk
 
-<img class ="displayed" src="/assets/img/2017-07-13/day3-bird.jpg" width = 80%>
+![Bird](/assets/img/posts/2017-07-13/day3-bird.jpg){:.center width="90%"}
 
-<img class ="displayed" src="/assets/img/2017-07-13/thorsmork-hut.jpg" width = 80%>
+![Þórsmörk hut](/assets/img/posts/2017-07-13/thorsmork-hut.jpg){:.center width="90%"}
 
-<img class ="displayed" src="/assets/img/2017-07-13/thorsmork-above.jpg" width = 80%>
+![Þórsmörk valley](/assets/img/posts/2017-07-13/thorsmork-above.jpg){:.center width="90%"}
 
 #### Day 4: Daywalk around Þórsmörk, including Rjúpnafell
 
-<img class ="displayed" src="/assets/img/2017-07-13/day4-crag.jpg" width = 80%>
+![Crag](/assets/img/posts/2017-07-13/day4-crag.jpg){:.center width="90%"}
 
 just like in English, Icelandic uses *fell* to mean a small mountain. The Icelandic word for proper-sized mountains is *Fjall* (or *Fjöll* in the plural[^4]).
 
-<img class ="displayed" src="/assets/img/2017-07-13/rjupnafell.jpg" width = 80%>
+![Rjúpnafell](/assets/img/posts/2017-07-13/rjupnafell.jpg){:.center width="90%"}
 
 I was surprised when to discover I had 3G when I got to the top, so I seized the opportunity to show off and [posted a video to mastodon](https://files.mastodon.social/media_attachments/files/000/856/565/original/3b6206bfbcebc110.mp4), which finally got me followed by Eugen. So yeah, I'm big league now.
 
-<img class ="displayed" src="/assets/img/2017-07-13/trollakirkja.jpg" width = 80%>
+![Trollakirkja](/assets/img/posts/2017-07-13/trollakirkja.jpg){:.center width="90%"}
 
 #### Day 5: Þórsmörk &ndash; Skógar
 
-<img class ="displayed" src="/assets/img/2017-07-13/day5-pole.jpg" width = 80%>
+![Fimmvörðuháls pole](/assets/img/posts/2017-07-13/day5-pole.jpg){:.center width="90%"}
 
 Cross the last bit of snow to the hut.[^5]
 
-<img class ="displayed" src="/assets/img/2017-07-13/day5-snowfield.jpg" width = 80%>
+![Fimmvörðuháls snowfield](/assets/img/posts/2017-07-13/day5-snowfield.jpg){:.center width="90%"}
 
 LINK TO ALBUM OF SKOGAR WATERFALLS
 
-<img class ="displayed" src="/assets/img/2017-07-13/amy-waterfall.jpg" width = 80%>
+![Amy waterfall](/assets/img/posts/2017-07-13/amy-waterfall.jpg){:.center width="90%"}
 
-<img class ="displayed" src="/assets/img/2017-07-13/skogafoss.jpg" width = 80%>
+![Skógafoss](/assets/img/posts/2017-07-13/skogafoss.jpg){:.center width="90%"}
 
 <hr>
 <div style="font-size: 80%">
 [^1]: One death every two years doesn't seem so bad until you consider that no more than 10,000 people walk the Laugavegur trail every year (by my estimate), probably fewer. 20,000:1 chance of death&mdash;still not bad odds. But I had no idea how much experience the typical walker had Laugavegur, perhaps I was less prepared than average and the odds for rubes like me were much worse?
 [^2]: I decided that, in the event, I'd probably rather not actually die than risk dying of embarrassment at having to be rescued to be rescued by a big well-prepared Icelandic Real Man. Just.
-[^3]: At this time I also realised that the gloves I'd brought with me had a hole in them. Luckily in the high tourist season there's a little shop open at the campsite selling coffess, hot drinks, and extortionitly priced hiking gear. Still afraid of being underequipped in any way, I spent 3500ISK (£25!) on the only gloves they had, these rather natty mittens
-<img class ="displayed" src="/assets/img/2017-07-13/mittens.jpg" width = 80%>
-I am very attached to these mittens now. I nearly ran off a cliff chasing them when they blew away in the wind. I love them and I'll take on every waliking trip I go on forever.
-[^4]: I learned this by trying to translate (with my phone) the poem *Fjöll* by [Jóhannes úr Kötlum](https://en.wikipedia.org/wiki/J%C3%B3hannes_%C3%BAr_K%C3%B6tlum), which somebody had printed and framed and hung on the wall in the Þórsmörk FI hut.
+[^3]: At this time I also realised that the gloves I'd brought with me had a hole in them. Luckily in the high tourist season there's a little shop open at the campsite selling coffess, hot drinks, and extortionitly priced hiking gear. Still afraid of being underequipped in any way, I spent 3500ISK (£25!) on the only gloves they had, these rather natty mittens. ![Mittens](/assets/img/posts/2017-07-13/mittens.jpg){:.center width="50%"} I am very attached to these mittens now. I nearly ran off a cliff chasing them when they blew away in the wind. I love them and I'll take on every waliking trip I go on forever.
+[^4]: I learned this by trying to translate (with my phone) the poem *Fjöll* by [Jóhannes úr Kötlum](https://en.wikipedia.org/wiki/J%C3%B3hannes_%C3%BAr_K%C3%B6tlum), a framed print of which hung on the wall in the Þórsmörk FI hut.
 [^5]: I don't know very much about photographic composition, but I think this might be the 'best' photograph I took on the hike. The colours are nice.
 </div>

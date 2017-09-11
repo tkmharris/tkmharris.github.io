@@ -3,7 +3,7 @@ title: Groups, representations, and cohomology on Skye
 layout: post
 date: 2015-07-07
 tags: [maths, travel]
-image: /assets/img/2015-07-07/beinn_na_cailleach.jpg
+image: /assets/img/posts/2015-07-07/beinn_na_cailleach.jpg
 ---
 
 

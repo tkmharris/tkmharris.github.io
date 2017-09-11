@@ -19,8 +19,6 @@ of my favourites to keep here as a reminder of a great day.
 
 Congratulations to Lewis and Zoe!
 
-<div style="display: inline; padding-left: 10%">
-<img src="/assets/img/2016-06-25/chaps.jpg" width=40%>
-<img src="/assets/img/2016-06-25/bride_groom.jpg" width=40%>
-</div>
-<img src="/assets/img/2016-06-25/grass_bridge.jpg">
+![Groom's party](/assets/img/posts/2016-06-25/chaps.jpg){:.center width="40%"}
+![Bride & Groom](/assets/img/posts/2016-06-25/bride_groom.jpg){:.center width="40%"}
+![Grass Bridge](img /assets/img/posts/2016-06-25/grass_bridge.jpg){:.center width="90%"}

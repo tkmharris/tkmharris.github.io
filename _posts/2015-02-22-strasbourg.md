@@ -3,7 +3,7 @@ title: Strasbourg
 layout: post
 date: 2015-02-22
 tags: [travel, maths]
-image: /assets/img/2015-02-22/ponts_couverts.jpg
+image: /assets/img/posts/2015-02-22/ponts_couverts.jpg
 ---
 
 This week I am at the IRMA in Strasbourg for a masterclass in topological

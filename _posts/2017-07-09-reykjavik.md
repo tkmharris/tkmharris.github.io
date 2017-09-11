@@ -18,7 +18,7 @@ Anyway, because of this stuff I was happy not to be participating in obvious tou
 The largest church in Iceland and Reykjavík's most well-know landmark, it's that church that looks like a [low-variance normal distribution](https://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja#/media/File:Reykjavik%27s-church.jpg). Commissioned in 1937, built between 1945 and 1986, it's quite a strange building. It was designed at time when (Lutheran) Christianity was still a powerful force in Iceland (and could still attract large congregations) and it has all the usual stuff: pulpit, font, lots and lots of pews, a very large organ, stained glass, & so on. But architecture from 1937 already looks distinctly modern, and the result felt unnatural somehow.  Of course architectural styles change over time, and if the building were still used regularly by a full congregation it might feel natural. But empty of worshippers as it was, it felt like a sleek modernist parody of a church. The stone is a pale over-designed-website grey, the organ is shining silver and looks not steampunk but more, I dunno, logicianpunk? Vienna-Circle-core? There's something cultish about it. I recently read Don Delilo's book *Zero K* about a secretive facility where the global elite undergo cryonic freezing in order to live forever in the future. The inside of this church is what I imagine that facility to look like.
 
 The outside of the church is a masterpiece of course, and as a bonus there's a great statue of my boy Leifur Eriksson standing on the prow of a ship:
-<img class ="displayed" src="/assets/img/2017-07-09/leifur.jpg" width = 80%>
+![Leifur Eriksson](/assets/img/posts/2017-07-09/leifur.jpg){:.center width="90%"}
 
 #### National Museum of Iceland
 
@@ -30,7 +30,7 @@ There was also a nice side exhibit about Iceland's place in the world. There was
 I made friends with a local who took me to well-known bar and music venue Gaukurinn. Although it's right in the middle of the city, it was pretty much the only bar I went to where Icelanders outnumbered visitors. That might be because it doesn't seem like the kind of place that's going to cater to what customers outside of their established clientele want: the general vibe is 'aggressively progressive'. It turned out that they were having a fundraiser for their new all-vegan diner. I arrived in time to watch Reykjavík's premier vegan rappers Vegan Klíkan. They mostly rapped in Icelandic, but I caught the odd English "culture of death" here and there. I tried to look non-guilty. After that there was a (vegan) black metal band whose name I didn't catch. This was the first time I'd seen any kind of metal live, and I actually kind of liked it. I know that recorded I definitely hate it, so it was a bit of a surprise to enjoy it so much. Maybe it's an essentially live genre? Good bar anyway, cheaper beer than everywhere else too. (Relatively of course: £8/pint instead of £9+/pint. I didn't drink much.)
 
 Quite a long walk back afterwards, but since it was near midsummer twilight lasted all night. I took the picture below as I was walking along the bay at 2am, and that's pretty much the darkest it got the whole time I was there.
-<img class ="displayed" src="/assets/img/2017-07-09/twilight.jpg" width = 80%>
+![Reykjavík, 2am](/assets/img/posts/2017-07-09/twilight.jpg){:.center width="90%"}
 
 #### Laugardalslaug
 
