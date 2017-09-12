@@ -17,7 +17,6 @@ There's a lot more that I could say, but I didn't really find this film engaging
 Anyway, 3 stars, some gory bits.
 
 
-<hr>
 <div style="font-size: 80%">
 [^1]: As [Phil Sandifer](http://www.eruditorumpress.com/blog/author/phil/) says, "I've always preferred a noble failure to a cheap success".
 [^2]: I personally rank *Resurrection* above *3*, but only because I really fancied Winona Ryder in *Resurrection* and neither film has much else going for it.

@@ -20,7 +20,6 @@ I guess the point of these usages is to very concisely communicate strong opposi
 There. I have finally put in place one solid stone in the rules of discourse. When I eventually solve all political discussion forever, I'll look back to this as the first time I was sure of anything.
 That's all I know for now though.
 
-<hr>
 <div style="font-size: 80%">
 [^1]: Same goes for putting baby speak in the mouths of your opponents: talking about hurting people's "fee fees". Pathetic.
 </div>

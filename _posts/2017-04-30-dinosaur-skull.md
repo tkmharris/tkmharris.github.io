@@ -13,7 +13,6 @@ Here's Hitchens on Gingrich's habit of bringing up dinosaurs at every opportunit
 
 *He has a Tyrannosaurus Rex skull in his skull*, what a gorgeous line. I've been trying to get better at writing lately, but I know I'll never be able to write like that. There's a lot more to good writing than the odd great line of course, but I'd sure be pleased to write something like that every now and again.
 
-<hr>
 <div style="font-size: 80%">
 [^1]: Most of the archive is only available to *LRB* subscribers, but these promoted pieces are free. The archive is a wonderful bonus if you are a subscriber, there's some brilliant stuff in there.
 </div>

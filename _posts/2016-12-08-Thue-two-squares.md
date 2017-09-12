@@ -38,7 +38,6 @@ Unlike the proofs of Dedekind or Minkowski, it could be presented in a very firs
 
 Thue himself is little-remembered these days; his proof of Fermat's theorem at least deserves to be more widely known.
 
-<hr>
 <div style="font-size: 80%">
 [^1]: D. Zagier, *A one-sentence proof that every prime p congruent to 1 modulo 4 is a sum of two squares*, Am. Math. Monthly **97** (1990), no. 2, p144.
 [^2]: A. Thue, *Et par antydninger til en taltheoretisk metode*, Kra. Vidensk. Selsk. Forh. **7** (1902), pp57–75.

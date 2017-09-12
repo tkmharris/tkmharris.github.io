@@ -45,7 +45,6 @@ Yeah it's fucking horrible, don't do it. The traditional chaser shot (Brennivín
 
 So, overall: Reykjavík, great city. It probably helps if you like the cold and aren't a big fan of sunshine, like me. There's something pleasant about a small city that is still a centre of culture. I'll be back, maybe with more time and money.
 
-<hr>
 <div style="font-size: 80%">
 [^1]: Two reasons for this: 1. I really like hiking, and, lovely as Reykjavík is, I wasn't going to go to Iceland and not go take in that scenery; 2. Reykjavík is so expensive I can't actually afford to stay there for a week anyway.
 [^2]: A case in point are the so-called 'Puffin shops', the many shops in the centre of Reykjavík selling tourist tat: t-shirts, Icelandic flags, figurines, stuffed toys, & so on, the most overwhelmingly common motif being puffins. Why? Well the puffin is the national bird of Iceland innit? Except it's not: the national bird of Iceland is the [Gyrfalcon](https://en.wikipedia.org/wiki/Gyrfalcon), and Icelanders feel no particular affection for the puffin at all (except as a meal).

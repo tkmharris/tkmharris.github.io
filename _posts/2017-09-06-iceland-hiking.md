@@ -92,7 +92,6 @@ LINK TO ALBUM OF SKOGAR WATERFALLS
 
 ![Skógafoss](/assets/img/posts/2017-07-13/skogafoss.jpg){:.center width="90%"}
 
-<hr>
 <div style="font-size: 80%">
 [^1]: One death every two years doesn't seem so bad until you consider that no more than 10,000 people walk the Laugavegur trail every year (by my estimate), probably fewer. 20,000:1 chance of death&mdash;still not bad odds. But I had no idea how much experience the typical walker had Laugavegur, perhaps I was less prepared than average and the odds for rubes like me were much worse?
 [^2]: I decided that, in the event, I'd probably rather not actually die than risk dying of embarrassment at having to be rescued to be rescued by a big well-prepared Icelandic Real Man. Just.

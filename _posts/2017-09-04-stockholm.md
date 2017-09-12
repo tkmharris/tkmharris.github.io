@@ -41,7 +41,6 @@ Stockholm is a beautiful city. It's got a nice old town and lots of bridges, and
 The weather seemed just right for me, it was bright and sunny, but no more than a comfortable 22&deg;C, with a fresh sea breeze as well. It seems like a really livable city: cool, modern, liberal and international. The population is youthful[^1] and very friendly. There's a fair amount of tourism, but unlike Reykjavík it doesn't dominate the city. I'm really looking forward to coming back for longer when I get a chance.
 
 
-<hr>
 <div style="font-size: 80%">
 [^1]: It's a cliche that Swedish people are attractive, but still I wasn't ready for it. I know that attractiveness isn't objective&mdash;it's decided by culture, history and prejudice. But I am a member of society and no more immune to culture than anybody else. Even being intellectually aware that attractiveness is an arbitrary construct, it was still disconcerting to be constantly surrounded by people who would be considered model-level beautiful in the UK. Consequently I spent three days wandering around feeling like a little goblin.
 </div>

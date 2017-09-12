@@ -20,7 +20,6 @@ But none of this will happen if people just join because it's the cool new Twitt
 
 I'm aware that a lot of my frustration over this stems from the fact that I haven't figured out how I can help yet. If I had the technical knowledge to start my own instance, I would have done it already. At the moment the best I can do is to keep donating to [Eugen's patreon](https://www.patreon.com/user?u=619786) and try to encourage the community I want to see. I'm playing around with some smaller instances at the moment. Depending on how things go on the main instance over the coming week, I may start posting mainly from one of those. I hope others start instances that attract users there *first*, not just after they've joined mastodon.social. I will try to find a way to help. On the whole I'm optimistic about Mastodon and I hope people will use it as intended.
 
-<hr>
 <div style="font-size: 80%">
 [^1]: How large? I joined around the end of November and got account # 16,772 (a lot of the early accounts were just people reserving usernames though). By a couple of days ago we were up to about 25,000 users; now we're approaching 30,000. That's a big speedup.
 [^2]: That's not to begrudge the celebrities for joining; I hope they have a great experience too. But I think social networks should be about talking to people, not just following celebs and brands. (I should point out that I had two genuinely pleasant human interactions with celebrities this afternoon. But that only happened because masto is small now, and it's not going to stay that way.)
