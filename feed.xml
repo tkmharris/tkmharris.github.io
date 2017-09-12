@@ -7,19 +7,6 @@
 		<atom:link href="" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Hiking in South Iceland&amp;colon; Laugavegur, Þórsmörk, and Fimmvörðuháls</title>
-				<link>/2017/09/06/iceland-hiking/</link>
-				
-				
-					<description>&lt;p&gt;This June, after travelling to Reykjavík for work and &lt;a href=&quot;/2017/07/09/reykjavik/&quot;&gt;a little bit of tourism&lt;/a&gt;, I spent the better part of a week hiking in the Iceland’s Southern highlands. I have some experience of mountain, but this was the first big trip I’ve done on my own and I happy to say that it went really well, I had a great time. The trails I walked—Laugavegur, a daywalk around Þórsmörk, and the Skógar trail over Fimmvörðuháls—are all absurdly scenic, I really recommend taking this trip if you’re into mountain walking and you have the time and resources to do so. The walks themselves are not very challenging and could be completed by anybody healthy and not too unfit.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Wed, 06 Sep 2017 00:00:00 +0100</pubDate>
-				<guid isPermaLink="true">/2017/09/06/iceland-hiking/</guid>
-			</item>
-		
-			<item>
 				<title>Kill All Normies&amp;colon; a failed review</title>
 				<link>/2017/09/05/kill-all-normies/</link>
 				
@@ -53,7 +40,7 @@ But I did stay an extra night and day after the conference to do just a couple t
 				<link>/2017/08/14/shibboleth-for-idiots/</link>
 				
 				
-					<description>&lt;p&gt;&lt;em&gt;Prompted by the following extremely insightful comment on the *Guardian&lt;/em&gt; website: &lt;a href=&quot;https://www.theguardian.com/uk-news/2017/aug/14/london-garden-bridge-project-scrapped-sadiq-khan#comment-103619856&quot;&gt;“Corybn who is the Tories’ poodle on Brexshit. Yeah, he’s great.”&lt;/a&gt;*&lt;/p&gt;
+					<description>&lt;p&gt;&lt;em&gt;Prompted by the following extremely insightful comment on the *Guardian&lt;/em&gt; website*: &lt;a href=&quot;https://www.theguardian.com/uk-news/2017/aug/14/london-garden-bridge-project-scrapped-sadiq-khan#comment-103619856&quot;&gt;“Corybn who is the Tories’ poodle on Brexshit. Yeah, he’s great.”&lt;/a&gt;&lt;/p&gt;
 
 </description>
 				
@@ -132,8 +119,6 @@ Two for the price of one, i wish I’d been given these as a teenager too. Tom K
 &lt;p&gt;&lt;strong&gt;The Shape of Space&lt;/strong&gt;, Jeffrey Weeks.&lt;br /&gt;
 An introduction to non-Euclidean space, topology, and differential geometry for the lay reader. If you’ve read &lt;em&gt;Flatland&lt;/em&gt; and want to really get into some of the ideas behind it, without going to university for maths, this is the place to go. It really succeeds in communicating that maths is about ideas more than about formulas or proofs: it manages to communicate a lot of high-level ideas through diagrams and thought experiments, almost never diving down into calculations. I once gave an informal lecture about topology to first year undergraduates where I nicked bits of it wholesale. If that’s not a recommendation, I don’t know what is.&lt;/p&gt;
 
-&lt;hr /&gt;
-
 &lt;div style=&quot;font-size: 80%&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
@@ -182,6 +167,20 @@ An introduction to non-Euclidean space, topology, and differential geometry for 
 				
 				<pubDate>Sun, 09 Apr 2017 00:00:00 +0100</pubDate>
 				<guid isPermaLink="true">/2017/04/09/recipes/</guid>
+			</item>
+		
+			<item>
+				<title>The state of the federation</title>
+				<link>/2017/04/02/state-of-masto/</link>
+				
+				
+					<description>&lt;p&gt;&lt;strong&gt;Edit 2017-04-09:&lt;/strong&gt;
+&lt;em&gt;Much of the below is now redundant. Eugen closed registrations for the main instance when it got to around 40,000 users. That forced people to join other instances and the network is beginning to look more healthy: there are currently some 120,000 users.&lt;/em&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 02 Apr 2017 00:00:00 +0100</pubDate>
+				<guid isPermaLink="true">/2017/04/02/state-of-masto/</guid>
 			</item>
 		
 	</channel>
