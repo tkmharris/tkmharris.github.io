@@ -6,7 +6,7 @@ tags: [internet, discourse]
 ---
 
 
-*Prompted by the following extremely insightful comment on the *Guardian* website: ["Corybn who is the Tories' poodle on Brexshit. Yeah, he's great."](https://www.theguardian.com/uk-news/2017/aug/14/london-garden-bridge-project-scrapped-sadiq-khan#comment-103619856)*
+*Prompted by the following extremely insightful comment on the *Guardian* website*: ["Corybn who is the Tories' poodle on Brexshit. Yeah, he's great."](https://www.theguardian.com/uk-news/2017/aug/14/london-garden-bridge-project-scrapped-sadiq-khan#comment-103619856)
 
 Like a lot of people (I suspect), I have a very hard time getting my own beliefs about speech norms on the internet in order. Whenever I have pinned down a behaviour that I think is always bad, somebody else can come up with a persuasive argument that in this case it is not only acceptable but right. On the whole I'm in favour of civility, but there's no denying that incivility can be effective and is sometimes justified.
 
