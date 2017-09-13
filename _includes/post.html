@@ -9,12 +9,13 @@
     </h1>
 
     <p class="post-date heading">
-      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %b %Y" }}</time>
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %b %Y" }}</time><br>
       <!-- disable categories - TH
       {% include tag-list.html tags=post.categories meta=site.featured_categories start_with="in " separator=" / " %}
       -->
-      {% include tag-list.html tags=post.tags meta=site.featured_tags start_with="in " separator=", " %}
+      Topics: {% include tag-list.html tags=post.tags meta=site.featured_tags separator=", " %}
     </p>
+
 
     {% include message.html text=post.description %}
   </header>

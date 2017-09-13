@@ -2,6 +2,4 @@ Figure out how to put picture sinline side-by-side
 
 Pictures don't load when you click on them.
 
-Add categories pages.
-
 
