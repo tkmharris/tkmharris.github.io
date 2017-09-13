@@ -5,7 +5,7 @@ date: 2017-09-05
 tags: [books, internet]
 ---
 
-![Feels bad man](/assets/img/posts/2017-09-05/feelsbadman.jpg){:.center width="50%"}
+![Feels bad man](/assets/img/posts/2017-09-05/feelsbadman.jpg){:.center width="30%"}
 
 For the last 6 weeks I've been trying, on and off, to write a long review of Angela Nagle's *[Kill All Normies](http://www.zero-books.net/books/kill-all-normies)* that I can be happy with. This post is meant to bring that to a close so that I can finally do something else with my evenings again. The trouble is, I don't really know how to write! I think because I was one of the Bright Kids in school, I just assumed that I would be quite good at it, even though I haven't written any extended non-technical prose since I was 18. Writing for me is like dancing: watching others it appears so effortless and natural that it hardly seems possible to do it badly. But when I start typing I slur all over the place, nothing goes where I want it to go and there's a sense of shame in my own performance.
 Getting better takes practice, and practice requires motivation. I think I'll be a lot more motivated if I try to write short things regularly than if I'm always toiling away on some huge thing with no end in sight. Learn a box step before I join the ballet.
