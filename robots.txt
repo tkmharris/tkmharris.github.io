@@ -1,1 +1,1 @@
-Sitemap: https://tkmh.space/sitemap.xml
+Sitemap: http://tkmh.space/sitemap.xml
