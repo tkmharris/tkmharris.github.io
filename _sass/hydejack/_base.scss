@@ -142,3 +142,8 @@ a, .a {
 // .mb6 {
 //   margin-bottom: 6rem;
 // }
+
+
+#limit-content-width {
+  max-width: calc(65em * 0.5);
+}

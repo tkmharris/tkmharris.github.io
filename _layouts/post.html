@@ -2,12 +2,14 @@
 layout: base
 ---
 
-{% include post.html post=page link_title=false %}
+<div id="limit-content-width">
+  {% include post.html post=page link_title=false %}
 
-{% include about.html %}
+  {% include about.html %}
 
-<!-- disable related pages - TH
-{% include related.html post=page %}
--->
+  <!-- disable related pages - TH
+  {% include related.html post=page %}
+  -->
 
-{% include post-nav.html %}
+  {% include post-nav.html %}
+</div>
