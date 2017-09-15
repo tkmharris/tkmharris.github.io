@@ -8,7 +8,7 @@ tags: [mastodon, the culture]
 **Edit 2017-04-09:**
 *Much of the below is now redundant. Eugen closed registrations for the main instance when it got to around 40,000 users. That forced people to join other instances and the network is beginning to look more healthy: there are currently some 120,000 users.*
 
-In the last couple of days there's been a large[^1] influx of new users at [Mastodon](mastodon.social), a lot of them following well-meaning celebrities from Twitter. That's good, growth of a social network should be encouraged. There's a temptation, if you've been around a while, to get defensive about new people joining your secret club. I want to avoid that, but I do have a complaint.
+In the last couple of days there's been a large[^1] influx of new users at [Mastodon](https://mastodon.social), a lot of them following well-meaning celebrities from Twitter. That's good, growth of a social network should be encouraged. There's a temptation, if you've been around a while, to get defensive about new people joining your secret club. I want to avoid that, but I do have a complaint.
 
 A problem is that a lot of the new users don't realise that the most important feature of Mastodon is federation. Yes the 500 character post limit and the granular post privacy controls are cool, but the aim is not to be just '2008 Twitter with better features'. I know it's great that Mastodon is small, and everybody is interacting with each other like humans (for now). But guess what? if everybody joins the main mastodon.social instance and acts like it's just the new Twitter, then all you end up with is Twitter: the same culture, the same people only retweeting celebrities,[^2] the same posting into the void.
 

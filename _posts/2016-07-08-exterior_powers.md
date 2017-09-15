@@ -23,11 +23,11 @@ In a 2012 paper Grayson gave the first purely algebraic description of the highe
 My PhD work was an investigation of this new approach to algebraic K-theory.
 In the final chapter of my thesis I started the work of constructing the $$\lambda$$-ring structure on $$ K_n(X) $$ entirely algebraically, and this is the work that this paper completes. Let $$ K_* (X) $$ be the graded ring of all K-groups of $$X$$. Then we have:
 
-**Theorem.** *Let $$X$$ be a quasi-compact scheme. Then exterior powers of acyclic binary multicomplexes endow $$ K_{\*} (X) $$ with the structure of a $$\lambda$$-ring.*
+**Theorem.** *Let $$X$$ be a quasi-compact scheme. Then exterior powers of acyclic binary multicomplexes endow $$ K_{*} (X) $$ with the structure of a $$\lambda$$-ring.*
 
 What is new about our work is that our $$\lambda$$-operations are entirely explicit on generators, leaving the door open to new calculations.
 
-In my thesis I used the Dold&mdash;Kan correspondence to construct the required operations on binary multicomplexes and show that they induce a pre-$$\lambda$$-ring structure on $$ K_{\*} (X) $$ in the affine case.
+In my thesis I used the Dold&mdash;Kan correspondence to construct the required operations on binary multicomplexes and show that they induce a pre-$$\lambda$$-ring structure on $$ K_{*} (X) $$ in the affine case.
 With Bernhard's help I extended this to general quasi-compact schemes and proved the $$\lambda$$-ring axiom relating to products.
 Bernhard noticed that the final $$\lambda$$-ring axiom, which relates to compositions, would follow from my work in the first half of the paper if we could solve a problem related to the well-known *plethysm problem* in representation theory.
 However such problems are usually intractable and we were not optimistic.

@@ -15,4 +15,4 @@ Congratulations to Lewis and Zoe!
 
 ![Groom's party](/assets/img/posts/2016-06-25/chaps.jpg){:.center width="40%"}
 ![Bride & Groom](/assets/img/posts/2016-06-25/bride_groom.jpg){:.center width="40%"}
-![Grass Bridge](img /assets/img/posts/2016-06-25/grass_bridge.jpg){:.center width="90%"}
+![Grass Bridge](/assets/img/posts/2016-06-25/grass_bridge.jpg){:.center width="90%"}

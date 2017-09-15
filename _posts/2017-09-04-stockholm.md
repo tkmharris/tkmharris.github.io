@@ -6,7 +6,7 @@ tags: [travel]
 ---
 
 As I noted before, I've been quite lucky to be sent to interesting places for work this Summer.
-I went to Stockholm in the middle of August for a couple of days to attend the [Logic Colloquium](/assets/img/posts/2017-09-04/LiS.pdf) (good poster, no?).
+I went to Stockholm in the middle of August for a couple of days to attend the [Logic Colloquium]({{site.url}}/assets/files/LiS.pdf) (good poster, no?).
 Unlike my trip to Iceland I didn't really make a proper holiday of it&mdash;Stockholm isn't as expensive as Iceland, but it's still a Nordic and my meagre bank balance won't stretch to two of those in one year.
 But I did stay an extra night and day after the conference to do just a couple tourist things.
 

@@ -7,7 +7,7 @@ tags: [travel, maths]
 
 I'm back in Southampton after a great week in Strasbourg, where I learned a lot
 and also met some
-<a href="/assets/img/posts/2015-02-28/Strasbourg_pals.jpg" data-lightbox="strasbourg">
+<a href="{{ site.url }}/assets/img/posts/2015-02-28/Strasbourg_pals.jpg" data-lightbox="strasbourg">
 nice people</a> who I hope I'll stay in touch with.
 
 As one would expect from a masterclass on topological K-theory, a recurring

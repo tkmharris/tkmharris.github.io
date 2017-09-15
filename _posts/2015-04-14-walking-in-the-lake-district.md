@@ -19,13 +19,12 @@ Ali Campbell. We did the classic route around Helvellyn, up Striding Edge and
 down Swirral Edge, with a little diversion to Catstye Cam, which afforded the
 lovely view at the op of the post.
 
-On the last day we walked another old route from Ambleside to Patterdale,
-taking in six fells along the way. At Cofa Pike I took a photo of
-<a href="/assets/img/posts/2015-04-14/Grisedale_tarn_2015.jpg" data-lightbox="grisedale"
-data-title="Grisedale Tarn from above, 2015">Grisedale Tarn</a>
+On the last day we walked another old route from Ambleside to Patterdale, taking in six fells along the way. At Cofa Pike I took a photo of Grisedale Tarn
 <a href="/assets/img/posts/2015-04-14/Grisedale_tarn_2012.jpg" data-lightbox="grisedale"
 data-title="Grisedale Tarn shore, 2012"></a>
-from above. The last time I saw the tarn it was shrouded in mist and looked
+from above.
+![Grisedale tarn](/assets/img/posts/2015-04-14/Grisedale_tarn_2015.jpg){:.center width="90%"}
+The last time I saw the tarn it was [shrouded in mist]({{site.url}}/assets/img/posts/2015-04-14/Grisedale_tarn_2012.jpg "Grisedal tarn shore, 2012") and looked
 as though it might go on forever. I was a little disappointed to have it demystified,
 but now that I know it isn't actually magical I have a new goal:
 one day I will swim in it.
