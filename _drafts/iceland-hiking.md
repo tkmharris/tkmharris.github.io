@@ -1,9 +1,12 @@
 ---
-title: Hiking in South Iceland&colon; Laugavegur, Þórsmörk, and Fimmvörðuháls
+title: Hiking in South Iceland
+subtitle: Laugavegur, Þórsmörk, and Fimmvörðuháls
 layout: post
 date: 2017-09-06
 tags: [travel, hiking]
 ---
+
+
 
 This June, after travelling to Reykjavík for work and [a little bit of tourism](/2017/07/09/reykjavik/), I spent the better part of a week hiking in the Iceland's Southern highlands. I have some experience of mountain walking (solo and in small groups), but this was the first big trip I've done on my own. I'm happy to say that it went really well, I had a great time. The trails I walked&mdash;Laugavegur, a daywalk around Þórsmörk, and the Skógar trail over Fimmvörðuháls&mdash;are all absurdly scenic. If you're into hinking, and you have the time and resources, I really recommend taking this trip. The walks themselves are not very challenging and could be completed by anybody healthy and not too unfit.
 
@@ -27,10 +30,15 @@ Besides being the start point of the Laugavegur (and numerous other walks in the
 ![Landmannalaugar hot springs](/assets/img/posts/2017-07-13/landmannalaugar-springs.jpg){:.center width="90%"}
 I later found out that the nice even temperature you get at the Blue Lagoon is not an accident: the whole thing was purpose built as a tourist attraction. It turns out real hot springs aren't lovely bathwater rising from the ground. Instead there is a freezing cold river and a few springs of literally boiling water spewing out from underground into it. One sits on the gravelly riverbed and tries to find a position where the hot and cold mix to a bearable medium, getting periodicallly burned or too cold as the wind and currents change. Which is not to say I didn't like it, but it wasn't the luxury experience I had anticipated. I stayed in for about an hour though, huddled around the springs like penguins with the other bathers, trying to ignore the rain in our eyes. It was an experience anyway. When I got out I realised somebody had mistakenly taken my towel and I had to make my way back shivering violently in the rain. It seems a bit ridiculous to say now, but at the time I felt like I understood, physicaly for the first time, how easy it would be to die of cold.
 
-I whiled away most of the rest of the day reading a book on my ereader (*Silas Marner* &ndash; George Eliot) and exchanging nervous pleasantries with other hikers. Some were clearly old hands, but others seemed no more serious about it than me. A large guided tour group of twenty or so (mostly) Americans were in high spirits, presumably because they were paying not to have to worry (or cook their own meals; I felt very uncharitable to these people all week). As far as I could tell, there was only one other solo hiker staying in the hut, a Canadian woman caled Amy. She told me she had also been forced to delay her start, but wasn't planning to do a double stage the next day. Most of the oters were small groups of 2,3 or 4 people who seemd about as prepared as me, but less nervous (perhaps from experience). This was only my impression of the eople in the huts though; the people camping outside seemed like a much hardier folk. I admired them, but I was extremely pleased to have chosen to fork out the £50 a night for the huts rather than camp in this place. The accomodation in the hut was pretty basic&mdash;your £50 buys a matress in a dorm room for 20 and access to a shared kitchen and bathroom&mdash;but the campsite wasa world away from my experience:
+I whiled away most of the rest of the day reading a book on my ereader (*Silas Marner* &ndash; George Eliot) and exchanging nervous pleasantries with other hikers. Some were clearly old hands, but others seemed no more serious about it than me. A large guided tour group of twenty or so (mostly) Americans were in high spirits, presumably because they were paying not to have to worry (or cook their own meals; I felt very uncharitable to these people all week). As far as I could tell, there was only one other solo hiker staying in the hut, a Canadian woman caled Amy. She told me she had also been forced to delay her start, but wasn't planning to do a double stage the next day. Most of the others were small groups of 2,3 or 4 people who seemd about as prepared as me, but less nervous (perhaps from experience). This was only my impression of the people in the huts though; the people camping outside seemed like a much hardier folk. I admired them, but I was extremely pleased to have chosen to fork out the £50 a night for the huts rather than camp in this place. The accomodation in the hut was pretty basic&mdash;your £50 buys a mattress in a dorm room for 20 and access to a shared kitchen and bathroom&mdash;but the campsite was a world away from my experience:
 ![Landmannalaugar campsite](/assets/img/posts/2017-07-13/landmannalaugar-campsite.jpg){:.center width="90%"}
 
-#### Day 1: Landmannalaugar &ndash; Álftavatn
+After dinner (pasta, tinned mackerel & red pesto) I shared tea and talked with a two Germans, Anna from Freiburg and her friend Laura from Berlin. They were good Leftists (Anna is doing her PhD on critiques of capitalism) and immediately understood my conflicting feelings about Brexit and the EU.[^4] We got on well and I was sorry not to be walking with them&mdash;they were planning to set out on the Lauvegur the next day as well, but would only go so far as Hraftinnusker and so would be a day behind me for the rest.
+
+When the rain finally stopped at around 10pm, Anna and Laura went for a late evening walk (there being plenty of light at this time of year, no real night in fact, just twilight). I settled into bed, read a bit more of *Silas Marner*, and went to sleep early for a big day ahead.
+
+
+### Day 1: Landmannalaugar &ndash; Álftavatn
 
 ![Hotspot](/assets/img/posts/2017-07-13/day1-hotspot.jpg){:.center width="90%"}
 
@@ -51,7 +59,7 @@ First river crossing.
 ![Áltavatn morning](/assets/img/posts/2017-07-13/alftavatn-morning.jpg){:.center width="90%"}
 
 
-Quite spread out, so I was lucky to catch up a couple of workers just in time to get a pictture in the world's best posing spot.
+Quite spread out, so I was lucky to catch up a couple of workers just in time to get a picture in the world's best posing spot.
 ![Posing](/assets/img/posts/2017-07-13/day2-pose.jpg){:.center width="90%"}
 
 ![Sunburn](/assets/img/posts/2017-07-13/day2-sunburn.jpg){:.center width="90%"}
@@ -70,7 +78,7 @@ LINK TO CANYON PICS
 
 ![Crag](/assets/img/posts/2017-07-13/day4-crag.jpg){:.center width="90%"}
 
-just like in English, Icelandic uses *fell* to mean a small mountain. The Icelandic word for proper-sized mountains is *Fjall* (or *Fjöll* in the plural[^4]).
+just like in English, Icelandic uses *fell* to mean a small mountain. The Icelandic word for proper-sized mountains is *Fjall* (or *Fjöll* in the plural[^5]).
 
 ![Rjúpnafell](/assets/img/posts/2017-07-13/rjupnafell.jpg){:.center width="90%"}
 
@@ -82,7 +90,7 @@ I was surprised when to discover I had 3G when I got to the top, so I seized the
 
 ![Fimmvörðuháls pole](/assets/img/posts/2017-07-13/day5-pole.jpg){:.center width="90%"}
 
-Cross the last bit of snow to the hut.[^5]
+Cross the last bit of snow to the hut.[^6]
 
 ![Fimmvörðuháls snowfield](/assets/img/posts/2017-07-13/day5-snowfield.jpg){:.center width="90%"}
 
@@ -96,7 +104,7 @@ LINK TO ALBUM OF SKOGAR WATERFALLS
 [^1]: One death every two years doesn't seem so bad until you consider that no more than 10,000 people walk the Laugavegur trail every year (by my estimate), probably fewer. 20,000:1 chance of death&mdash;still not bad odds. But I had no idea how much experience the typical walker had Laugavegur, perhaps I was less prepared than average and the odds for rubes like me were much worse?
 [^2]: I decided that, in the event, I'd probably rather not actually die than risk dying of embarrassment at having to be rescued to be rescued by a big well-prepared Icelandic Real Man. Just.
 [^3]: At this time I also realised that the gloves I'd brought with me had a hole in them. Luckily in the high tourist season there's a little shop open at the campsite selling coffess, hot drinks, and extortionitly priced hiking gear. Still afraid of being underequipped in any way, I spent 3500ISK (£25!) on the only gloves they had, these rather natty mittens. ![Mittens](/assets/img/posts/2017-07-13/mittens.jpg){:.center width="50%"} I am very attached to these mittens now. I nearly ran off a cliff chasing them when they blew away in the wind. I love them and I'll take on every waliking trip I go on forever.
-[^4]: I learned this by trying to translate (with my phone) the poem *Fjöll* by [Jóhannes úr Kötlum](https://en.wikipedia.org/wiki/J%C3%B3hannes_%C3%BAr_K%C3%B6tlum), a framed print of which hung on the wall in the Þórsmörk FI hut.
-[^5]: I don't know very much about photographic composition, but I think this might be the 'best' photograph I took on the hike. The colours are nice.
+[^4]: Basically everybody non-British I meet asks me what I think of Brexit now; I'm always worried that any acknowledgement that the EU is an imperfect neoliberal institution will be taken as support for the kind of xenophobia that drove the referendum result. (I'm Remain, just not #Remain.)
+[^5]: I learned this by trying to translate (with my phone) the poem *Fjöll* by [Jóhannes úr Kötlum](https://en.wikipedia.org/wiki/J%C3%B3hannes_%C3%BAr_K%C3%B6tlum), a framed print of which hung on the wall in the Þórsmörk FI hut.
+[^6]: I don't know very much about photographic composition, but I think this might be the 'best' photograph I took on the hike. The colours are nice.
 </div>
-
