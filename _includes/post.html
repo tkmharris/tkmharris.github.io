@@ -11,8 +11,8 @@
       <span style="font-size: 60%">
         {{ post.subtitle }}
       </span>
+      {% endif %}
     </h1>
-    {% endif %}
 
     <p class="post-date heading">
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %b %Y" }}</time><br>
