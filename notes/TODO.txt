@@ -2,8 +2,8 @@ Figure out how to put picture sinline side-by-side
 
 Fix maths in ext pows post
 
+--TEST--
+
 make non-displayed images pop up
 
 remove outside link icon
-
-
