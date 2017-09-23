@@ -1,5 +1,5 @@
 ---
-title: Cambridge Half Marathon
+title: Cambridge half marathon
 layout: post
 date: 2017-03-06
 tag: running
