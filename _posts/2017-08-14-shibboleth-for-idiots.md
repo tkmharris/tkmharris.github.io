@@ -3,12 +3,13 @@ title: A shibboleth for idiots
 layout: post
 date: 2017-08-14
 tags: [internet, discourse]
+excerpt_separator: <!--more-->
 ---
 
 
 *(Prompted by the following extremely insightful comment on the* Guardian *website: ["Corybn who is the Tories' poodle on Brexshit. Yeah, he's great."](https://www.theguardian.com/uk-news/2017/aug/14/london-garden-bridge-project-scrapped-sadiq-khan#comment-103619856))*
 
-Like a lot of people (I suspect), I have a very hard time getting my own beliefs about speech norms on the internet in order. Whenever I have pinned down a behaviour that I think is always bad, somebody else can come up with a persuasive argument that in this case it is not only acceptable but right. On the whole I'm in favour of civility, but there's no denying that incivility can be effective and is sometimes justified.
+Like a lot of people (I suspect), I have a very hard time getting my own beliefs about speech norms on the internet in order. Whenever I have pinned down a behaviour that I think is always bad, somebody else can come up with a persuasive argument that in this case it is not only acceptable but right. On the whole I'm in favour of civility, but there's no denying that incivility can be effective and is sometimes justified. <!--more-->
 
 What is plain rudeness and what is the righteous frustration of the oppressed? What is a good-faith call for politeness for strategic ends and what is malign tone-policing? I don't think I'll ever be able to cleave out consistent rules to follow and I'll have to consult my conscience case by case forever. This is probably all to the good.
 
