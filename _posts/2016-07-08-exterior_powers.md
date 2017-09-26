@@ -8,11 +8,11 @@ tag: maths
 
 During the last year I have been writing a paper with Bernhard K&ouml;ck and Lenny Taelman about a new approach to exterior power operations on higher algebraic K-groups.
 Yesterday we uploaded a preprint of the article to the arXiv: [Exterior power operations on higher K-groups via binary complexes](https://arxiv.org/pdf/1607.01685v1.pdf).
-Here I'll try to explain a little bit of what it's about.</p>
+Here I'll try to explain a little bit of what it's about.
 
 If $$ X $$ is a scheme, then its Grothendieck group $$ K_0(X) $$ comes equipped with the structure of a *$$ \lambda $$-ring* induced from the exterior powers of bundles over $$ X$$.
 This structure also induces *Adams operations*, and a descending *$$\gamma$$-filtration* $$ F_i K_0(X) $$, which often yield strong results about the structure of $$ K_0(X) $$ (at least, up to torsion).
-For instance, Grothendieck proved that if $$X$$ is smooth over a field, then the quotient $$ F_i K_0(X) / F_{i+1} K_0(X)$$ is isomorphic (rationally) to the Chow group $$ \operatorname{CH}^i (X) $$. These structures are the heart of Grothendieck--Riemann--Roch theory.
+For instance, Grothendieck proved that if $$X$$ is smooth over a field, then the quotient $$ F_i K_0(X) / F_{i+1} K_0(X)$$ is isomorphic (rationally) to the Chow group $$ \mathrm{CH}^i (X) $$. These structures are the heart of Grothendieck--Riemann--Roch theory.
 
 Following Quillen's invention of higher algebraic K-groups, exterior power operations on $$ K_n(X) $$ were defined in the affine case by Hiller and Quillen, and the theory was extended to schemes by Kratzer and Soul&eacute;.[^1]
 Other approaches to the $$ \lambda$$-ring structure on $$ K_n(X) $$ have been given by Grayson and Levine.
@@ -34,7 +34,7 @@ However such problems are usually intractable and we were not optimistic.
 
 But we were lucky, and Lenny Taelman saw a way to solve our problem by calculating the Grothendieck group of the exact category of integral polynomial functors, using methods of Krause, Serre, and Green.
 
-**Theorem.** *$$K_0 \operatorname{Pol}(\mathbb{Z})$$ is isomorphic to the free $$\lambda$$-ring on one variable.*
+**Theorem.** *$$K_0 \mathrm{Pol}(\mathbb{Z})$$ is isomorphic to the free $$\lambda$$-ring on one variable.*
 
 Lenny joined us as a third author on the paper, and we had an enjoyable few days all working together on these ideas in Southampton.
 We also received some useful feedback on early drafts from Dan Grayson and Marco Schlichting.

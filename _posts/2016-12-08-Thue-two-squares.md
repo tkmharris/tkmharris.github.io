@@ -26,10 +26,10 @@ Alternatively one can give a direct proof using Wilson's theorem.
 
 ***Proof of the theorem.***  
 Let $$k$$ be the integer part of $$\sqrt{p}$$, so that $$k^{2} < p < (k+1)^{2}$$, and let $$u$$ be a square root of -1 modulo $$p$$ as above.
-We consider the values $$a - ub \mod p$$, where $$ 0 \le a,b \le k$$.
-There are $$(k+1)^{2}$$ such pairs $$(a,b)$$ and only $$p$$ congruence classes, so there exist distinct pairs $$(a_1,b_1) \ne (a_2,b_2)$$ such that $$a_1 - ub_1 \equiv a_2 - ub_2 \mod p$$.
-Then by setting $$a = a_1 - a_2$$ and $$b = b_1 - b_2$$ we have $$a - ub \equiv 0 \mod p$$ with $$a, b$$ not both zero and $$|a|, |b| \le k$$.
-Now $$a^{2} \equiv (ub)^{2} \equiv -b^{2} \mod p $$, so $$p$$ divides $$a^{2}+b^{2}$$.
+We consider the values $$a - ub \mod \quad p$$, where $$ 0 \le a,b \le k$$.
+There are $$(k+1)^{2}$$ such pairs $$(a,b)$$ and only $$p$$ congruence classes, so there exist distinct pairs $$(a_1,b_1) \ne (a_2,b_2)$$ such that $$a_1 - ub_1 \equiv a_2 - ub_2 \mod \quad p$$.
+Then by setting $$a = a_1 - a_2$$ and $$b = b_1 - b_2$$ we have $$a - ub \equiv 0 \mod \quad p$$ with $$a, b$$ not both zero and $$|a|, |b| \le k$$.
+Now $$a^{2} \equiv (ub)^{2} \equiv -b^{2} \mod \quad p $$, so $$p$$ divides $$a^{2}+b^{2}$$.
 But $$0 < a^{2} + b^{2} \le 2k^{2} < 2p$$, so $$a^{2} + b^{2} = p$$.
 **QED**.
 
