@@ -5,7 +5,9 @@ date:
 tag: books
 ---
 
-#### *The Secret History*, Donna Tartt.
+#### *The Secret History* & *The Goldfinch*, Donna Tartt.
+Tartt is an extraordinary writer I've come to a bit late. She's a master at writing the kinds of books you can live in. With *The Secret History* this is a straightforward evocation of a place and time&mdash;I've no doubt that had I read it aged 19 I would have been obsessed by it. In *The Goldfinch* it's less clear how the liveableness is acheived, but it's clearly there.
+[More?]
 
 #### *Against Everything*, Mark Greif.  
 Mark Greif's best essays from the last decade, which were mainly published in *n+1*, the highly influential literary magazine that he created. I'd never read any of his writing before. I regret that because it's really, *really* good. To have a whole book at once was a real treat. Looking back through my copy I've underlined something on almost every page. Some standouts for me were:
