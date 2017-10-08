@@ -2,7 +2,7 @@
 title: Hiking in South Iceland
 subtitle: Laugavegur, Þórsmörk, and Fimmvörðuháls
 layout: post
-date: 2017-09-06
+date: 2017-10-08
 tags: [travel, hiking]
 ---
 
