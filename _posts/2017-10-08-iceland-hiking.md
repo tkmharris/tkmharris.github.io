@@ -181,7 +181,7 @@ After walking upstream for half an hour the path rises into an uphill slog, not 
 
 ![Fimmvörðuháls pole](/assets/img/posts/2017-10-08/day5-pole.jpg){:.center width="40%"}
 
-Once the climbing is over the path passes the peaks Móði and Magni. Like the reddish gravel beneath the snow, these two craters named for a pair of [Odin's sons](https://en.wikipedia.org/wiki/M%C3%B3%C3%B0i_and_Magni), also did not exist 8 years ago. Apparently they offer fine views, I didn't think I had time to climb them so I pressed on to Fimmvörðuháls. After another very slow couple of kilometres across powdery snow, I saw the first faces of the day, a Dutch couple who had just set out towards Þórsmörk from the F.I. hut at Baldvinsskali. Crossing over one more ridge, I had a clear view across the last bit of snow to the A-shaped hut, and beyond it all the way to the sea.[^13]
+Once the climbing is over the path passes the peaks Móði and Magni. Like the reddish gravel beneath the snow, these two craters named for a pair of [Odin's sons](https://en.wikipedia.org/wiki/M%C3%B3%C3%B0i_and_Magni), also did not exist 8 years ago. Apparently they offer fine views, but I didn't think I had time to climb them so I pressed on to Fimmvörðuháls. After another very slow couple of kilometres across powdery snow, I saw the first faces of the day, a Dutch couple who had just set out towards Þórsmörk from the F.I. hut at Baldvinsskali. Crossing over one more ridge, I had a clear view across the last bit of snow to the A-shaped hut, and beyond it all the way to the sea.[^13]
 
 ![Fimmvörðuháls snowfield](/assets/img/posts/2017-10-08/day5-snowfield.jpg){:.center width="90%"}
 
