@@ -70,7 +70,5 @@ Skye is fantastically beautiful, and I was pleased to have the opportunity to
 go. I'll definitely be going back, hopefully for a holiday so I have more time
 to explore.
 
-<div style="font-size: 80%">
 [^1]: From the preface *Modules and group algebras*, J. F. Carlson.
 [^2]: *The Peat-Fire Flame*, Alasdair Alpin Macgregor.
-</div>

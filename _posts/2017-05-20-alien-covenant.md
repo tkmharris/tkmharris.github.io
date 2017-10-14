@@ -16,9 +16,6 @@ The final third of the film attempts, in places, to engage in philosophical horr
 There's a lot more that I could say, but I didn't really find this film engaging enough to take the time to say it. I'm a fan of the *Alien* franchise as a whole, and I'll keep going to see new films, but I'm starting to think that it's impossible now to do anything interesting with the concept.
 Anyway, 3 stars, some gory bits.
 
-
-<div style="font-size: 80%">
 [^1]: As [Phil Sandifer](http://www.eruditorumpress.com/blog/author/phil/) says, "I've always preferred a noble failure to a cheap success".
 [^2]: I personally rank *Resurrection* above *3*, but only because I really fancied Winona Ryder in *Resurrection* and neither film has much else going for it.
 [^3]: The main innovation of *Covenant* is that the traditional xenomorph chest-burster exits violently through the chest: the half-breeds of *Covenant* exit, extremely viscerally, from all over the place. If it's not the most violent *Alien* film overall, it's certainly the most happy to revel in gore.
-</div>

@@ -29,7 +29,5 @@ Or there's the comedic way that in the islander's version of Christianity, blood
 
 In the dream where I receive a windfall and don't have to have a job, I go back to university to study Old Norse and become the first person to do serious scholarship on unintentional comedy in the sagas. I think I'm onto a winner.  
 
-<div style="font-size: 80%">
 [^1]: Killings in medieval Orkney are perplexingly often carried out by sneaking up on the victim's house, barricading the doors, and burning it down; what's wrong with an axe?  
 [^2]: See?
-</div>
