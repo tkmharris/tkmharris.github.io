@@ -48,9 +48,6 @@ google_fonts:        Roboto+Slab:700|Noto+Sans:400,400i,700,700i
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
 # disqus_shortname:
 
-# This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; Tom Harris 2015&ndash;2017.'
-
 # Format of the permalinks
 permalink:           pretty
 
