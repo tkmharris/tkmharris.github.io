@@ -3,6 +3,7 @@ title: Stockholm
 layout: post
 date: 2017-09-04
 tags: [travel]
+image: /assets/img/posts/2017-09-04/windmill.jpg
 ---
 
 As I noted before, I've been quite lucky to be sent to interesting places for work this Summer.

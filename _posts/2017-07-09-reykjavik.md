@@ -3,6 +3,7 @@ title: Reykjavík
 layout: post
 date: 2017-07-09
 tags: [travel]
+image: /assets/img/posts/2017-07-09/leifur.jpg
 ---
 
 I'm doing a lot of travel for work this Summer, mainly to nice places that I've wanted to visit for a long time. First up was Iceland, which has been absolutely top of the list for years and I was very very lucky to finally have an opportunity to go without bankrupting myself. So while usually I stay a day or two extra after work to look around, for this one I stayed a whole extra week for my Summer holiday.  
