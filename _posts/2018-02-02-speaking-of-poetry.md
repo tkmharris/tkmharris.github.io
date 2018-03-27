@@ -3,7 +3,6 @@ title: Speaking of poetry
 layout: post
 date: 2018-02-04
 tag: poetry
-image: /assets/img/posts/2018-02-02/all-one-breath.jpg
 ---
 
 I was good at poetry in school. Which means I was good at listening to what the teacher told us the themes of the poem were and searching the text for similes and metaphors that evidenced those themes. It wasn't that my classmates and I didn't enjoy reading poems: it's that the idea of a poem as something one could enjoy didn't occur to us. We weren't aware it was a possibility the way it was for stories.

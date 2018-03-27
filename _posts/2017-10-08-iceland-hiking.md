@@ -4,6 +4,7 @@ subtitle: Laugavegur, Þórsmörk, and Fimmvörðuháls
 layout: post
 date: 2017-10-08
 tags: [travel, hiking]
+image: /assets/img/posts/2017-10-08/flag.jpg
 excerpt_separator: <!--more-->
 ---
 

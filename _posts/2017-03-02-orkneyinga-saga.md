@@ -3,6 +3,7 @@ title: Orkneyinga Saga
 layout: post
 date: 2017-03-02
 tag: books
+image: /assets/img/posts/2017-03-02/orkneyinga.jpg
 ---
 
 I bought the [Penguin Classics edition](https://www.penguin.co.uk/books/35024/orkneyinga-saga/) of *Orkneyinga Saga* a couple of years ago at the big Vikings exhibition at the the British Museum, but have only just gotten around to reading it.

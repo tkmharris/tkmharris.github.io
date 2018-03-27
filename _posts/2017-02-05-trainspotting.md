@@ -3,6 +3,7 @@ title: Trainspotting
 layout: post
 date: 2017-02-05
 tag: films
+image: /assets/img/posts/2017-02-05/begby.jpeg
 ---
 
 

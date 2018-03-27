@@ -3,6 +3,7 @@ title: Alien&#058; Covenant
 layout: post
 date: 2017-05-20
 tags: [films]
+image: /assets/img/posts/2017-05-20/neomorph.jpg
 ---
 
 In the summer of 2012 my friends and I spent a few weeks re-watching and talking about the *Alien* series, in anticipation of Ridley Scott's much hyped prequel *Prometheus*.

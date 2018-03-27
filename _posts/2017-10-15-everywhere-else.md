@@ -3,6 +3,7 @@ title: Everywhere else
 layout: post
 date: 2017-10-15
 tags: [travel]
+image: /assets/img/posts/2017-10-15/riesenrad.jpg
 ---
 
 Some bits and pieces from all the other places I went this Summer.
