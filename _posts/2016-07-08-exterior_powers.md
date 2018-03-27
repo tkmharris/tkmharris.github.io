@@ -42,5 +42,8 @@ We also received some useful feedback on early drafts from Dan Grayson and Marco
 We have some work in progress towards another paper devoted to examples of calculations with our operations.
 I hope to develop some good results in this direction in the coming year.
 
+**Update June 2017:** This paper now published in [Annals of K-Theory](https://msp.org/akt/2017/2-3/akt-v2-n3-p03-s.pdf).
+Published version [here](/assets/files/ExteriorPowersBinaryComplexes.pdf).
+
 [^1]: See: Howard L. Hiller, *$$\lambda$$-rings and algebraic K-theory*; C. Kratzer, *$$\lambda$$-structure en K-th&eacute;orie alg&eacute;brique*; Christophe Soul&eacute;, *Opérations en K-th&eacute;orie alg&eacute;brique*.  
 [^2]: Daniel R. Grayson, *Algebraic K-theory via binary complexes*.
