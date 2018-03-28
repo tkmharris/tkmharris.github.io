@@ -33,8 +33,8 @@ There's also a petting zoo of farm animals for children which I felt less ethica
 #### Food
 
 Okay, eating food isn't really a tourist thing (unless you're seeking it out), but the food was very good. My fancy work-funded hotel came with probably the best breakfast selection I've ever had. I learned that soured milk beats out both regular milk and yoghurt as a musli accompaniment. Sweden seems to have mastered the art of making the healthy stuff so appetising that you don't even want the unhealthy stuff, at least not in large amounts. I guess it helps if you like fish and rye bread, and I *really* like those things. The coffee everywhere is great too.
-![Salmon](/assets/img/posts/2017-09-04/salmon.jpg){:.center width="40%"}
-![Breakfast](/assets/img/posts/2017-09-04/breakfast.jpg){:.center width="40%"}
+![Salmon](/assets/img/posts/2017-09-04/salmon.jpg){:.center-inline width="40%"}
+![Breakfast](/assets/img/posts/2017-09-04/breakfast.jpg){:.center-inline width="40%"}
 
 
 <hr>
