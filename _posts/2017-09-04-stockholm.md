@@ -33,9 +33,10 @@ There's also a petting zoo of farm animals for children which I felt less ethica
 #### Food
 
 Okay, eating food isn't really a tourist thing (unless you're seeking it out), but the food was very good. My fancy work-funded hotel came with probably the best breakfast selection I've ever had. I learned that soured milk beats out both regular milk and yoghurt as a musli accompaniment. Sweden seems to have mastered the art of making the healthy stuff so appetising that you don't even want the unhealthy stuff, at least not in large amounts. I guess it helps if you like fish and rye bread, and I *really* like those things. The coffee everywhere is great too.
-![Salmon](/assets/img/posts/2017-09-04/salmon.jpg){:.center-inline width="49%"}
-![Breakfast](/assets/img/posts/2017-09-04/breakfast.jpg){:.center-inline width="49%"}
-####  
+
+![Y Lliwedd](/assets/img/posts/2018-03-28/y-lliwedd.jpg "View from Y Lliwedd"){:.center-inline width="49%"}
+![Sheep](/assets/img/posts/2018-03-28/sheep.jpg "They tolerate me"){:.center-inline width="49%"}
+
 
 <hr>
 Stockholm is a beautiful city. It's got a nice old town and lots of bridges, and there are plenty of parks and nice places to swim. (Although be careful: I swam across some open water between two of the islands and only avoided a clobbering by a speedboat by about 5 minutes: the bays aren't roped off just to keep children in shallow water!)
