@@ -1,16 +1,16 @@
 ---
-title: Snowdonia walking, October 2018
+title: Snowdonia walking, October 2017
 layout: post
 date: 2018-03-28
 tags: [travel, hiking]
 image: /assets/img/posts/2018-03-28/sheep-crop.jpg
 ---
 
-Browsing through some old notebooks last night I found my notes from the solo walking trip I took to Snowdonia last October. I fell into a mental health hole shortly afterwards &mdash;probably spending a week utterly alone with no connection to the outside world didn't slow the fall&mdash;and didn't do get around to writing up the trip.
+Browsing through some old notebooks last night I found my notes from the solo walking trip I took to Snowdonia last October. I fell into a mental health hole shortly afterwards &mdash;probably spending a week alone with no connection to the outside world didn't slow the fall&mdash;and didn't do get around to writing up the trip.
 
-I'm a bit far removed from the trip now to make a decent account of it, but for what it's worth here are my notes. Since I couldn't be bothered to add descriptions and pretty up the language, or insert all the usual asides, I thought I'd go one better and forgo proper sentences completely, leaving them in the almost-telegraphese I typed into my phone. I have inserted some pictures of the mountains though because they're good mountains (brent).
+I'm a bit far removed now to make a decent account of it, but for what it's worth here are my notes. Since I'm not going to add descriptions and pretty up the language, or insert all the usual asides, I thought I'd go one better, forgo proper sentences completely and leave them in the almost-telegraphese I typed into my phone. I *have* inserted some pictures of the mountains, because they're good mountains (brent).
 
-I stayed in the YHA hostel at Pen y Pass, at the foot of the Pyg and Miners tracks up Snowdon (very nice hostel, but there's no wifi and it's a mobile signal black hole). Because I can't drive and the buses stop in the late afternoon I was rather limited in where I could get to and the appalling weather also restricted the routes I could take. But in retrospect, now I'm no longer cold and wet and sad, still a pretty good trip walking-wise. Other-wise we'll pass over.
+I stayed in the dorms of the YHA hostel at Pen y Pass, the foot of the Pyg and Miners tracks up Snowdon (very nice hostel, but there's no wifi and it's a mobile signal black hole). Because I can't drive and the buses stop in the late afternoon I was rather limited in where I could get to and the appalling weather also restricted the routes I could take. But in retrospect, now I'm no longer cold and wet and sad, still a pretty good trip walking-wise. Other-wise we'll pass over.
 
 #### Day 1
 Snowdon first. Up the first part of the Pyg track, turn off onto Crib Goch route. Unsure where to go at the first bad step; follow a more experienced group for the climb. Climb up until first view of the arête. Terrifying. Good glug of summit whisky. Ease myself out, sickening drops, go very slowly. Experienced group passes, asks if I'm okay and do I want to tag along with them? Yes please. Follow over more awful precipices. Eventually realise we've gone too far to turn back alone; I definitely would have retreated earlier if it were just me. Realise I'm committed to sticking it out. Worst bit is 3 point contact climb over sheer drop, don't look down once. A few chimneys actually fun to climb (those without the drops). Goes on forever, until it doesn't. Say thanks. Easy walk to the summit. Cup of tea in the café. Back down the miner's track.
