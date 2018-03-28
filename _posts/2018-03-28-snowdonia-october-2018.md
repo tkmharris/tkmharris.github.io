@@ -24,8 +24,8 @@ Heavy wind & rain forecast: not wrong. Decide to stay low. Bus to Capel Curig. W
 #### Day 3
 Back on Snowdon. Catch bus down the road to Nantgwynant. Up first section of the Watkin path, but turn off before Gladstone Rock (site of famous speech) towards the pass at Bwlch Cwm Llan. Turn North over ridge (Allt Maenderyn). Very high winds, a couple retreating. Join Rhyd Ddu path at narrow windy ridge (Bwlch Main). Then quick finish to summit. Whisky, café. Start down the Watkin path until Bwlch Cilau, then off the path and climb steeply onto the Y Lliwedd horseshoe. Traverse ridge (easy: big drops, but one side only and you don't have to look). Slow steep descent to the reservoir afterwards. Climb on boulder in lake. Walk out on end of miners track.
 
-![Y Lliwedd](/assets/img/posts/2018-03-28/y-lliwedd.jpg "View from Y Lliwedd"){:.center-inline width="40%"}
-![Sheep](/assets/img/posts/2018-03-28/sheep.jpg "They tolerate me"){:.center-inline width="40%"}
+![Y Lliwedd](/assets/img/posts/2018-03-28/y-lliwedd.jpg "View from Y Lliwedd"){:.center-inline width="49%"}
+![Sheep](/assets/img/posts/2018-03-28/sheep.jpg "They tolerate me"){:.center-inline width="49%"}
 
 #### Day 4
 Forecast bad, no walking. Take bus to Llanberis then on to Caernarfon. Town mostly desolate, lots of mediocre cafés making a living from tourism. A good bookshop. Castle the only real attraction, but it's a good one. Learned very little about the actual working of the castle, but quite a bit about the subjugation of Wales. I didn't know that "Prince of Wales" is the historic term for the ruler of all Wales, so when the monarch makes their eldest child Prince of Wales they are continuing this subjugation symbolically. This came up since Caernarfon castle is used as the site of the Investiture of the Prince of Wales; they had some film reel of when Charles did it in 1969. Apparently 500 million people tuned in for that tawdry event. Buy new waterproof trousers in Llanberis on way back.  
