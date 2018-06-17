@@ -1,5 +1,0 @@
-I can’t stand human violence towards animals, it’s one of the few things that makes me really squeamish. 
-Is this a sign that I should quit eating animals again?
-I had this dream where I have to beat geese to death in order to eat them, which makes me feel sick. Actually they’re not geese, or quite a real animal, which explains the nightmarish quality of the dream. They come packed in the salsa packets that come with fajita kits, which they kick their way out of and extend a menacing eel head to look around first. The head & neck are like a slimy swan. The rest I can’t picture well except a) it’s a bird, and b) it’s the living equivalent of one of Tranah’s shrink-wrapped chicken feet. They’re incredibly violent without being very dangerous for an adult, in repulsed more than in danger. I have to beat them to death in the head with a wooden spoon. This repulses me so much I settle in a marginally more acceptable scheme: instead of waiting for tfw Alien-like violent exit, I snip a corner off the packets and with the same scissors sever the head that emerges to look around. I still feel sick.
-
-
