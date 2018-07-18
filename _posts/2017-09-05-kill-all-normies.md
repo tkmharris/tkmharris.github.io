@@ -1,5 +1,6 @@
 ---
-title: Kill All Normies&colon; a failed review
+title: >-
+  Kill All Normies: a failed review
 layout: post
 date: 2017-09-05
 tags: [books, internet]
