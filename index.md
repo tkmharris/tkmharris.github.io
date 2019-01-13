@@ -12,8 +12,7 @@ Hello, I'm Tom. Welcome to my home page.
 
 I live in Cambridge, UK, where I commission and edit maths books for CUP. Previously I got my PhD in maths in Southampton.
 
-Aside from maths, I like running, hiking, swimming outdoors, and
-[reading books](/books/).
+Aside from maths, I like running, hiking, left politics, and books.
 
 ### Contact
 The easiest way to get in touch with me is by email:
@@ -50,9 +49,8 @@ Here are some things I've written that I don't hate:
 
 ### Misc.
 * Some of my favourite [recipes](/recipes/).  
+* [Booklist 2015&mdash;](/books/)
 * [Wishlist](/wishlist/), if you need to get me a gift.
-* [Links](/links/) to other thinks I like.
-
 
 <!--
 ### Maths test
