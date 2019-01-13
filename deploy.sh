@@ -4,7 +4,7 @@
 set -ex
 
 # Make sure _site is up-to-date
-bundle exec jekyll build
+jekyll build
 
 # Ensure any commits are pushed to github
 git push
@@ -14,7 +14,7 @@ git checkout master
 
 # Clean the directory, so it will only contain generated files, CNAME and git
 # files
-find . -maxdepth 1 -not -name CNAME -a -not -name '.git*' -a -not -name _site -a -not -name . -exec rm -r {} \;
+find . -maxdepth 1 -not -name CNAME -a -not -name '.git*' -a -not -name '.htaccess' -a -not -name _site -a -not -name . -exec rm -r {} \;
 
 # Copy the generated files into the root directory
 cp -r _site/* .

@@ -1,9 +1,8 @@
-Figure out how to put picture sinline side-by-side
 
-Fix maths in ext pows post
+Get MathJax working.
 
---TEST--
+Write something good for the writing section
 
-make non-displayed images pop up
+Make dropdown menus like this: https://www.maths.ed.ac.uk/~cbarwick/
 
-remove outside link icon
+Make a nice geometric pattern for the right side.

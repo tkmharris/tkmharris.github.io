@@ -1,12 +1,22 @@
----
-layout: base
----
+<!doctype html>
+<html>
 
-<article class="page" role="article">
-  <header>
-    <h1 class="page-title">{{ page.title }}</h1>
-    {% include message.html text=page.description %}
-  </header>
+{% include page-head.html %}
 
-  {{ content }}
-</article>
+<body>
+  <div id="wrapper">
+
+    <div id="header">
+      {% include page-header.html %}
+    </div>
+
+    <div id="content">
+      {{ content }}
+    </div>
+
+    <div id="footer">
+      {% include page-footer.html %}
+    </div>
+
+  </div>
+</body>
