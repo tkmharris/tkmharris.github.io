@@ -1,0 +1,101 @@
+ @import url('https://fonts.googleapis.com/css?family=Cabin|Rosario');
+
+body {
+  margin:35px;
+  padding:0;
+	height:100%;
+  line-height:120%;
+  font-family: 'Cabin', sans-serif;
+  font-size: 16px;
+  color:828081;
+  background-color:#F7F9EB;
+
+}
+
+#wrappper {
+  min-height:100%;
+	position:relative;
+}
+
+#header {
+  padding:10px;
+}
+
+#content {
+  padding-bottom:50px; /* Height of the footer element */
+}
+
+#footer {
+	width:100%;
+	height:20px;
+	position:relative;
+	bottom:0;
+	left:0;
+  font-size:12px;
+}
+
+h1 {
+  font-family: 'Rosario', sans-serif;
+  font-size: 56px;
+  color:#64b38a;
+}
+
+h2 {
+  font-family: 'Rosario', sans-serif;
+  font-size: 44px;
+  color:#64b38a;
+}
+
+h3 {
+  font-size: 26px;
+  padding-top: 10px;
+}
+
+p {
+  padding-left: 10px;
+  max-width: 70%;
+}
+
+
+div.c1 {
+  display:inline;
+  float:right;
+  margin-top:5px;
+  margin-right:10px;
+  margin-bottom:5px;
+  margin-left:10px
+}
+
+a:link {
+  text-decoration:none;
+  font-weight:bold;
+  color:#64b38a;
+}
+
+a:visited {
+  text-decoration:none;
+  color:#1e392a;
+}
+
+a:hover {
+  text-decoration:underline;
+  color:#3cc47c;
+}
+
+a:active {
+  text-decoration:underline;
+  color:#c13f6f;
+}
+
+a.specialeffects {
+  color: transparent;
+  font-weight: bold;
+  font-size: 2rem;
+  text-decoration:none;
+}
+
+a.specialeffects:hover {
+  color: #3cc47c;
+  font-weight: bold;
+  text-decoration:none;
+}
