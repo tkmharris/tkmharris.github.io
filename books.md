@@ -9,6 +9,11 @@ Re-reads are marked with an asterisk (&lowast;).
 Works read in translation are marked with a dagger (&dagger;).
 Things I read for book club are marked with a tilde (&#126;)
 
+### <a name="2019"></a>2019
+
+1. **Bridget Jones's Diary**, Helen Fielding.  
+Mixed feelings on this one. On the one hand, richly observed & v. funny. On the other, I don't think I've ever read a more Tory book.
+
 ### <a name="2018"></a>2018
 
 1. **Longitude**, Dava Sobel.  
