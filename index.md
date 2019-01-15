@@ -36,8 +36,8 @@ in *Homology, Homotopy and Applications **17** (2015), no. 1, 267&mdash;280.*
 (with Bernhard K&ouml;ck and Lenny Taelman)  
 in *Annals of K-Theory 2&ndash;3 (2017), 409&mdash;450.*
 
-3. [Two Formulae for Exterior power operations on higher *K*-groups](https://arxiv.org/abs/1901.04254)
-(with Bernhard K&ouml;ck)
+3. [Two Formulae for Exterior power operations on higher *K*-groups](https://arxiv.org/abs/1901.04254)  
+(with Bernhard K&ouml;ck)  
 preprint.
 
 #### Other
