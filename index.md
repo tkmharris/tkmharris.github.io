@@ -8,7 +8,7 @@ title: Tom Harris
   <img border="0" height="320" src="/assets/images/tomharris.png">
 </div>
 
-Hello, I'm Tom. Welcome to my home page.
+Hello, I'm Tom.
 
 I live in Cambridge, UK, where I commission and edit maths books for CUP. Previously I got my PhD in maths in Southampton.
 
@@ -35,6 +35,10 @@ in *Homology, Homotopy and Applications **17** (2015), no. 1, 267&mdash;280.*
 2. [Exterior power operations on higher K-groups via binary complexes](/assets/files/ExteriorPowersBinaryComplexes.pdf)  
 (with Bernhard K&ouml;ck and Lenny Taelman)  
 in *Annals of K-Theory 2&ndash;3 (2017), 409&mdash;450.*
+
+3. [Two Formulae for Exterior power operations on higher *K*-groups](https://arxiv.org/abs/1901.04254)
+(with Bernhard K&ouml;ck)
+preprint.
 
 #### Other
 * Notes on the [Pisano semiperiod](/assets/files/pisano_semiperiod.pdf).
