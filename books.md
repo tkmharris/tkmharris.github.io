@@ -14,6 +14,22 @@ Things I read for book club are marked with a tilde (&#126;)
 1. **Bridget Jones's Diary**, Helen Fielding.  
 Mixed feelings on this one. On the one hand, richly observed & v. funny. On the other, I don't think I've ever read a more Tory book.
 
+2. **Gef! The Strange Tale of an Extra-Special Talking Mongoose**, Christopher Josiffe.  
+Truly weird and oddly funny. I'm delighted this book exists but wish it were about half as long.
+
+3. **Convenience Store Woman**, Sayaka Murata. &dagger; (Japanese)  
+Darkly funny.
+
+4. **Levels of Life**, Julian Barnes.  
+Deeply moving. A marvelous book.
+
+5. **Faceless Killers**, Henning Mankell. &dagger; (Swedish)  
+Solid crime. Unexpectedly untwisty.
+
+6. **The Talented Mr Ripley**, Patricia Highsmith.  
+Even before his murderous turn, Ripley is a fantastic portrait of insecurity.  
+
+
 ### <a name="2018"></a>2018
 
 1. **Longitude**, Dava Sobel.  
