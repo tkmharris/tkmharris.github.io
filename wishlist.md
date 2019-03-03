@@ -14,16 +14,14 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 * **The Adulterants**, Joe Dunthorne.  
 * **The Age of Wonder**, Richard Holmes.  
 * **Another Kyoto**, Alex Kerr.  
-* **The Assembly of the Severed Head**, Hugh Lupton.  
-* **Authentocrats**, Joe Kennedy.  
 * **At the Existentialist Caf&eacute;**, Sarah Bakewell.  
+* **Authentocrats**, Joe Kennedy.  
+* **Bad Blood: secrets and lies in a Silicon Valley startup**, John Carreyrou.  
 * **A Brief History of Neoliberalism**, David Harvey.  
 * **Capitalist Realism**, Mark Fisher.  
-* **The Confessions (Oxford World's Classics)**, Saint Augustine.  
 * **Crudo**, Olivia Laing.  
 * **The Dispossessed**, Ursula K. LeGuin.  
 * **Down Girl: the logic of misogyny**, Kate Mannes.  
-* **Drive Your Plow Over the Bones of the Dead**, Olga Tokarczuk.  
 * **The Drowned World**, J. G. Ballard.  
 * **The Earth Dies Streaming**, A. S. Hamrah.  
 * **The Ecology of Wisdom**, Arne Naess.  
@@ -31,13 +29,13 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 * **Evil Men**, James Dawes.  
 * **Exact Thinking in Demented Times: The Vienna Circle and the Epic Quest for the Foundations of Science**, Karl Sigmund.  
 * **The Examined Life**, Stephen Grosz.  
+* **The First American: the life and times of Benjamin Franklin**, H. W. Brands.  
 * **The First Bad Man**, Miranda July.  
 * **Feral**, George Monbiot.  
 * **Footnotes**, Vybarr Cregan-Reid.
 * **Fred**, Posy Simmonds.  
 * **From Frege to Gödel: A Source Book in Mathematical Logic**, Jean van Heijenoort.  
 * **Future Sex**, Emily Witt.  
-* **Galileo's Middle Finger**, Alice Dreger.  
 * **The Golden Notebook**, Doris Lessing.  
 * **Growth of the Soil**, Knut Hamsun.  
 * **Hotel Silence**, Auður Ava Ólafsdóttir.  
@@ -54,7 +52,6 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 * **Joe Gould's Secret**, Joseph Mitchell.  
 * **The Journals Of A White Sea Wolf**, Mariusz Wilk.  
 * **K-Punk: The Collected and Unpublished Writings of Mark Fisher**, Mark Fisher.  
-* **The Kalevala** (Oxford World's Classics).  
 * **Leaving the Planet by Space Elevator**, Phillip Ragan & Bradley Edwards.  
 * **Lint**, Steve Aylett.  
 * **The Longest Journey**, E. M. Forster.  
@@ -66,6 +63,7 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 * **Naming Infinity**, Loren Graham & Jean-Michel Kantor.  
 * **The New Dark Age: technology and the end of the future**, James Bridle.  
 * **The New Testament: A Translation**, David Bentley Hart.  
+* **The New York Trilogy**, Paul Auster.  
 * **The Nine Billion Names of God**, Arthur C. Clarke.  
 * **Njal's Saga (Penguin Classics)**, Anonymous.  
 * **The Norton Introduction to Philosophy**, Gideon Rosen, Alex Byrne, Joshua Cohen & Seana Shiffrin *(Eds.)*.  
@@ -101,6 +99,6 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 * **The Unconsoled**, Kazuo Ishiguro.  
 * **Utopia for Realists**, Rutger Bergman.  
 * **Watching the English**, Kate Fox.  
-* **What Art Is**, Athur C. Danto.  
+* **Why Women Have Better Sex Under Socialism**, Kristen Ghodsee.  
 * **The Wild Places**, Robert Macfarlane.  
 * **World Without Mind: the existential threat of big tech**, Franklin Foer.  
