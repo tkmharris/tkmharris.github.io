@@ -10,9 +10,10 @@ title: Tom Harris
 
 Hello, I'm Tom.
 
-I live in Cambridge, UK, where I commission and edit maths books for CUP. Previously I got my PhD in maths in Southampton.
+I live in Cambridge, UK, where I commission and edit maths books for CUP.
+Previously I got my PhD in maths in Southampton.
 
-Aside from maths, I like running, hiking, left politics, and books.
+Aside from maths, I like running, hiking, arts, and books.
 
 ### Contact
 The easiest way to get in touch with me is by email:
@@ -38,7 +39,7 @@ in *Annals of K-Theory 2&ndash;3 (2017), 409&mdash;450.*
 
 3. [Two Formulae for Exterior power operations on higher *K*-groups](https://arxiv.org/abs/1901.04254)  
 (with Bernhard K&ouml;ck)  
-preprint.
+to appear in *Journal of Pure and Applied Algebra*.
 
 #### Other
 * Notes on the [Pisano semiperiod](/assets/files/pisano_semiperiod.pdf).
@@ -52,7 +53,7 @@ Here are some things I've written that I don't hate:
 -->
 
 ### Misc.
-* Some of my favourite [recipes](/recipes/).  
+* Some [recipes](/recipes/).  
 * [Booklist 2015&mdash;](/books/)
 * [Wishlist](/wishlist/), if you need to get me a gift.
 
