@@ -32,10 +32,12 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 * **The First American: the life and times of Benjamin Franklin**, H. W. Brands.  
 * **The First Bad Man**, Miranda July.  
 * **Feral**, George Monbiot.  
+* **Figuring**, Maria Popova.  
 * **Footnotes**, Vybarr Cregan-Reid.
 * **Fred**, Posy Simmonds.  
 * **From Frege to Gödel: A Source Book in Mathematical Logic**, Jean van Heijenoort.  
 * **Future Sex**, Emily Witt.  
+* **The Genius in my Basement**, Alexander Masters.  
 * **The Golden Notebook**, Doris Lessing.  
 * **Growth of the Soil**, Knut Hamsun.  
 * **Hotel Silence**, Auður Ava Ólafsdóttir.  
@@ -71,6 +73,7 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 * **On Quaternions and Octonions**, John H. Conway & Derek A. Smith.  
 * **On Writing**, Stephen King.  
 * **Once They Were Hats**, Frances Backhouse.  
+* **Ordinary Differential Equations (MIT Press)**, V. I. Arnold.  
 * **Out of Sheer Rage**, Geoff Dyer.  
 * **p-adic Numbers: an Introduction**, Fernando Quadros Gouvea.  
 * **Perdido Street Station**, China Miéville.  
@@ -81,7 +84,6 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 * **RISINGTIDEFALLINGSTAR**, Phillip Hoare.  
 * **Resevoir 13**, John McGregor.  
 * **Sapiens: A Brief History of Humankind**, Yuval Noah Harari.  
-* **Selections from the Prison Notebooks of Antonio Gramsci**, Antonio Gramsci.  
 * **Set Adrift Upon the World**, James Hunter.  
 * **Sex at Dawn**, Christopher Ryan and Cacilda Jethá.  
 * **The Sickness Unto Death**, S&#248;ren Kierkegaard.  
