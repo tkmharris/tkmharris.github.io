@@ -36,7 +36,10 @@ The second volume in Smith's ongoing state of the nation project. Effective, but
 I can see why it's popular, but that's rather little content.
 
 9. **Autumn**, Ali Smith.  
-Skippingback to Smith's first volume. Much less engaging for me.
+Skipping back to Smith's first volume. Much less engaging for me.
+
+10. **The Assembly of the Severed Head**, Hugh Lupton.  
+A wonderful re-telling of the Mabinogion, the earliest remnants of pre-Christian Welsh mythology, integrating the oral and written traditions.
 
 
 ### <a name="2018"></a>2018
@@ -136,7 +139,7 @@ Extremely funny. Best taken sparingly, like sweets.
 34. **Letters written in Sweden, Norway, and Denmark**, Mary Wollstonecraft.  
 
 35. **Normal People**, Sally Rooney. &#126;  
-Excellent. Has some of the best description of depression (as I've experienced it) I've ever read. 
+Excellent. Has some of the best description of depression (as I've experienced it) I've ever read.
 
 36. **Closing the Gap**, Vicky Neale.  
 Pop maths: background on the twin prime conjecture interwoven with the story of the advances of Zhang, Maynbard, Tao and the polymath group. Started well but petered out a little in my opinion.
