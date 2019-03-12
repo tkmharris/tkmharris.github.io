@@ -39,7 +39,7 @@ I can see why it's popular, but that's rather little content.
 Skipping back to Smith's first volume. Much less engaging for me.
 
 10. **The Assembly of the Severed Head**, Hugh Lupton.  
-A wonderful re-telling of the Mabinogion, the earliest remnants of pre-Christian Welsh mythology, integrating the oral and written traditions.
+A wonderful re-telling of the Mabinogion, the earliest remnants of pre-Christian Welsh folklore, integrating the oral and written traditions.
 
 
 ### <a name="2018"></a>2018
