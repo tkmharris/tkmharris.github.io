@@ -32,7 +32,7 @@ Even before his murderous turn, Ripley is a fantastic portrait of insecurity.
 7. **Winter**, Ali Smith. &#126;  
 The second volume in Smith's ongoing state of the nation project. Effective, but relies on the same tropes as earlier Smith books.
 
-8. **Seven Brief Lessons on Physics**, Carlo Rovelli.  
+8. **Seven Brief Lessons on Physics**, Carlo Rovelli. &dagger; (Italian)  
 I can see why it's popular, but that's rather little content.
 
 9. **Autumn**, Ali Smith.  
