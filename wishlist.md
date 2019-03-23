@@ -18,6 +18,7 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 * **Authentocrats**, Joe Kennedy.  
 * **Bad Blood: secrets and lies in a Silicon Valley startup**, John Carreyrou.  
 * **A Brief History of Neoliberalism**, David Harvey.  
+* **Brilliant, Brilliant, Brilliant Brilliant Brilliant**, Joe Golby.  
 * **Capitalist Realism**, Mark Fisher.  
 * **Crudo**, Olivia Laing.  
 * **The Dispossessed**, Ursula K. LeGuin.  
