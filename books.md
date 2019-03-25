@@ -38,7 +38,10 @@ I can see why it's popular, but that's rather little content.
 9. **Autumn**, Ali Smith.  
 Skipping back to Smith's first volume. Much less engaging for me.
 
-10. **The Assembly of the Severed Head**, Hugh Lupton.  
+10. **The Birth of Korean Cool**, Euny Hong.  
+I don't know how high my expectations ought to have been, but this was disappointing.
+
+11. **The Assembly of the Severed Head**, Hugh Lupton.  
 A wonderful re-telling of the Mabinogion, the earliest remnants of pre-Christian Welsh folklore, integrating the oral and written traditions.
 
 
