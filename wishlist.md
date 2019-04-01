@@ -11,7 +11,6 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 
 * **Ælfred’s Britain: War and Peace in the Viking Age**, Max Adams.  
 * **The ABCs of Socialism**, Bhaskar Sunkara.  
-* **The Adulterants**, Joe Dunthorne.  
 * **The Age of Wonder**, Richard Holmes.  
 * **Another Kyoto**, Alex Kerr.  
 * **At the Existentialist Caf&eacute;**, Sarah Bakewell.  
@@ -105,3 +104,4 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 * **Why Women Have Better Sex Under Socialism**, Kristen Ghodsee.  
 * **The Wild Places**, Robert Macfarlane.  
 * **World Without Mind: the existential threat of big tech**, Franklin Foer.  
+* **You Too Can Have a Body Like Mine**, Alexandra Kleeman.  
