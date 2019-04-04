@@ -41,7 +41,13 @@ Skipping back to Smith's first volume. Much less engaging for me.
 10. **The Birth of Korean Cool**, Euny Hong.  
 I don't know how high my expectations ought to have been, but this was disappointing.
 
-11. **The Assembly of the Severed Head**, Hugh Lupton.  
+11. **Hello World**, Hannah Fry.  
+Very light on the maths, but makes the case for/against algorithmic decisions in society clearly and fairly.  
+
+12. **The Adulterants**, Joe Dunthorne.  
+As noted in the LRB, Dunthorne is one of the rare really talented writers whose preferred mode is all-out comedy. Arch and cutting.
+
+13. **The Assembly of the Severed Head**, Hugh Lupton.  
 A wonderful re-telling of the Mabinogion, the earliest remnants of pre-Christian Welsh folklore, integrating the oral and written traditions.
 
 

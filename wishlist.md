@@ -15,7 +15,6 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 * **Another Kyoto**, Alex Kerr.  
 * **At the Existentialist Caf&eacute;**, Sarah Bakewell.  
 * **Authentocrats**, Joe Kennedy.  
-* **Bad Blood: secrets and lies in a Silicon Valley startup**, John Carreyrou.  
 * **A Brief History of Neoliberalism**, David Harvey.  
 * **Brilliant, Brilliant, Brilliant Brilliant Brilliant**, Joe Golby.  
 * **Capitalist Realism**, Mark Fisher.  
@@ -71,9 +70,9 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 * **The Norton Introduction to Philosophy**, Gideon Rosen, Alex Byrne, Joshua Cohen & Seana Shiffrin *(Eds.)*.  
 * **On Murder Considered as One of the Fine Arts**, Thomas de Quincey.  
 * **On Quaternions and Octonions**, John H. Conway & Derek A. Smith.  
-* **On Writing**, Stephen King.  
 * **Once They Were Hats**, Frances Backhouse.  
 * **Ordinary Differential Equations (MIT Press)**, V. I. Arnold.  
+* **Other Worlds**, Christopher G. Wright.
 * **Out of Sheer Rage**, Geoff Dyer.  
 * **p-adic Numbers: an Introduction**, Fernando Quadros Gouvea.  
 * **Perdido Street Station**, China Miéville.  
