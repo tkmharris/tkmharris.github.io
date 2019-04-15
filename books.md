@@ -47,7 +47,13 @@ Very light on the maths, but makes the case for/against algorithmic decisions in
 12. **The Adulterants**, Joe Dunthorne.  
 As noted in the LRB, Dunthorne is one of the rare really talented writers whose preferred mode is all-out comedy. Arch and cutting.
 
-13. **The Assembly of the Severed Head**, Hugh Lupton.  
+13. **The Broom of the System**, David Foster Wallace.  
+Unsatisfying globally, but a real joy line-by-line.  
+
+14. **Bad Blood**, John Carreyrou.  
+The story of the rise and collapse of Theranos. Elizabeth Holmes's amorality seemed less interesting to me than that of the culture she embedded herself in.  
+
+15. **The Assembly of the Severed Head**, Hugh Lupton.  
 A wonderful re-telling of the Mabinogion, the earliest remnants of pre-Christian Welsh folklore, integrating the oral and written traditions.
 
 
