@@ -13,6 +13,7 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 * **The ABCs of Socialism**, Bhaskar Sunkara.  
 * **The Age of Wonder**, Richard Holmes.  
 * **Another Kyoto**, Alex Kerr.  
+* **The Ashtray: (Or the Man Who Denied Reality)**, Errol Morris.  
 * **At the Existentialist Caf&eacute;**, Sarah Bakewell.  
 * **Authentocrats**, Joe Kennedy.  
 * **A Brief History of Neoliberalism**, David Harvey.  
@@ -37,6 +38,7 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 * **From Frege to Gödel: A Source Book in Mathematical Logic**, Jean van Heijenoort.  
 * **Future Sex**, Emily Witt.  
 * **The Genius in my Basement**, Alexander Masters.  
+* **Geometry Snacks**, Ed Southall and Vincent Pantaloni.  
 * **The Golden Notebook**, Doris Lessing.  
 * **Growth of the Soil**, Knut Hamsun.  
 * **Hotel Silence**, Auður Ava Ólafsdóttir.  
