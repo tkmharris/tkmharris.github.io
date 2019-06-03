@@ -56,6 +56,22 @@ The story of the rise and collapse of Theranos. Elizabeth Holmes's amorality see
 15. **The Assembly of the Severed Head**, Hugh Lupton.  
 A wonderful re-telling of the Mabinogion, the earliest remnants of pre-Christian Welsh folklore, integrating the oral and written traditions.
 
+16. **Craze: gin and debauchery in an age of reason**, Jessica Warner.  
+Interesting but rather repetitive.
+
+17. **Drive Your Plow Over the Bones of the Dead**, Olga Tokarczuk. &dagger; (Polish)  
+Really good writing. EU-funded too.
+
+18. **The Death of Ivan Ilych and other stories**, Leo Tolstoy. &dagger; (Russian)   
+Excellent, obviously.
+
+19. **Brilliant, Brilliant, Brilliant Brilliant Brilliant.**, Joel Golby.  
+Uneven. A couple of good essays but mostly extended *Vice* pieces. "Post-lad" gets tiresome really quickly.
+
+20. **The Trial**, Franz Kafka. &dagger; (German)  
+Like everyone else, I didn't get Kafka at all until I turned thirty.
+
+
 
 ### <a name="2018"></a>2018
 

@@ -17,7 +17,6 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 * **At the Existentialist Caf&eacute;**, Sarah Bakewell.  
 * **Authentocrats**, Joe Kennedy.  
 * **A Brief History of Neoliberalism**, David Harvey.  
-* **Brilliant, Brilliant, Brilliant Brilliant Brilliant**, Joe Golby.  
 * **Capitalist Realism**, Mark Fisher.  
 * **Crudo**, Olivia Laing.  
 * **The Dispossessed**, Ursula K. LeGuin.  
@@ -62,6 +61,7 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 * **The Love Affairs of Nathaniel P.**, Adelle Waldman.  
 * **The Luminaries**, Eleanor Catton.  
 * **The Magicians**, Lev Grossman.  
+* **The Man Who Was Thursday**, G. K. Chesterton.  
 * **More Trees to Climb**, Ben Moor.  
 * **Naming Infinity**, Loren Graham & Jean-Michel Kantor.  
 * **The New Dark Age: technology and the end of the future**, James Bridle.  
