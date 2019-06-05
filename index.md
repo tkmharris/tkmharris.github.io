@@ -35,11 +35,11 @@ in *Homology, Homotopy and Applications **17** (2015), no. 1, 267&mdash;280.*
 
 2. [Exterior power operations on higher K-groups via binary complexes](/assets/files/ExteriorPowersBinaryComplexes.pdf)  
 (with Bernhard K&ouml;ck and Lenny Taelman)  
-in *Annals of K-Theory 2&ndash;3 (2017), 409&mdash;450.*
+in *Annals of K-Theory **2** (2017), no. 3, 409&mdash;450.*
 
-3. [Two Formulae for Exterior power operations on higher *K*-groups](https://arxiv.org/abs/1901.04254)  
-(with Bernhard K&ouml;ck)  
-to appear in *Journal of Pure and Applied Algebra*.
+3. [Two Formulae for Exterior power operations on higher *K*-groups](/assets/files/exterior-calculations-paper.pdf)  
+(with Bernhard K&ouml;ck)
+in *Journal of Pure and Applied Algebra **223** (2019), no. 11, 4925&mdash;4936.*
 
 #### Other
 * Notes on the [Pisano semiperiod](/assets/files/pisano_semiperiod.pdf).
