@@ -18,28 +18,22 @@ Mixed feelings on this one. On the one hand, richly observed & v. funny. On the 
 Truly weird and oddly funny. I'm delighted this book exists but wish it were about half as long.
 
 3. **Convenience Store Woman**, Sayaka Murata. &dagger; (Japanese)  
-Darkly funny.
 
 4. **Levels of Life**, Julian Barnes.  
-Deeply moving. A marvelous book.
 
 5. **Faceless Killers**, Henning Mankell. &dagger; (Swedish)  
-Solid crime. Unexpectedly untwisty.
 
 6. **The Talented Mr Ripley**, Patricia Highsmith.  
-Even before his murderous turn, Ripley is a fantastic portrait of insecurity.  
 
 7. **Winter**, Ali Smith. &#126;  
 The second volume in Smith's ongoing state of the nation project. Effective, but relies on the same tropes as earlier Smith books.
 
 8. **Seven Brief Lessons on Physics**, Carlo Rovelli. &dagger; (Italian)  
-I can see why it's popular, but that's rather little content.
+I can see why it's popular, but there's rather little content.
 
 9. **Autumn**, Ali Smith.  
-Skipping back to Smith's first volume. Much less engaging for me.
 
 10. **The Birth of Korean Cool**, Euny Hong.  
-I don't know how high my expectations ought to have been, but this was disappointing.
 
 11. **Hello World**, Hannah Fry.  
 Very light on the maths, but makes the case for/against algorithmic decisions in society clearly and fairly.  
@@ -57,19 +51,39 @@ The story of the rise and collapse of Theranos. Elizabeth Holmes's amorality see
 A wonderful re-telling of the Mabinogion, the earliest remnants of pre-Christian Welsh folklore, integrating the oral and written traditions.
 
 16. **Craze: gin and debauchery in an age of reason**, Jessica Warner.  
-Interesting but rather repetitive.
 
 17. **Drive Your Plow Over the Bones of the Dead**, Olga Tokarczuk. &dagger; (Polish)  
-Really good writing. EU-funded too.
 
 18. **The Death of Ivan Ilych and other stories**, Leo Tolstoy. &dagger; (Russian)   
-Excellent, obviously.
 
 19. **Brilliant, Brilliant, Brilliant Brilliant Brilliant.**, Joel Golby.  
 Uneven. A couple of good essays but mostly extended *Vice* pieces. "Post-lad" gets tiresome really quickly.
 
 20. **The Trial**, Franz Kafka. &dagger; (German)  
-Like everyone else, I didn't get Kafka at all until I turned thirty.
+
+21. **Why Women Have Better Sex Under Socialism: and other arguments for economic independence**, Kristen Ghodsee.  
+
+22. **So Much Longing In So Little Space: the art of Edvard Munch**, Karl Ove Knausg&#229;rd. &dagger; (Norwegian)  
+
+23. **The Letters of Abélard and Héloïse**. &dagger; (French)  
+
+24. **My Year of Rest and Relaxation**, Ottessa Moshfegh.  
+Much better than *Eileen*.
+
+25. **Underland**, Robert MacFarlane.  
+
+26. **Early Work**, Andrew Martin.  
+
+27. **The Weil Conjectures: on math and the pursuit of the unknown**, Karen Olsson.  
+
+28. **Lost Japan**, Alex Kerr, &dagger; (Japanese)
+
+29. **Proofs and Refutations**, Imre Lakatos.  
+
+30. **Stories of Your Life and Others**, Ted Chiang.  
+
+31. **The AI Does Not Hate You**, Tom Chivers.  
+
 
 
 
@@ -81,7 +95,6 @@ Like everyone else, I didn't get Kafka at all until I turned thirty.
 I read this to see if I agree with [Charles' review](/assets/files/a-doubters-almanac-LMS-review.pdf). I don't.  
 
 3. **Swing Time**, Zadie Smith. &#126;  
-The first book at the book club I started with some work pals. I thought it was great, others disagreed. Which is what you want from a book club I suppose.  
 
 4. **Doctor Who and the Krikkitmen**, Douglas Adams & James Goss.  
 A long-lost Fourth Doctor & Romana script that Adams later recycled bits of into *Life, the Universe and Everything*, completed to a full novel by Goss. Bonkers, naturally.  
@@ -92,36 +105,35 @@ Either a thoughtful reflection on masculinity disguised as a celebrity hardback,
 6. **On the Natural History of Destruction**, W. G. Sebald.  
 
 7. **The Vegetarian**, Han Kang. &#126;, &dagger; (Korean)  
-Remarkably readable short novel on madness, hunger and familial violence. Visceral, sensuous and disturbing; I really liked it.
+Visceral, sensuous and disturbing; I really liked it.
 
 8. **Educated**, Tara Westover.  
-Memoir of Westover's journey from Idaho survivalist Mormon school-less childhood to Cambridge PhD. I don't think the author and I would agree who the villain of her story is.
 
 9. **If I'm Scared We Can't Win: Penguin modern poets 1**, Emily Berry, Anne Carson & Sophie Collins.  
 Lots of good stuff in here, but Emily Berry's work in particular is great.
 
 10. **The Bend of the World**, Jacob Bacharach.  
 tired: reading the *Chapo* book;
-wired: reading other  books because their authors were funny on *Chapo*.
+wired: reading other books because their authors were funny on *Chapo*.
 
 11. **Eileen**, Ottessa Moshfegh. &#126;  
 
 12. **Politics and the English Language**, George Orwell.
-More of a pamphet than a book.
+More of a pamphlet than a book.
 
 13. **Sight**, Jessie Greengrass.  
-Greengrass's first novel lives up to expectations. Some words [here](http://tkmh.space/2018/04/25/sight-jessie-greengrass/).  
+Greengrass's first novel lives up to expectations.
 
 14. **H(A)PPY**, Nicola Barker.  &#126;  
-I really enjoyed the first half of this but it lost me after a while. More [here](http://tkmh.space/2018/05/27/h%28a%29ppy/).
+Would have made a better novella in my opinion.
 
 15. **Injection #1**, W. Ellis, D. Shalvey & J. Bellaire.  
 
 16. **Possession**, A. S. Byatt.  
-It inspired me to finally buy the letters of Abelard and Heloise. We'll see if I actually read them.
+It inspired me to buy the letters of Abelard and Heloise.
 
 17. **On Chesil Beach**, Ian McEwan. &lowast;  
-My favourite McEwan. Re-read before going to see the film.
+Re-read before going to see the film.
 
 18. **Shutter Island**, Dennis Lehane.  
 
@@ -129,13 +141,13 @@ My favourite McEwan. Re-read before going to see the film.
 The book of the Nine Dots prize-winning essay. Didn't deliver on its promise in my opinion.
 
 20. **Philosophy of Mathematics**, Øystein Linnebo.  
-Very clear and readable introduction.
+Clear and readable introduction.
 
 21. **The Island of Doctor Moreau**, H. G. Wells. &#126;  
 *Crash Bandicoot* rip-off.  
 
 22. **The Idiot**, Elif Batuman.  
-Excellent. Funny and wise.
+Funny and wise.
 
 23. **Ada Lovelace: the making of a computer scientist**, Christopher Hollings, Ursula Martin, Adrian Rice.  
 Bought at Topping & Co. in St Andrews during the BMC. Ursula was a good sport and signed my copy.
@@ -147,7 +159,6 @@ Poolside fodder.
 Essays by one of the *The Relentless Picnic* guys. Lunchtime reading for the past month.
 
 26. **Essays on the Theory of Numbers**, Richard Dedekind. &dagger; (German)  
-Where modern maths began.
 
 27. **Dracula**, Bram Stoker. &#126;  
 
@@ -156,51 +167,45 @@ Where modern maths began.
 29. **Men Without Women**, Haruki Murakami. &dagger; (Japanese)  
 
 30. **The Glass Bead Game**, Hermann Hesse. &dagger; (German)  
-Fantastic, going on my all-time favourites list.
+Going on my all-time favourites list.
 
 31. **Lullaby**, Leïla Slimani. &dagger; (French) &#126;  
-Very readable. Does its thing well.
 
 32.  **Game Theory**, Thomas Jones.  
 Amusing, but hardly the cutting satire it was reviewed as.
 
 33. **Let's Explore Diabetes With Owls**, David Sedaris.  
-Extremely funny. Best taken sparingly, like sweets.
+Best taken sparingly, like sweets.
 
 34. **Letters written in Sweden, Norway, and Denmark**, Mary Wollstonecraft.  
 
 35. **Normal People**, Sally Rooney. &#126;  
-Excellent. Has some of the best description of depression (as I've experienced it) I've ever read.
 
 36. **Closing the Gap**, Vicky Neale.  
-Pop maths: background on the twin prime conjecture interwoven with the story of the advances of Zhang, Maynbard, Tao and the polymath group. Started well but petered out a little in my opinion.
 
 37. **Tintin: The Black Island**, Hergé. &dagger; (French)  
-Never read any Tintin before. This one didn't have Captain Haddock in it, which was a great disappointment. I bought the one with the boat on the cover expecting him.
+Never read any Tintin before. This one didn't have Captain Haddock in it, which was a great disappointment.
 
 38. **The Red-Haired Woman**, Orhan Pamuk. &dagger; (Turkish)  
-Spellbinding.
 
 39. **The Seven Deaths of Evelyn Hardcastle**, Stuart Turton.  
-Inventive murder-mystery, but ultimately doesn't make the most of its premise.
+Inventive murder-mystery, but ultimately didn't make the most of its premise.
 
 40. **33⅓: OK Computer**, Dai Griffiths.  
 I probably won't read another one of these.  
 
 41. **Wise Children**, Angela Carter.  
-Unbelievably bawdy. Great fun.  
+Great bawdy fun.  
 
 42. **Mr Burns: a post-electric play**, Anne Washburn.  
 
 43. **Conversations with Friends**, Sally Rooney.  
-Just as fantastic as *Normal People*.  
 
 44. **Coyote America**, Dan Flores.  
 
 45. **Picture-Book Professors: academia and children's literature**, Melissa M. Terras.  
 
 46. **Carol**, Patricia Highsmith.  
-Lovely.  
 
 
 ### <a name="2017"></a>2017
@@ -218,7 +223,7 @@ Lovely.
 A potentially-interesting nature book ruined by the author's unbearable narcissism.
 
 6. **Orkneyinga Saga**, Anonymous. &dagger; (Old Norse)  
-The saga of the Earls of Orkney from 950ish to 1200ish. Part history, part legend, [frequently unintentionally hilarious](http://tkmh.space/2017/03/02/orkneyinga-saga/).
+The saga of the Earls of Orkney from 950ish to 1200ish. Part history, part legend, frequently unintentionally hilarious.
 
 7. **Fingersmith**, Sarah Waters.  
 
@@ -227,7 +232,7 @@ The saga of the Earls of Orkney from 950ish to 1200ish. Part history, part legen
 9. **Beyond the Northlands**, Eleanor Rosamund Barraclough.  
 
 10. **A Tale for the Time Being**, Ruth Ozeki.  
-I heard about this on the [Overdue podcast](http://overduepodcast.com/) so I knew some of the story in advance. A meditation of sorts on time and suffering, but wrapped up in a flowing story. Its comparisons between Zen Buddhism and quantum physics irked me no end (as always). Otherwise very good.
+Its comparisons between Zen Buddhism and quantum physics irked me no end (as always). Otherwise very good.
 
 11. **Zero K**, Don Delillo.  
 
@@ -244,24 +249,22 @@ The maths book I wish somebody had given me when I was 18. Explains the ideas be
 16. **Dirk Gently's Holistic Detective Agency**, Douglas Adams.  
 
 17. **The Descent of Man**, Grayson Perry.  
-Short collection of Perry's thoughts on masculinity and how it needs to be updated. Not a deep analysis, but a good introduction for the curious.
 
 18. **Silas Marner**, George Eliot.  
 
 19. **Oranges Are Not the Only Fruit**, Jeanette Winterson.  
 
 20. **Against Everything**, Mark Greif.  
-I got this book of essays I went to see Mark Greif interviewed by Laurie Penny at the *LRB* bookshop at the end of last year. I must have underlined at least one sentence per page, Greif is a hell of a writer.
 
 21. **Kill All Normies**, Angela Nagle.  
-I failed to review this [here](http://tkmh.space/2017/09/05/kill-all-normies/).
+I wrote 5000 words on this and deleted them all.
 
 22. **The Blue Fox**, Sj&oacute;n. &dagger; (Icelandic)
 
 23. **Do No Harm**, Henry Marsh.
 
 24. **Heroes of the Frontier**, Dave Eggers.  
-I love Dave Eggers. His books don't always work as a completed whole for me, but I never tire of how alive his line-by-line writing is.
+Dave Eggers' books don't always work as a completed whole for me, but I never tire of how alive his line-by-line writing is.
 
 25. **In Watermelon Sugar**, Richard Brautigan.  
 
@@ -270,7 +273,7 @@ I love Dave Eggers. His books don't always work as a completed whole for me, but
 27. **His Bloody Project**, Graham Burnett Macrae.  
 
 28. **The Goldfinch**, Donna Tartt.  
-I couldn't stop reading this. Utterly brilliant.
+I couldn't stop reading this.
 
 29. **Leviathan, or the Whale**, Philip Hoare.
 
