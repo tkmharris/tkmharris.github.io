@@ -6,18 +6,18 @@ title: Wishlist
 
 I used to keep an Amazon wishlist, but I'm trying to avoid using Amazon because
 I think they are probably Bad. Below is a list of books I'd like (plus maybe one
-or two other things). If you want to buy me one and can't make it to your local
-bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.  
+or two other things).
 
 * **Ælfred’s Britain: War and Peace in the Viking Age**, Max Adams.  
 * **The ABCs of Socialism**, Bhaskar Sunkara.  
+* **The Age of Surveillance Capitalism**, Shoshana Zuboff.  
 * **The Age of Wonder**, Richard Holmes.  
-* **Another Kyoto**, Alex Kerr.  
 * **The Ashtray: (Or the Man Who Denied Reality)**, Errol Morris.  
 * **At the Existentialist Caf&eacute;**, Sarah Bakewell.  
 * **Authentocrats**, Joe Kennedy.  
 * **A Brief History of Neoliberalism**, David Harvey.  
 * **Capitalist Realism**, Mark Fisher.  
+* **The Coming Insurrection**, The Invisible Committee.  
 * **Crudo**, Olivia Laing.  
 * **The Dispossessed**, Ursula K. LeGuin.  
 * **Down Girl: the logic of misogyny**, Kate Mannes.  
@@ -31,11 +31,10 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 * **The First American: the life and times of Benjamin Franklin**, H. W. Brands.  
 * **The First Bad Man**, Miranda July.  
 * **Feral**, George Monbiot.  
-* **Figuring**, Maria Popova.  
 * **Footnotes**, Vybarr Cregan-Reid.
-* **Fred**, Posy Simmonds.  
-* **From Frege to Gödel: A Source Book in Mathematical Logic**, Jean van Heijenoort.  
+* **Fred**, Posy Simmonds.    
 * **Future Sex**, Emily Witt.  
+* **The Future Starts Here: Adventures in the Twenty-First Century**, John Higgs.  
 * **The Genius in my Basement**, Alexander Masters.  
 * **Geometry Snacks**, Ed Southall and Vincent Pantaloni.  
 * **The Golden Notebook**, Doris Lessing.  
@@ -49,6 +48,7 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 * **I am a Cat**, Natsume Sōseki.  
 * **Incompleteness**, Rebecca Goldstein.  
 * **Independent People**, Halldor Laxness.  
+* **The Infinities**, John Banville.  
 * **The Intellectuals and the Masses**, John Carey.  
 * **It**, Stephen King.  
 * **Joe Gould's Secret**, Joseph Mitchell.  
@@ -56,8 +56,7 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 * **K-Punk: The Collected and Unpublished Writings of Mark Fisher**, Mark Fisher.  
 * **Leaving the Planet by Space Elevator**, Phillip Ragan & Bradley Edwards.  
 * **Lint**, Steve Aylett.  
-* **The Longest Journey**, E. M. Forster.  
-* **Lost Japan**, Alex Kerr.  
+* **The Longest Journey**, E. M. Forster.   
 * **The Love Affairs of Nathaniel P.**, Adelle Waldman.  
 * **The Luminaries**, Eleanor Catton.  
 * **The Magicians**, Lev Grossman.  
@@ -88,10 +87,13 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 * **Set Adrift Upon the World**, James Hunter.  
 * **Sex at Dawn**, Christopher Ryan and Cacilda Jethá.  
 * **The Sickness Unto Death**, S&#248;ren Kierkegaard.  
+* **Simone Weil: an anthology**, Simone Weil.  
 * **The Sleepwalkers: How Europe Went to War in 1914**, Christopher Clark.  
 * **Some Trick**, Helen DeWitt.  
+* **The Stars Down to Earth**, Theodor Adorno.  
 * **A Stitch of Time**, Lauren Marks.  
 * **Stories of Your Life and Others**, Ted Chiang.  
+* **Surveillance Capitalism**, Shoshana Zuboff.  
 * **Things The Grandchildren Should Know**, Mark Oliver Everett.  
 * **Time Travel**, James Gleick.  
 * **The Time Traveller's Guide to Medieval England**, Ian Mortimer.  
@@ -99,10 +101,10 @@ bookshop, then [Hive](http://www.hive.co.uk) is a good alternative.
 * **To Mock a Mockingbird**, Raymond Smullyan.  
 * **Tove Jansson: Work and Love**, Tuula Karjalainen.  
 * **The Trial of Henry Kissinger**, Christopher Hitchens.  
+* **Trick Mirror**, Jia Tolentino.  
 * **The Unconsoled**, Kazuo Ishiguro.  
 * **Utopia for Realists**, Rutger Bergman.  
 * **Watching the English**, Kate Fox.  
-* **Why Women Have Better Sex Under Socialism**, Kristen Ghodsee.  
 * **The Wild Places**, Robert Macfarlane.  
 * **World Without Mind: the existential threat of big tech**, Franklin Foer.  
 * **You Too Can Have a Body Like Mine**, Alexandra Kleeman.  
