@@ -84,6 +84,8 @@ Much better than *Eileen*.
 
 31. **The AI Does Not Hate You**, Tom Chivers.  
 
+32. **Another Kyoto**, Alex Kerr.  
+
 
 
 

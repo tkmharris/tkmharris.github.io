@@ -28,6 +28,7 @@ or two other things).
 * **Evil Men**, James Dawes.  
 * **Exact Thinking in Demented Times: The Vienna Circle and the Epic Quest for the Foundations of Science**, Karl Sigmund.  
 * **The Examined Life**, Stephen Grosz.  
+* **Exhalation**, Ted Chiang.  
 * **The First American: the life and times of Benjamin Franklin**, H. W. Brands.  
 * **The First Bad Man**, Miranda July.  
 * **Feral**, George Monbiot.  
@@ -61,6 +62,7 @@ or two other things).
 * **The Luminaries**, Eleanor Catton.  
 * **The Magicians**, Lev Grossman.  
 * **The Man Who Was Thursday**, G. K. Chesterton.  
+* **The Master of Go**, Yasunari Kawabata (for Joe Tait).
 * **More Trees to Climb**, Ben Moor.  
 * **Naming Infinity**, Loren Graham & Jean-Michel Kantor.  
 * **The New Dark Age: technology and the end of the future**, James Bridle.  
@@ -90,10 +92,10 @@ or two other things).
 * **Simone Weil: an anthology**, Simone Weil.  
 * **The Sleepwalkers: How Europe Went to War in 1914**, Christopher Clark.  
 * **Some Trick**, Helen DeWitt.  
-* **The Stars Down to Earth**, Theodor Adorno.  
 * **A Stitch of Time**, Lauren Marks.  
 * **Stories of Your Life and Others**, Ted Chiang.  
 * **Surveillance Capitalism**, Shoshana Zuboff.  
+* **Territory of Light**, Yuko Tsushima.  
 * **Things The Grandchildren Should Know**, Mark Oliver Everett.  
 * **Time Travel**, James Gleick.  
 * **The Time Traveller's Guide to Medieval England**, Ian Mortimer.  
@@ -102,6 +104,7 @@ or two other things).
 * **Tove Jansson: Work and Love**, Tuula Karjalainen.  
 * **The Trial of Henry Kissinger**, Christopher Hitchens.  
 * **Trick Mirror**, Jia Tolentino.  
+* **Thousand Cranes**, Yasunari Kawabata.  
 * **The Unconsoled**, Kazuo Ishiguro.  
 * **Utopia for Realists**, Rutger Bergman.  
 * **Watching the English**, Kate Fox.  
