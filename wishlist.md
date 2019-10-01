@@ -15,10 +15,13 @@ or two other things).
 * **The Ashtray: (Or the Man Who Denied Reality)**, Errol Morris.  
 * **At the Existentialist Caf&eacute;**, Sarah Bakewell.  
 * **Authentocrats**, Joe Kennedy.  
+* **The Beauty of Everyday Things**, Soetsu Yanagi.  
 * **A Brief History of Neoliberalism**, David Harvey.  
 * **Capitalist Realism**, Mark Fisher.  
+* **The Collection**, Nina Leger.  
 * **The Coming Insurrection**, The Invisible Committee.  
 * **Crudo**, Olivia Laing.  
+* **Disappearing Earth**, Julia Phillips.  
 * **The Dispossessed**, Ursula K. LeGuin.  
 * **Down Girl: the logic of misogyny**, Kate Mannes.  
 * **The Drowned World**, J. G. Ballard.  
@@ -37,7 +40,6 @@ or two other things).
 * **Future Sex**, Emily Witt.  
 * **The Future Starts Here: Adventures in the Twenty-First Century**, John Higgs.  
 * **The Genius in my Basement**, Alexander Masters.  
-* **Geometry Snacks**, Ed Southall and Vincent Pantaloni.  
 * **The Golden Notebook**, Doris Lessing.  
 * **Growth of the Soil**, Knut Hamsun.  
 * **Hotel Silence**, Auður Ava Ólafsdóttir.  
@@ -46,7 +48,6 @@ or two other things).
 * **How Democracy Ends**, David Runciman.  
 * **Hunger Makes Me a Modern Girl**, Carrie Brownstein.  
 * **The Hungry Brain**, Stephan Guyenet.  
-* **I am a Cat**, Natsume Sōseki.  
 * **Incompleteness**, Rebecca Goldstein.  
 * **Independent People**, Halldor Laxness.  
 * **The Infinities**, John Banville.  
@@ -61,8 +62,8 @@ or two other things).
 * **The Love Affairs of Nathaniel P.**, Adelle Waldman.  
 * **The Luminaries**, Eleanor Catton.  
 * **The Magicians**, Lev Grossman.  
-* **The Man Who Was Thursday**, G. K. Chesterton.  
 * **The Master of Go**, Yasunari Kawabata (for Joe Tait).
+* **Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001–2011**, Lizzy Goodman.  
 * **More Trees to Climb**, Ben Moor.  
 * **Naming Infinity**, Loren Graham & Jean-Michel Kantor.  
 * **The New Dark Age: technology and the end of the future**, James Bridle.  
@@ -89,6 +90,7 @@ or two other things).
 * **Set Adrift Upon the World**, James Hunter.  
 * **Sex at Dawn**, Christopher Ryan and Cacilda Jethá.  
 * **The Sickness Unto Death**, S&#248;ren Kierkegaard.  
+* **Silent Spring**, Rachel Carson.  
 * **Simone Weil: an anthology**, Simone Weil.  
 * **The Sleepwalkers: How Europe Went to War in 1914**, Christopher Clark.  
 * **Some Trick**, Helen DeWitt.  

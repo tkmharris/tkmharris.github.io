@@ -86,6 +86,8 @@ Much better than *Eileen*.
 
 32. **Another Kyoto**, Alex Kerr.  
 
+33. **The Man Who Was Thursday**, G.K. Chesterton.
+
 
 
 
