@@ -76,7 +76,7 @@ Much better than *Eileen*.
 
 27. **The Weil Conjectures: on math and the pursuit of the unknown**, Karen Olsson.  
 
-28. **Lost Japan**, Alex Kerr, &dagger; (Japanese)
+28. **Lost Japan**, Alex Kerr. &dagger; (Japanese)
 
 29. **Proofs and Refutations**, Imre Lakatos.  
 
@@ -87,6 +87,8 @@ Much better than *Eileen*.
 32. **Another Kyoto**, Alex Kerr.  
 
 33. **The Man Who Was Thursday**, G.K. Chesterton.
+
+34. **The Collection**, Nina Leger. &dagger; (French)  
 
 
 
