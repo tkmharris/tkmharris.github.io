@@ -18,9 +18,10 @@ or two other things).
 * **The Beauty of Everyday Things**, Soetsu Yanagi.  
 * **A Brief History of Neoliberalism**, David Harvey.  
 * **Capitalist Realism**, Mark Fisher.  
-* **The Collection**, Nina Leger.  
+* **The Centaur**, John Updike.
 * **The Coming Insurrection**, The Invisible Committee.  
 * **Crudo**, Olivia Laing.  
+* **Dear Boy**, Emily Berry.  
 * **Disappearing Earth**, Julia Phillips.  
 * **The Dispossessed**, Ursula K. LeGuin.  
 * **Down Girl: the logic of misogyny**, Kate Mannes.  
@@ -34,9 +35,11 @@ or two other things).
 * **Exhalation**, Ted Chiang.  
 * **The First American: the life and times of Benjamin Franklin**, H. W. Brands.  
 * **The First Bad Man**, Miranda July.  
+* **Females**, Andrea Long Chu.  
 * **Feral**, George Monbiot.  
 * **Footnotes**, Vybarr Cregan-Reid.
 * **Fred**, Posy Simmonds.    
+* **From Hell**, Alan Moore & Eddie Campbell.  
 * **Future Sex**, Emily Witt.  
 * **The Future Starts Here: Adventures in the Twenty-First Century**, John Higgs.  
 * **The Genius in my Basement**, Alexander Masters.  
@@ -81,7 +84,8 @@ or two other things).
 * **p-adic Numbers: an Introduction**, Fernando Quadros Gouvea.  
 * **Perdido Street Station**, China Miéville.  
 * **Phillip Larkin: a Writer's Life**, Andrew Motion.  
-* **The Planets**, Dava Sobel.  
+* **The Planets**, Dava Sobel.
+* **Priestdaddy**, Patricia Lockwood.
 * **Reasons and Persons**, Derek Parfit.  
 * **The Righteous Mind**, Jonathan Haidt.  
 * **RISINGTIDEFALLINGSTAR**, Phillip Hoare.  
