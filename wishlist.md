@@ -10,6 +10,7 @@ or two other things).
 
 * **Ælfred’s Britain: War and Peace in the Viking Age**, Max Adams.  
 * **The ABCs of Socialism**, Bhaskar Sunkara.  
+* **Against the Grain: a deep history of the earliest states**, James C. Scott.  
 * **The Age of Surveillance Capitalism**, Shoshana Zuboff.  
 * **The Age of Wonder**, Richard Holmes.  
 * **Arctic Voices: resistance at the tipping point**, Subhankar Banerjee.  
@@ -34,6 +35,7 @@ or two other things).
 * **Exact Thinking in Demented Times: The Vienna Circle and the Epic Quest for the Foundations of Science**, Karl Sigmund.  
 * **The Examined Life**, Stephen Grosz.  
 * **Exhalation**, Ted Chiang.  
+* **Figuring**, Maria Popova.  
 * **The First American: the life and times of Benjamin Franklin**, H. W. Brands.  
 * **The First Bad Man**, Miranda July.  
 * **Females**, Andrea Long Chu.  
@@ -46,14 +48,16 @@ or two other things).
 * **The Genius in my Basement**, Alexander Masters.  
 * **The Golden Notebook**, Doris Lessing.  
 * **Growth of the Soil**, Knut Hamsun.  
-* **House of Leaves**, Mark Z. Danielewski.  
+* **Hinterland**, Chris Mullin.  
 * **The History of Iceland**, Gunnar Karlsson.  
+* **House of Leaves**, Mark Z. Danielewski.  
 * **How Democracy Ends**, David Runciman.  
 * **Hunger Makes Me a Modern Girl**, Carrie Brownstein.  
 * **The Hungry Brain**, Stephan Guyenet.  
 * **Iceland's Bell**, Halldor Laxness.  
 * **Incompleteness**, Rebecca Goldstein.  
 * **Independent People**, Halldor Laxness.  
+* **Infinite Detail**, Tim Maugham.  
 * **The Infinities**, John Banville.  
 * **The Intellectuals and the Masses**, John Carey.  
 * **It**, Stephen King.  
@@ -93,6 +97,7 @@ or two other things).
 * **The Righteous Mind**, Jonathan Haidt.  
 * **RISINGTIDEFALLINGSTAR**, Phillip Hoare.  
 * **Resevoir 13**, John McGregor.  
+* **The Road to Wigan Pier**, George Orwell.  
 * **Rosencrantz and Guildenstern Are Dead**, Tom Stoppard.  
 * **Sabrina**, Nick Drnaso.  
 * **Sapiens: A Brief History of Humankind**, Yuval Noah Harari.  
