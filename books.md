@@ -90,6 +90,8 @@ Much better than *Eileen*.
 
 34. **The Collection**, Nina Leger. &dagger; (French)  
 
+35. **A Walk-On Part: diaries 1994--1999**, Chris Mullin.  
+
 
 
 
