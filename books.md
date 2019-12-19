@@ -92,6 +92,14 @@ Much better than *Eileen*.
 
 35. **A Walk-On Part: diaries 1994--1999**, Chris Mullin.  
 
+36. **The Breakfast Bible**, Seb Emina and Malcolm Eggs.  
+
+37. **Females**, Andrea Long Chu.  
+
+38. **The Memory Police**, Yoko Ogawa. &dagger; (Japanese)  
+
+39. **I am a Cat**, Natsume Sōseki. &dagger; (Japanese)  
+
 
 
 

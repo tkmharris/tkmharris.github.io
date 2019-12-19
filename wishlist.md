@@ -4,8 +4,7 @@ tags: static
 title: Wishlist
 ---
 
-I used to keep an Amazon wishlist, but I'm trying to avoid using Amazon because
-I think they are probably Bad. Below is a list of books I'd like (plus maybe one
+I used to keep an Amazon wishlist, but I'm trying to avoid using Amazon because I think they are probably Bad. Below is a list of books I'd like (plus maybe one
 or two other things).
 
 * **Ælfred’s Britain: War and Peace in the Viking Age**, Max Adams.  
@@ -21,6 +20,7 @@ or two other things).
 * **Capitalist Realism**, Mark Fisher.  
 * **The Centaur**, John Updike.
 * **Cod: A Biography of the Fish that Changed the World**, Mark Kurlansky.  
+* **CoDex 1962: A Trilogy**, Sjón.  
 * **The Coming Insurrection**, The Invisible Committee.  
 * **Crudo**, Olivia Laing.  
 * **Dear Boy**, Emily Berry.  
@@ -38,7 +38,6 @@ or two other things).
 * **Figuring**, Maria Popova.  
 * **The First American: the life and times of Benjamin Franklin**, H. W. Brands.  
 * **The First Bad Man**, Miranda July.  
-* **Females**, Andrea Long Chu.  
 * **Feral**, George Monbiot.  
 * **Footnotes**, Vybarr Cregan-Reid.
 * **Fred**, Posy Simmonds.    
@@ -48,7 +47,7 @@ or two other things).
 * **The Genius in my Basement**, Alexander Masters.  
 * **The Golden Notebook**, Doris Lessing.  
 * **Growth of the Soil**, Knut Hamsun.  
-* **Hinterland**, Chris Mullin.  
+* **The Hedgehog and the Fox**, Isaiah Berlin.
 * **The History of Iceland**, Gunnar Karlsson.  
 * **House of Leaves**, Mark Z. Danielewski.  
 * **How Democracy Ends**, David Runciman.  
@@ -58,6 +57,7 @@ or two other things).
 * **Incompleteness**, Rebecca Goldstein.  
 * **Independent People**, Halldor Laxness.  
 * **Infinite Detail**, Tim Maugham.  
+* **Infinitesimal**, Amir Alexander.  
 * **The Infinities**, John Banville.  
 * **The Intellectuals and the Masses**, John Carey.  
 * **It**, Stephen King.  
@@ -91,7 +91,8 @@ or two other things).
 * **Perdido Street Station**, China Miéville.  
 * **Phillip Larkin: a Writer's Life**, Andrew Motion.  
 * **The Planets**, Dava Sobel.
-* **Priestdaddy**, Patricia Lockwood.
+* **Priestdaddy**, Patricia Lockwood.  
+* **Proof!**, Amir Alexander.  
 * **Reasons and Persons**, Derek Parfit.  
 * **The Recognitions**, William Gaddis.
 * **The Righteous Mind**, Jonathan Haidt.  
@@ -107,10 +108,10 @@ or two other things).
 * **Silent Spring**, Rachel Carson.  
 * **Simone Weil: an anthology**, Simone Weil.  
 * **The Sleepwalkers: How Europe Went to War in 1914**, Christopher Clark.  
-* **Some Trick**, Helen DeWitt.  
 * **A Stitch of Time**, Lauren Marks.  
 * **Territory of Light**, Yuko Tsushima.  
 * **Things The Grandchildren Should Know**, Mark Oliver Everett.  
+* **The Three-Body Problem**,  Liu Cixin.  
 * **Time Travel**, James Gleick.  
 * **The Time Traveller's Guide to Medieval England**, Ian Mortimer.  
 * **The Thing in the Gap Stone Stile**, Alice Oswald.  
@@ -120,6 +121,7 @@ or two other things).
 * **The Trial of Henry Kissinger**, Christopher Hitchens.  
 * **Trick Mirror**, Jia Tolentino.  
 * **Thousand Cranes**, Yasunari Kawabata.  
+* **Uncanny Valley**, Anna Wiener.  
 * **The Unconsoled**, Kazuo Ishiguro.  
 * **Utopia for Realists**, Rutger Bergman.  
 * **The Visual Display of Quantitative Information**, Edward R. Tufte.  
