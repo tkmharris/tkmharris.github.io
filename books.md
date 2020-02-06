@@ -9,6 +9,12 @@ Re-reads are marked with an asterisk (&lowast;).
 Works read in translation are marked with a dagger (&dagger;).
 Things I read for book club are marked with a tilde (&#126;)
 
+### <a name="2020"></a>2020
+1. **The Wild Places**, Robert MacFarlane.
+
+2. **Trick Mirror**, Jia Tolentino.
+
+
 ### <a name="2019"></a>2019
 
 1. **Bridget Jones's Diary**, Helen Fielding.  
