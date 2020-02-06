@@ -14,7 +14,6 @@ or two other things).
 * **The Age of Wonder**, Richard Holmes.  
 * **Arctic Voices: resistance at the tipping point**, Subhankar Banerjee.  
 * **The Ashtray: (Or the Man Who Denied Reality)**, Errol Morris.  
-* **Authentocrats**, Joe Kennedy.  
 * **The Beauty of Everyday Things**, Soetsu Yanagi.  
 * **A Brief History of Neoliberalism**, David Harvey.  
 * **Capitalist Realism**, Mark Fisher.  
@@ -22,20 +21,18 @@ or two other things).
 * **Cod: A Biography of the Fish that Changed the World**, Mark Kurlansky.  
 * **CoDex 1962: A Trilogy**, Sjón.  
 * **The Coming Insurrection**, The Invisible Committee.  
-* **Crudo**, Olivia Laing.  
+* **David Copperfield**, Charles Dickens.
 * **Dear Boy**, Emily Berry.  
 * **Disappearing Earth**, Julia Phillips.  
 * **The Dispossessed**, Ursula K. LeGuin.  
 * **Down Girl: the logic of misogyny**, Kate Mannes.  
 * **The Drowned World**, J. G. Ballard.  
 * **The Earth Dies Streaming**, A. S. Hamrah.  
-* **Ecology of Wisdom**, Arne Naess.  
 * **Economics: The User's Guide: A Pelican Introduction**, Ha-Joon Chang.  
+* **Emma**, Jane Austen.  
 * **Evil Men**, James Dawes.  
 * **Exact Thinking in Demented Times: The Vienna Circle and the Epic Quest for the Foundations of Science**, Karl Sigmund.  
-* **The Examined Life**, Stephen Grosz.  
 * **Exhalation**, Ted Chiang.  
-* **Figuring**, Maria Popova.  
 * **The First American: the life and times of Benjamin Franklin**, H. W. Brands.  
 * **The First Bad Man**, Miranda July.  
 * **Feral**, George Monbiot.  
@@ -44,7 +41,9 @@ or two other things).
 * **From Hell**, Alan Moore & Eddie Campbell.  
 * **Future Sex**, Emily Witt.  
 * **The Future Starts Here: Adventures in the Twenty-First Century**, John Higgs.  
+* **The Gallows Pole**, Benjamin Myers.  
 * **The Genius in my Basement**, Alexander Masters.  
+* **A Girl Is a Half-Formed Thing**, Eimear McBride.  
 * **The Golden Notebook**, Doris Lessing.  
 * **Growth of the Soil**, Knut Hamsun.  
 * **The Hedgehog and the Fox**, Isaiah Berlin.
@@ -65,20 +64,21 @@ or two other things).
 * **The Journals Of A White Sea Wolf**, Mariusz Wilk.  
 * **K-Punk: The Collected and Unpublished Writings of Mark Fisher**, Mark Fisher.  
 * **Leaving the Planet by Space Elevator**, Phillip Ragan & Bradley Edwards.  
+* **Leonhard Euler: Mathematical Genius in the Enlightenment**, Ronald S. Calinger.  
 * **Lint**, Steve Aylett.  
 * **The Longest Journey**, E. M. Forster.   
 * **The Love Affairs of Nathaniel P.**, Adelle Waldman.  
 * **The Luminaries**, Eleanor Catton.
 * **Madam Bovary**,  Gustave Flaubert.    
 * **The Magicians**, Lev Grossman.  
+* **Mask Off: Masculinity Redefined**, JJ Bola.  
 * **The Master of Go**, Yasunari Kawabata (for Joe Tait).
 * **Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001–2011**, Lizzy Goodman.  
 * **More Trees to Climb**, Ben Moor.  
 * **Miles from Nowhere**, Nami Mun.  
+* **The Mushroom at the End of the World**, Anna Lowenhaupt Tsing.  
 * **Naming Infinity**, Loren Graham & Jean-Michel Kantor.  
 * **New Dark Age: technology and the end of the future**, James Bridle.  
-* **The New Testament: A Translation**, David Bentley Hart.  
-* **The New York Trilogy**, Paul Auster.  
 * **The Nine Billion Names of God**, Arthur C. Clarke.  
 * **Njal's Saga (Penguin Classics)**, Anonymous.  
 * **The Norton Introduction to Philosophy**, Gideon Rosen, Alex Byrne, Joshua Cohen & Seana Shiffrin *(Eds.)*.  
@@ -119,7 +119,6 @@ or two other things).
 * **Tove Jansson: Work and Love**, Tuula Karjalainen.  
 * **Travelers of a Hundred Ages: The Japanese as Revealed Through 1,000 Years of Diaries**, Donald Keene.   
 * **The Trial of Henry Kissinger**, Christopher Hitchens.  
-* **Trick Mirror**, Jia Tolentino.  
 * **Thousand Cranes**, Yasunari Kawabata.  
 * **Uncanny Valley**, Anna Wiener.  
 * **The Unconsoled**, Kazuo Ishiguro.  
