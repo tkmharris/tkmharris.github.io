@@ -106,6 +106,7 @@ or two other things).
 * **Silent Spring**, Rachel Carson.  
 * **Simone Weil: an anthology**, Simone Weil.  
 * **The Sleepwalkers: How Europe Went to War in 1914**, Christopher Clark.  
+* **The Strangest Man: The hidden Life of Paul Dirac, Quantum Genius**, Graham Farmelo.  
 * **Territory of Light**, Yuko Tsushima.  
 * **Things The Grandchildren Should Know**, Mark Oliver Everett.  
 * **The Three-Body Problem**,  Liu Cixin.  
