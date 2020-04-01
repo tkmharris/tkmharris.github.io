@@ -23,7 +23,6 @@ or two other things).
 * **CoDex 1962: A Trilogy**, Sjón.  
 * **The Coming Insurrection**, The Invisible Committee.  
 * **David Copperfield**, Charles Dickens.
-* **Dear Boy**, Emily Berry.  
 * **Disappearing Earth**, Julia Phillips.  
 * **The Dispossessed**, Ursula K. LeGuin.  
 * **Don Quixote**, Cervantes.  
@@ -46,6 +45,7 @@ or two other things).
 * **Future Sex**, Emily Witt.  
 * **The Future Starts Here: Adventures in the Twenty-First Century**, John Higgs.  
 * **The Gallows Pole**, Benjamin Myers.  
+* **Generation Left**, Keir Milburn.  
 * **The Genius in my Basement**, Alexander Masters.  
 * **A Girl Is a Half-Formed Thing**, Eimear McBride.  
 * **The Golden Notebook**, Doris Lessing.  
