@@ -14,7 +14,15 @@ Things I read for book club are marked with a tilde (&#126;)
 
 2. **Trick Mirror**, Jia Tolentino.
 
-3. **Where Do Numbers Come From?**, Tom Körner.  
+3. **Where Do Numbers Come From?**, Tom Körner.
+
+4. **The Art of Statistics: learning from data**, David Spiegelhalter.  
+
+5. **Because Internet: understanding the new rules of language**, Gretchen McCulloch.  
+
+6. **The New York Trilogy**, Paul Auster.  
+
+7. **The Handmaid's Tale**, Margaret Atwood.  
 
 
 ### <a name="2019"></a>2019
