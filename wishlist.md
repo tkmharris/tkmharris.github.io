@@ -38,6 +38,7 @@ or two other things).
 * **Ficciones**, Jorge Luis Borges.  
 * **The First American: the life and times of Benjamin Franklin**, H. W. Brands.  
 * **The First Bad Man**, Miranda July.  
+* **First You Write a Sentence**, Joe Moran.  
 * **Footnotes**, Vybarr Cregan-Reid.
 * **Frank Ramsey: a sheer excess of powers**, Cheryl Misak.  
 * **Fred**, Posy Simmonds.    
@@ -82,10 +83,12 @@ or two other things).
 * **The Nine Billion Names of God**, Arthur C. Clarke.  
 * **Njal's Saga (Penguin Classics)**, Anonymous.  
 * **The Norton Introduction to Philosophy**, Gideon Rosen, Alex Byrne, Joshua Cohen & Seana Shiffrin *(Eds.)*.  
+* **On Bullshit**, Harry G. Frankfurt.  
 * **On Murder Considered as One of the Fine Arts**, Thomas de Quincey.  
 * **On Quaternions and Octonions**, John H. Conway & Derek A. Smith.  
 * **Once They Were Hats**, Frances Backhouse.  
 * **Ordinary Differential Equations (MIT Press)**, V. I. Arnold.  
+* **Our Aesthetic Categories**, Sianne Ngai.  
 * **Out of Sheer Rage**, Geoff Dyer.  
 * **Perdido Street Station**, China Miéville.  
 * **Phillip Larkin: a Writer's Life**, Andrew Motion.  
@@ -94,6 +97,7 @@ or two other things).
 * **Reasons and Persons**, Derek Parfit.  
 * **The Recognitions**, William Gaddis.
 * **Regular Polytopes**, H.S.M. Coxeter.  
+* **Revolting Prostitutes**, Juno Mac & Molly Smith.  
 * **The Righteous Mind**, Jonathan Haidt.  
 * **RISINGTIDEFALLINGSTAR**, Phillip Hoare.  
 * **Resevoir 13**, John McGregor.  

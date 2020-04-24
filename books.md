@@ -24,6 +24,9 @@ Things I read for book club are marked with a tilde (&#126;)
 
 7. **The Handmaid's Tale**, Margaret Atwood.  
 
+8. **The Book of Tea**, Kakazuō Okakura.  
+
+9. **Dear Boy**, Emily Berry.  
 
 ### <a name="2019"></a>2019
 
