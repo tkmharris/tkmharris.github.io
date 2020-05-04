@@ -30,7 +30,6 @@ or two other things).
 * **The Drowned World**, J. G. Ballard.  
 * **The Earth Dies Streaming**, A. S. Hamrah.  
 * **Economics: The User's Guide: A Pelican Introduction**, Ha-Joon Chang.  
-* **Emma**, Jane Austen.  
 * **Evil Men**, James Dawes.  
 * **Exact Thinking in Demented Times: The Vienna Circle and the Epic Quest for the Foundations of Science**, Karl Sigmund.  
 * **Exhalation**, Ted Chiang.  
@@ -58,7 +57,6 @@ or two other things).
 * **The Hungry Brain**, Stephan Guyenet.  
 * **Iceland's Bell**, Halldor Laxness.  
 * **Independent People**, Halldor Laxness.  
-* **Infinite Detail**, Tim Maugham.  
 * **Infinitesimal**, Amir Alexander.  
 * **The Infinities**, John Banville.  
 * **The Intellectuals and the Masses**, John Carey.  
@@ -96,6 +94,7 @@ or two other things).
 * **Priestdaddy**, Patricia Lockwood.  
 * **Reasons and Persons**, Derek Parfit.  
 * **The Recognitions**, William Gaddis.
+* **Red Plenty**, Francis Spufford.  
 * **Regular Polytopes**, H.S.M. Coxeter.  
 * **Revolting Prostitutes**, Juno Mac & Molly Smith.  
 * **The Righteous Mind**, Jonathan Haidt.  
