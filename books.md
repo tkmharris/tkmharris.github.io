@@ -30,6 +30,12 @@ Things I read for book club are marked with a tilde (&#126;)
 
 10. **Emma**, Jane Austen.  
 
+11. **Running with the Kenyans**, Adharanand Finn.  
+
+12. **Frank Ramsey: a sheer excess of genius**, Cheryl Misak.  
+
+
+
 ### <a name="2019"></a>2019
 
 1. **Bridget Jones's Diary**, Helen Fielding.  

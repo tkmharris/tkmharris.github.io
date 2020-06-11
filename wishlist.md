@@ -9,6 +9,7 @@ or two other things).
 
 * **Ælfred’s Britain: War and Peace in the Viking Age**, Max Adams.  
 * **The ABCs of Socialism**, Bhaskar Sunkara.  
+* **The Absolute Book**, Elizabeth Knox.  
 * **Against the Grain: a deep history of the earliest states**, James C. Scott.  
 * **The Age of Surveillance Capitalism**, Shoshana Zuboff.  
 * **The Age of Wonder**, Richard Holmes.  
@@ -23,13 +24,13 @@ or two other things).
 * **CoDex 1962: A Trilogy**, Sjón.  
 * **The Coming Insurrection**, The Invisible Committee.  
 * **David Copperfield**, Charles Dickens.
+* **Death in Her Hands**, Ottessa Moshfegh.  
 * **Disappearing Earth**, Julia Phillips.  
 * **The Dispossessed**, Ursula K. LeGuin.  
 * **Don Quixote**, Cervantes.  
 * **Down Girl: the logic of misogyny**, Kate Mannes.  
 * **The Drowned World**, J. G. Ballard.  
-* **The Earth Dies Streaming**, A. S. Hamrah.  
-* **Economics: The User's Guide: A Pelican Introduction**, Ha-Joon Chang.  
+* **The Earth Dies Streaming**, A. S. Hamrah.   
 * **Evil Men**, James Dawes.  
 * **Exact Thinking in Demented Times: The Vienna Circle and the Epic Quest for the Foundations of Science**, Karl Sigmund.  
 * **Exhalation**, Ted Chiang.  
@@ -39,7 +40,6 @@ or two other things).
 * **The First Bad Man**, Miranda July.  
 * **First You Write a Sentence**, Joe Moran.  
 * **Footnotes**, Vybarr Cregan-Reid.
-* **Frank Ramsey: a sheer excess of powers**, Cheryl Misak.  
 * **Fred**, Posy Simmonds.    
 * **From Hell**, Alan Moore & Eddie Campbell.  
 * **Future Sex**, Emily Witt.  
@@ -50,7 +50,7 @@ or two other things).
 * **A Girl Is a Half-Formed Thing**, Eimear McBride.  
 * **The Golden Notebook**, Doris Lessing.  
 * **Growth of the Soil**, Knut Hamsun.  
-* **The Hedgehog and the Fox**, Isaiah Berlin.
+* **The Hedgehog and the Fox**, Isaiah Berlin.  
 * **The History of Iceland**, Gunnar Karlsson.  
 * **House of Leaves**, Mark Z. Danielewski.    
 * **Hunger Makes Me a Modern Girl**, Carrie Brownstein.  
@@ -63,9 +63,11 @@ or two other things).
 * **It**, Stephen King.  
 * **Joe Gould's Secret**, Joseph Mitchell.  
 * **The Journals Of A White Sea Wolf**, Mariusz Wilk.  
+* **Kokoro**, Natsume Sōseki.  
 * **K-Punk: The Collected and Unpublished Writings of Mark Fisher**, Mark Fisher.  
 * **Leaving the Planet by Space Elevator**, Phillip Ragan & Bradley Edwards.  
 * **Leonhard Euler: Mathematical Genius in the Enlightenment**, Ronald S. Calinger.  
+* **The Lightness**, Emily Temple.  
 * **Lint**, Steve Aylett.  
 * **The Longest Journey**, E. M. Forster.   
 * **The Love Affairs of Nathaniel P.**, Adelle Waldman.  
@@ -84,6 +86,7 @@ or two other things).
 * **On Bullshit**, Harry G. Frankfurt.  
 * **On Murder Considered as One of the Fine Arts**, Thomas de Quincey.  
 * **On Quaternions and Octonions**, John H. Conway & Derek A. Smith.  
+* **Once a Runner**, John L. Parker Jr.  
 * **Once They Were Hats**, Frances Backhouse.  
 * **Ordinary Differential Equations (MIT Press)**, V. I. Arnold.  
 * **Our Aesthetic Categories**, Sianne Ngai.  
@@ -125,6 +128,7 @@ Walter Sinnott-Armstrong.
 * **Uncanny Valley**, Anna Wiener.  
 * **The Unconsoled**, Kazuo Ishiguro.  
 * **Utopia for Realists**, Rutger Bergman.  
+* **Vesper Flights**, Helen Macdonald.  
 * **The Visual Display of Quantitative Information**, Edward R. Tufte.  
 * **Wasting Time on the Internet**, Kenneth Goldsmith.  
 * **Watching the English**, Kate Fox.  
