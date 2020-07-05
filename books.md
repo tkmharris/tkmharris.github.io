@@ -34,6 +34,11 @@ Things I read for book club are marked with a tilde (&#126;)
 
 12. **Frank Ramsey: a sheer excess of genius**, Cheryl Misak.  
 
+13. **Infinite Detail**, Tim Maughan.  
+
+14. **Annihilation**, Jeff VanderMeer.  
+
+
 
 
 ### <a name="2019"></a>2019

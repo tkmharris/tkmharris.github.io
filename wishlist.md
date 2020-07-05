@@ -34,6 +34,7 @@ or two other things).
 * **Evil Men**, James Dawes.  
 * **Exact Thinking in Demented Times: The Vienna Circle and the Epic Quest for the Foundations of Science**, Karl Sigmund.  
 * **Exhalation**, Ted Chiang.  
+* **The Fens**, Francis Pryor.  
 * **Feral**, George Monbiot.  
 * **Ficciones**, Jorge Luis Borges.  
 * **The First American: the life and times of Benjamin Franklin**, H. W. Brands.  
@@ -56,6 +57,7 @@ or two other things).
 * **Hunger Makes Me a Modern Girl**, Carrie Brownstein.  
 * **The Hungry Brain**, Stephan Guyenet.  
 * **Iceland's Bell**, Halldor Laxness.  
+* **In My Own Time: thoughts and afterthoughts**, Jane Miller.  
 * **Independent People**, Halldor Laxness.  
 * **Infinitesimal**, Amir Alexander.  
 * **The Infinities**, John Banville.  
@@ -101,6 +103,7 @@ or two other things).
 * **Regular Polytopes**, H.S.M. Coxeter.  
 * **Revolting Prostitutes**, Juno Mac & Molly Smith.  
 * **The Righteous Mind**, Jonathan Haidt.  
+* **The Rise and Fall of the Dinosaurs: a new history of a lost world**, Steve Brusatte.  
 * **RISINGTIDEFALLINGSTAR**, Phillip Hoare.  
 * **Resevoir 13**, John McGregor.  
 * **The Road to Wigan Pier**, George Orwell.  
