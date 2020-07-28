@@ -17,6 +17,7 @@ or two other things).
 * **The Ashtray: (Or the Man Who Denied Reality)**, Errol Morris.  
 * **The Beauty of Everyday Things**, Soetsu Yanagi.  
 * **Being Ecological**, Timothy Morton.  
+* **The Black Death (Manchester Medieval Sources)**, Rosemary Horrox.  
 * **A Brief History of Neoliberalism**, David Harvey.  
 * **Capitalist Realism**, Mark Fisher.  
 * **The Centaur**, John Updike.
@@ -64,6 +65,7 @@ or two other things).
 * **The Intellectuals and the Masses**, John Carey.  
 * **It**, Stephen King.  
 * **Joe Gould's Secret**, Joseph Mitchell.  
+* **The Journal of a Disappointed Man**, W.N.P. Barbellion.  
 * **The Journals Of A White Sea Wolf**, Mariusz Wilk.  
 * **Kokoro**, Natsume Sōseki.  
 * **K-Punk: The Collected and Unpublished Writings of Mark Fisher**, Mark Fisher.  
@@ -115,7 +117,10 @@ or two other things).
 * **Silent Spring**, Rachel Carson.  
 * **Simone Weil: an anthology**, Simone Weil.  
 * **The Sleepwalkers: How Europe Went to War in 1914**, Christopher Clark.  
+* **The Souls of Yellow Folk**, Wesley Yang.  
+* **Sourdough**, Robin Sloan.  
 * **The Strangest Man: The hidden Life of Paul Dirac, Quantum Genius**, Graham Farmelo.  
+* **The Struggle for Mastery: Britain 1066-1284**, David Carpenter.  
 * **Territory of Light**, Yuko Tsushima.  
 * **Things The Grandchildren Should Know**, Mark Oliver Everett.  
 * **The Three-Body Problem**,  Liu Cixin.  
@@ -130,6 +135,7 @@ Walter Sinnott-Armstrong.
 * **Thousand Cranes**, Yasunari Kawabata.  
 * **Uncanny Valley**, Anna Wiener.  
 * **The Unconsoled**, Kazuo Ishiguro.  
+* **Under the Glacier**, Halldór Laxness.  
 * **Utopia for Realists**, Rutger Bergman.  
 * **Vesper Flights**, Helen Macdonald.  
 * **The Visual Display of Quantitative Information**, Edward R. Tufte.  
