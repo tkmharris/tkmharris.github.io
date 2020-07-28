@@ -38,6 +38,8 @@ Things I read for book club are marked with a tilde (&#126;)
 
 14. **Annihilation**, Jeff VanderMeer.  
 
+15. **The Plague**, Albert Camus. &dagger; (French)    
+
 
 
 
