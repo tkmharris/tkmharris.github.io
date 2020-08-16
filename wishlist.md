@@ -114,6 +114,7 @@ or two other things).
 * **Set Adrift Upon the World**, James Hunter.  
 * **Sex at Dawn**, Christopher Ryan and Cacilda Jethá.  
 * **The Sickness Unto Death**, S&#248;ren Kierkegaard.  
+* **Silence**, Endō Shūsaku.  
 * **Silent Spring**, Rachel Carson.  
 * **Simone Weil: an anthology**, Simone Weil.  
 * **The Sleepwalkers: How Europe Went to War in 1914**, Christopher Clark.  
@@ -137,6 +138,7 @@ Walter Sinnott-Armstrong.
 * **The Unconsoled**, Kazuo Ishiguro.  
 * **Under the Glacier**, Halldór Laxness.  
 * **Utopia for Realists**, Rutger Bergman.  
+* **The Varieties of Religious Experience**, William James.  
 * **Vesper Flights**, Helen Macdonald.  
 * **The Visual Display of Quantitative Information**, Edward R. Tufte.  
 * **Wasting Time on the Internet**, Kenneth Goldsmith.  
