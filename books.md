@@ -40,7 +40,9 @@ Things I read for book club are marked with a tilde (&#126;)
 
 15. **The Plague**, Albert Camus. &dagger; (French)    
 
+16. **Authority**, Jeff VanderMeer.  
 
+17. **Acceptance**, Jeff VanderMeer.  
 
 
 ### <a name="2019"></a>2019
