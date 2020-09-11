@@ -32,6 +32,7 @@ or two other things).
 * **Down Girl: the logic of misogyny**, Kate Mannes.  
 * **The Drowned World**, J. G. Ballard.  
 * **The Earth Dies Streaming**, A. S. Hamrah.   
+* **English Climate: Wartime Stories**, Sylvia Townsend Warner.  
 * **Evil Men**, James Dawes.  
 * **Exact Thinking in Demented Times: The Vienna Circle and the Epic Quest for the Foundations of Science**, Karl Sigmund.  
 * **Exhalation**, Ted Chiang.  
@@ -50,13 +51,15 @@ or two other things).
 * **Generation Left**, Keir Milburn.  
 * **The Genius in my Basement**, Alexander Masters.  
 * **A Girl Is a Half-Formed Thing**, Eimear McBride.  
+* **The Golden Bough**, James Frazer.  
 * **The Golden Notebook**, Doris Lessing.  
 * **Growth of the Soil**, Knut Hamsun.  
 * **The Hedgehog and the Fox**, Isaiah Berlin.  
 * **The History of Iceland**, Gunnar Karlsson.  
 * **House of Leaves**, Mark Z. Danielewski.    
 * **Hunger Makes Me a Modern Girl**, Carrie Brownstein.  
-* **The Hungry Brain**, Stephan Guyenet.  
+* **The Hungry Brain**, Stephan Guyenet.
+* **The Ice Palace**, Tarjei Vessas.  
 * **Iceland's Bell**, Halldor Laxness.  
 * **In My Own Time: thoughts and afterthoughts**, Jane Miller.  
 * **Independent People**, Halldor Laxness.  

@@ -42,7 +42,9 @@ Things I read for book club are marked with a tilde (&#126;)
 
 16. **Authority**, Jeff VanderMeer.  
 
-17. **Acceptance**, Jeff VanderMeer.  
+17. **Acceptance**, Jeff VanderMeer.
+
+18. **Adrian Mole: The Cappuccino Years**, Sue Townsend. &lowast;  
 
 
 ### <a name="2019"></a>2019
