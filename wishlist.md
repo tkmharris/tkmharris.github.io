@@ -62,7 +62,6 @@ or two other things).
 * **The Ice Palace**, Tarjei Vessas.  
 * **Iceland's Bell**, Halldor Laxness.  
 * **In My Own Time: thoughts and afterthoughts**, Jane Miller.  
-* **Independent People**, Halldor Laxness.  
 * **Infinitesimal**, Amir Alexander.  
 * **The Infinities**, John Banville.  
 * **The Intellectuals and the Masses**, John Carey.  
@@ -74,7 +73,6 @@ or two other things).
 * **K-Punk: The Collected and Unpublished Writings of Mark Fisher**, Mark Fisher.  
 * **Leaving the Planet by Space Elevator**, Phillip Ragan & Bradley Edwards.  
 * **Leonhard Euler: Mathematical Genius in the Enlightenment**, Ronald S. Calinger.  
-* **The Lightness**, Emily Temple.  
 * **Lint**, Steve Aylett.  
 * **The Longest Journey**, E. M. Forster.   
 * **The Love Affairs of Nathaniel P.**, Adelle Waldman.  
@@ -139,7 +137,6 @@ Walter Sinnott-Armstrong.
 * **Thousand Cranes**, Yasunari Kawabata.  
 * **Uncanny Valley**, Anna Wiener.  
 * **The Unconsoled**, Kazuo Ishiguro.  
-* **Under the Glacier**, Halldór Laxness.  
 * **Utopia for Realists**, Rutger Bergman.  
 * **The Varieties of Religious Experience**, William James.  
 * **Vesper Flights**, Helen Macdonald.  
