@@ -46,6 +46,8 @@ Things I read for book club are marked with a tilde (&#126;)
 
 18. **Adrian Mole: The Cappuccino Years**, Sue Townsend. &lowast;  
 
+19. **As I Lay Dying**, William Faulkner.  
+
 
 ### <a name="2019"></a>2019
 
