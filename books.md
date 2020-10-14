@@ -48,6 +48,7 @@ Things I read for book club are marked with a tilde (&#126;)
 
 19. **As I Lay Dying**, William Faulkner.  
 
+20. **Tales of Impossibility: The 2000-Year Quest to Solve the Mathematical Problems of Antiquity**, David S. Richeson.
 
 ### <a name="2019"></a>2019
 

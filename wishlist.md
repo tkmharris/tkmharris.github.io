@@ -7,12 +7,12 @@ title: Wishlist
 I used to keep an Amazon wishlist, but I'm trying to avoid using Amazon because I think they are probably Bad. Below is a list of books I'd like (plus maybe one
 or two other things).
 
-* **Ælfred’s Britain: War and Peace in the Viking Age**, Max Adams.  
-* **The ABCs of Socialism**, Bhaskar Sunkara.  
+* **Ælfred’s Britain: War and Peace in the Viking Age**, Max Adams.    
 * **The Absolute Book**, Elizabeth Knox.  
 * **Against the Grain: a deep history of the earliest states**, James C. Scott.  
 * **The Age of Surveillance Capitalism**, Shoshana Zuboff.  
 * **The Age of Wonder**, Richard Holmes.  
+* **The Appointment**, Katharina Volckmer.  
 * **Arctic Voices: resistance at the tipping point**, Subhankar Banerjee.  
 * **The Ashtray: (Or the Man Who Denied Reality)**, Errol Morris.  
 * **The Beauty of Everyday Things**, Soetsu Yanagi.  
@@ -39,6 +39,7 @@ or two other things).
 * **The Fens**, Francis Pryor.  
 * **Feral**, George Monbiot.  
 * **Ficciones**, Jorge Luis Borges.  
+* **Finite and Infinite Games**, James P. Carse.  
 * **The First American: the life and times of Benjamin Franklin**, H. W. Brands.  
 * **The First Bad Man**, Miranda July.  
 * **First You Write a Sentence**, Joe Moran.  
@@ -73,6 +74,7 @@ or two other things).
 * **K-Punk: The Collected and Unpublished Writings of Mark Fisher**, Mark Fisher.  
 * **Leaving the Planet by Space Elevator**, Phillip Ragan & Bradley Edwards.  
 * **Leonhard Euler: Mathematical Genius in the Enlightenment**, Ronald S. Calinger.  
+* **A Libertarian Walks Into a Bear: The Utopian Plot to Liberate an American Town (And Some Bears)**, Matthew Hongoltz-Hetling.  
 * **Lint**, Steve Aylett.  
 * **The Longest Journey**, E. M. Forster.   
 * **The Love Affairs of Nathaniel P.**, Adelle Waldman.  
