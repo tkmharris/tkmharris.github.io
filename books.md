@@ -50,6 +50,8 @@ Things I read for book club are marked with a tilde (&#126;)
 
 20. **Tales of Impossibility: The 2000-Year Quest to Solve the Mathematical Problems of Antiquity**, David S. Richeson.
 
+21. **The Eight Mountains**, Paolo Cognetti. &dagger; (Italian)  
+
 ### <a name="2019"></a>2019
 
 1. **Bridget Jones's Diary**, Helen Fielding.  
