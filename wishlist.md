@@ -52,11 +52,13 @@ or two other things).
 * **Generation Left**, Keir Milburn.  
 * **The Genius in my Basement**, Alexander Masters.  
 * **A Girl Is a Half-Formed Thing**, Eimear McBride.  
+* **The Glass Hotel**, Emily St.John Mandell.  
 * **The Golden Bough**, James Frazer.  
 * **The Golden Notebook**, Doris Lessing.  
 * **Growth of the Soil**, Knut Hamsun.  
 * **The Hedgehog and the Fox**, Isaiah Berlin.  
 * **The History of Iceland**, Gunnar Karlsson.  
+* **How To Be Depressed**, George Scialabba.  
 * **House of Leaves**, Mark Z. Danielewski.    
 * **Hunger Makes Me a Modern Girl**, Carrie Brownstein.  
 * **The Hungry Brain**, Stephan Guyenet.

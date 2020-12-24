@@ -48,9 +48,13 @@ Things I read for book club are marked with a tilde (&#126;)
 
 19. **As I Lay Dying**, William Faulkner.  
 
-20. **Tales of Impossibility: The 2000-Year Quest to Solve the Mathematical Problems of Antiquity**, David S. Richeson.
+20. **Tales of Impossibility: the 2000-year quest to solve the mathematical problems of antiquity**, David S. Richeson.
 
 21. **The Eight Mountains**, Paolo Cognetti. &dagger; (Italian)  
+
+22. **The Cult of Smart**, Fredrik DeBoer.  
+
+23. **Under the Glacier**, Halldór Laxness. &dagger; (Icelandic)  
 
 ### <a name="2019"></a>2019
 
