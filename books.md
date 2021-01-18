@@ -9,6 +9,9 @@ Re-reads are marked with an asterisk (&lowast;).
 Works read in translation are marked with a dagger (&dagger;).
 Things I read for book club are marked with a tilde (&#126;)
 
+### <a name="2021"></a>2021
+1. 
+
 ### <a name="2020"></a>2020
 1. **The Wild Places**, Robert MacFarlane.
 
@@ -55,6 +58,9 @@ Things I read for book club are marked with a tilde (&#126;)
 22. **The Cult of Smart**, Fredrik DeBoer.  
 
 23. **Under the Glacier**, Halldór Laxness. &dagger; (Icelandic)  
+
+24. **Waterland**, Graham Swift.  
+
 
 ### <a name="2019"></a>2019
 
