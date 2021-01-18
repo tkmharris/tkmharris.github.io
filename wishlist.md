@@ -36,7 +36,6 @@ or two other things).
 * **Evil Men**, James Dawes.  
 * **Exact Thinking in Demented Times: The Vienna Circle and the Epic Quest for the Foundations of Science**, Karl Sigmund.  
 * **Exhalation**, Ted Chiang.  
-* **The Fens**, Francis Pryor.  
 * **Feral**, George Monbiot.  
 * **Ficciones**, Jorge Luis Borges.  
 * **Finite and Infinite Games**, James P. Carse.  
@@ -78,7 +77,6 @@ or two other things).
 * **Leonhard Euler: Mathematical Genius in the Enlightenment**, Ronald S. Calinger.  
 * **A Libertarian Walks Into a Bear: The Utopian Plot to Liberate an American Town (And Some Bears)**, Matthew Hongoltz-Hetling.  
 * **Lint**, Steve Aylett.  
-* **The Longest Journey**, E. M. Forster.   
 * **The Love Affairs of Nathaniel P.**, Adelle Waldman.  
 * **The Luminaries**, Eleanor Catton.
 * **Madam Bovary**,  Gustave Flaubert.    
