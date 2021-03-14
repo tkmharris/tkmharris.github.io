@@ -10,7 +10,13 @@ Works read in translation are marked with a dagger (&dagger;).
 Things I read for book club are marked with a tilde (&#126;)
 
 ### <a name="2021"></a>2021
-1. 
+1. **The Fens**, Francis Pryor.  
+
+2. **The Nine Tailors**, Dorothy L. Sayers.   
+
+3. **The Lightness**, Emily Temple.  	
+
+4. **Theaetetus (Oxford World's Classics)**, Plato.  
 
 ### <a name="2020"></a>2020
 1. **The Wild Places**, Robert MacFarlane.
