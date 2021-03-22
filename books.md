@@ -14,9 +14,11 @@ Things I read for book club are marked with a tilde (&#126;)
 
 2. **The Nine Tailors**, Dorothy L. Sayers.   
 
-3. **The Lightness**, Emily Temple.  	
+3. **The Lightness**, Emily Temple.  
 
-4. **Theaetetus (Oxford World's Classics)**, Plato.  
+4. **Understanding Coronavirus**, Raul Rabadan.  
+
+5. **Theaetetus (Oxford World's Classics)**, Plato.  
 
 ### <a name="2020"></a>2020
 1. **The Wild Places**, Robert MacFarlane.
