@@ -12,6 +12,7 @@ or two other things).
 * **Against the Grain: a deep history of the earliest states**, James C. Scott.  
 * **The Age of Surveillance Capitalism**, Shoshana Zuboff.  
 * **The Age of Wonder**, Richard Holmes.  
+* **Algorithmic Thinking: A Problem-Based Introduction**, Daniel Zingaro.  
 * **The Appointment**, Katharina Volckmer.  
 * **Arctic Voices: resistance at the tipping point**, Subhankar Banerjee.  
 * **The Ashtray: (Or the Man Who Denied Reality)**, Errol Morris.  
@@ -29,7 +30,7 @@ or two other things).
 * **Disappearing Earth**, Julia Phillips.  
 * **The Dispossessed**, Ursula K. LeGuin.  
 * **Don Quixote**, Cervantes.  
-* **Down Girl: the logic of misogyny**, Kate Mannes.  
+* **Down Girl: the logic of misogyny**, Kate Manne.  
 * **The Drowned World**, J. G. Ballard.  
 * **The Earth Dies Streaming**, A. S. Hamrah.   
 * **English Climate: Wartime Stories**, Sylvia Townsend Warner.  
@@ -114,6 +115,7 @@ or two other things).
 * **The Road to Wigan Pier**, George Orwell.  
 * **Rosencrantz and Guildenstern Are Dead**, Tom Stoppard.  
 * **Sabrina**, Nick Drnaso.  
+* **Science Fictions**, Stuart Ritchie.  
 * **Set Adrift Upon the World**, James Hunter.  
 * **Sex at Dawn**, Christopher Ryan and Cacilda Jethá.  
 * **The Sickness Unto Death**, S&#248;ren Kierkegaard.  
@@ -121,6 +123,7 @@ or two other things).
 * **Silent Spring**, Rachel Carson.  
 * **Simone Weil: an anthology**, Simone Weil.  
 * **The Sleepwalkers: How Europe Went to War in 1914**, Christopher Clark.  
+* **Stonehenge**, Rosemary Hill.  
 * **The Souls of Yellow Folk**, Wesley Yang.  
 * **Sourdough**, Robin Sloan.  
 * **The Strangest Man: The hidden Life of Paul Dirac, Quantum Genius**, Graham Farmelo.  
