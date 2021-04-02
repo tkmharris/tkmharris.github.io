@@ -129,6 +129,7 @@ or two other things).
 * **The Strangest Man: The hidden Life of Paul Dirac, Quantum Genius**, Graham Farmelo.  
 * **The Struggle for Mastery: Britain 1066-1284**, David Carpenter.  
 * **Territory of Light**, Yuko Tsushima.  
+* **That Reminds Me**, Derek Owusu.  
 * **Things The Grandchildren Should Know**, Mark Oliver Everett.  
 * **Time Travel**, James Gleick.  
 * **The Time Traveller's Guide to Medieval England**, Ian Mortimer.  
