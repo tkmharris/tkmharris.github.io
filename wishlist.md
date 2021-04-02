@@ -43,6 +43,7 @@ or two other things).
 * **The First American: the life and times of Benjamin Franklin**, H. W. Brands.  
 * **The First Bad Man**, Miranda July.  
 * **First You Write a Sentence**, Joe Moran.  
+* **The Fish Can Sing**, Halldór Laxness.  
 * **Footnotes**, Vybarr Cregan-Reid.
 * **Fred**, Posy Simmonds.    
 * **From Hell**, Alan Moore & Eddie Campbell.  
@@ -63,7 +64,6 @@ or two other things).
 * **Hunger Makes Me a Modern Girl**, Carrie Brownstein.  
 * **The Hungry Brain**, Stephan Guyenet.
 * **The Ice Palace**, Tarjei Vessas.  
-* **Iceland's Bell**, Halldor Laxness.  
 * **In My Own Time: thoughts and afterthoughts**, Jane Miller.  
 * **Infinitesimal**, Amir Alexander.  
 * **The Infinities**, John Banville.  
@@ -130,7 +130,6 @@ or two other things).
 * **The Struggle for Mastery: Britain 1066-1284**, David Carpenter.  
 * **Territory of Light**, Yuko Tsushima.  
 * **Things The Grandchildren Should Know**, Mark Oliver Everett.  
-* **The Three-Body Problem**,  Liu Cixin.  
 * **Time Travel**, James Gleick.  
 * **The Time Traveller's Guide to Medieval England**, Ian Mortimer.  
 * **The Thing in the Gap Stone Stile**, Alice Oswald.  
