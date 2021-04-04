@@ -20,9 +20,9 @@ Things I read for book club are marked with a tilde (&#126;)
 
 5. **Wide Sargasso Sea**, Jean Rhys.  
 
-7. **The Three Body Problem**, Liu Cixin &dagger; (Chinese).  
+6. **The Three Body Problem**, Liu Cixin &dagger; (Chinese).  
 
-6. **Theaetetus (Oxford World's Classics)**, Plato.  
+7. **Theaetetus (Oxford World's Classics)**, Plato.  
 
 ### <a name="2020"></a>2020
 1. **The Wild Places**, Robert MacFarlane.

@@ -18,12 +18,14 @@ or two other things).
 * **The Ashtray: (Or the Man Who Denied Reality)**, Errol Morris.  
 * **The Beauty of Everyday Things**, Soetsu Yanagi.  
 * **Being Ecological**, Timothy Morton.  
+* **The Bells of Nagasaki**, Takashi Nagai.  
 * **The Black Death (Manchester Medieval Sources)**, Rosemary Horrox.  
 * **A Brief History of Neoliberalism**, David Harvey.  
 * **Capitalist Realism**, Mark Fisher.  
 * **The Centaur**, John Updike.
 * **Cod: A Biography of the Fish that Changed the World**, Mark Kurlansky.  
 * **CoDex 1962: A Trilogy**, Sjón.  
+* **The Collected Stories of Grace Paley**, Grace Paley.  
 * **The Coming Insurrection**, The Invisible Committee.  
 * **David Copperfield**, Charles Dickens.
 * **Death in Her Hands**, Ottessa Moshfegh.  
@@ -101,7 +103,8 @@ or two other things).
 * **Out of Sheer Rage**, Geoff Dyer.  
 * **Perdido Street Station**, China Miéville.  
 * **Phillip Larkin: a Writer's Life**, Andrew Motion.  
-* **The Planets**, Dava Sobel.
+* **The Planets**, Dava Sobel.  
+* **Poincaré and the Three-Body Problem**, June Barrow-Green.  
 * **Priestdaddy**, Patricia Lockwood.  
 * **Reasons and Persons**, Derek Parfit.  
 * **The Recognitions**, William Gaddis.
