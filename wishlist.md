@@ -103,6 +103,7 @@ or two other things).
 * **Out of Sheer Rage**, Geoff Dyer.  
 * **Perdido Street Station**, China Miéville.  
 * **Phillip Larkin: a Writer's Life**, Andrew Motion.  
+* **Picnic at Hanging Rock**, Joan Lindsay.  
 * **The Planets**, Dava Sobel.  
 * **Poincaré and the Three-Body Problem**, June Barrow-Green.  
 * **Priestdaddy**, Patricia Lockwood.  
