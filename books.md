@@ -22,7 +22,11 @@ Things I read for book club are marked with a tilde (&#126;)
 
 6. **The Three Body Problem**, Liu Cixin &dagger; (Chinese).  
 
-7. **Theaetetus (Oxford World's Classics)**, Plato.  
+7.  **Joe Gould's Secret**, Joseph Mitchell.  
+
+8. **A Passion for Nature: the Life of John Muir**, Donald Worster.  
+
+9. **Theaetetus (Oxford World's Classics)**, Plato.  
 
 ### <a name="2020"></a>2020
 1. **The Wild Places**, Robert MacFarlane.

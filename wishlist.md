@@ -12,8 +12,8 @@ or two other things).
 * **Against the Grain: a deep history of the earliest states**, James C. Scott.  
 * **The Age of Surveillance Capitalism**, Shoshana Zuboff.  
 * **The Age of Wonder**, Richard Holmes.  
+* **Algorithmic Puzzles**, Anany Levitin & Maria Levitin.  
 * **Algorithmic Thinking: A Problem-Based Introduction**, Daniel Zingaro.  
-* **The Appointment**, Katharina Volckmer.  
 * **Arctic Voices: resistance at the tipping point**, Subhankar Banerjee.  
 * **The Ashtray: (Or the Man Who Denied Reality)**, Errol Morris.  
 * **The Beauty of Everyday Things**, Soetsu Yanagi.  
@@ -87,6 +87,7 @@ or two other things).
 * **Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001–2011**, Lizzy Goodman.  
 * **More Trees to Climb**, Ben Moor.  
 * **Miles from Nowhere**, Nami Mun.  
+* **The Ministry for the Future**, Kim Stanely Robinson.  
 * **The Mushroom at the End of the World**, Anna Lowenhaupt Tsing.  
 * **Naming Infinity**, Loren Graham & Jean-Michel Kantor.  
 * **New Dark Age: technology and the end of the future**, James Bridle.  
