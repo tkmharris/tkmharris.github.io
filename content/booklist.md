@@ -13,493 +13,491 @@ Things I read for book club are marked with a tilde (&#126;)
 
 ### <a name="2021"></a>2021
 
-237. **Theaetetus (Oxford World's Classics)**, Plato.  
+1. **The Fens**, Francis Pryor.  
 
-236. **A Passion for Nature: the Life of John Muir**, Donald Worster.  
+2. **The Nine Tailors**, Dorothy L. Sayers.   
 
-235.  **The Appointment**, Katherina Volckmer.  
+3. **The Lightness**, Emily Temple.  
 
-234.  **Joe Gould's Secret**, Joseph Mitchell.  
+4. **Understanding Coronavirus**, Raul Rabadan.  
 
-233. **The Three Body Problem**, Liu Cixin &dagger; (Mandarin).  
+5. **Wide Sargasso Sea**, Jean Rhys.  
 
-232. **Wide Sargasso Sea**, Jean Rhys.  
+6. **The Three Body Problem**, Liu Cixin &dagger; (Chinese).  
 
-231. **Understanding Coronavirus**, Raul Rabadan.
+7.  **Joe Gould's Secret**, Joseph Mitchell.  
 
-230. **The Lightness**, Emily Temple.  
+8. **The Appointment**, Katherina Volckmer.  
 
-229. **The Nine Tailors**, Dorothy L. Sayers.   
+9. **A Passion for Nature: the Life of John Muir**, Donald Worster.  
 
-228. **The Fens**, Francis Pryor.  
+10. **Theaetetus (Oxford World's Classics)**, Plato.  
 
 ### <a name="2020"></a>2020
+1. **The Wild Places**, Robert MacFarlane.
 
-227. **Waterland**, Graham Swift.  
+2. **Trick Mirror**, Jia Tolentino.
 
-226. **Under the Glacier**, Halldór Laxness. &dagger; (Icelandic)  
+3. **Where Do Numbers Come From?**, Tom Körner.
 
-225. **The Cult of Smart**, Fredrik DeBoer.  
+4. **The Art of Statistics: learning from data**, David Spiegelhalter.  
 
-224. **The Eight Mountains**, Paolo Cognetti. &dagger; (Italian)  
+5. **Because Internet: understanding the new rules of language**, Gretchen McCulloch.  
 
-223. **Tales of Impossibility: the 2000-year quest to solve the mathematical problems of antiquity**, David S. Richeson.
+6. **The New York Trilogy**, Paul Auster.  
 
-222. **As I Lay Dying**, William Faulkner.  
+7. **The Handmaid's Tale**, Margaret Atwood.  
 
-221. **Adrian Mole: The Cappuccino Years**, Sue Townsend. &lowast;  
+8. **The Book of Tea**, Kakazuō Okakura.  
 
-220. **Acceptance**, Jeff VanderMeer.
+9. **Dear Boy**, Emily Berry.  
 
-219. **Authority**, Jeff VanderMeer.  
+10. **Emma**, Jane Austen.  
 
-218. **The Plague**, Albert Camus. &dagger; (French)    
+11. **Running with the Kenyans**, Adharanand Finn.  
 
-217. **Annihilation**, Jeff VanderMeer.  
+12. **Frank Ramsey: a sheer excess of genius**, Cheryl Misak.  
 
-216. **Infinite Detail**, Tim Maughan.  
+13. **Infinite Detail**, Tim Maughan.  
 
-215. **Frank Ramsey: a sheer excess of genius**, Cheryl Misak.  
+14. **Annihilation**, Jeff VanderMeer.  
 
-214. **Running with the Kenyans**, Adharanand Finn.  
+15. **The Plague**, Albert Camus. &dagger; (French)    
 
-213. **Emma**, Jane Austen.  
+16. **Authority**, Jeff VanderMeer.  
 
-212. **Dear Boy**, Emily Berry.  
+17. **Acceptance**, Jeff VanderMeer.
 
-211. **The Book of Tea**, Kakazuō Okakura.  
+18. **Adrian Mole: The Cappuccino Years**, Sue Townsend. &lowast;  
 
-210. **The Handmaid's Tale**, Margaret Atwood.  
+19. **As I Lay Dying**, William Faulkner.  
 
-209. **The New York Trilogy**, Paul Auster.  
+20. **Tales of Impossibility: the 2000-year quest to solve the mathematical problems of antiquity**, David S. Richeson.
 
-208. **Because Internet: understanding the new rules of language**, Gretchen McCulloch.  
+21. **The Eight Mountains**, Paolo Cognetti. &dagger; (Italian)  
 
-207. **The Art of Statistics: learning from data**, David Spiegelhalter.  
+22. **The Cult of Smart**, Fredrik DeBoer.  
 
-206. **Where Do Numbers Come From?**, Tom Körner.
+23. **Under the Glacier**, Halldór Laxness. &dagger; (Icelandic)  
 
-205. **Trick Mirror**, Jia Tolentino.
+24. **Waterland**, Graham Swift.  
 
-204. **The Wild Places**, Robert MacFarlane.
 
 ### <a name="2019"></a>2019
 
-203. **I am a Cat**, Natsume Sōseki. &dagger; (Japanese)  
+1. **Bridget Jones's Diary**, Helen Fielding.  
 
-202. **The Memory Police**, Yoko Ogawa. &dagger; (Japanese)  
+2. **Gef! The Strange Tale of an Extra-Special Talking Mongoose**, Christopher Josiffe.  
 
-201. **Females**, Andrea Long Chu.  
+3. **Convenience Store Woman**, Sayaka Murata. &dagger; (Japanese)  
 
-200. **The Breakfast Bible**, Seb Emina and Malcolm Eggs.  
+4. **Levels of Life**, Julian Barnes.  
 
-199. **A Walk-On Part: diaries 1994--1999**, Chris Mullin.  
+5. **Faceless Killers**, Henning Mankell. &dagger; (Swedish)  
 
-198. **The Collection**, Nina Leger. &dagger; (French)  
+6. **The Talented Mr Ripley**, Patricia Highsmith.  
 
-197. **The Man Who Was Thursday**, G.K. Chesterton.
+7. **Winter**, Ali Smith. &#126;  
 
-196. **Another Kyoto**, Alex Kerr.  
+8. **Seven Brief Lessons on Physics**, Carlo Rovelli. &dagger; (Italian)  
 
-195. **The AI Does Not Hate You**, Tom Chivers.  
+9. **Autumn**, Ali Smith.  
 
-194. **Stories of Your Life and Others**, Ted Chiang.  
+10. **The Birth of Korean Cool**, Euny Hong.  
 
-193. **Proofs and Refutations**, Imre Lakatos.  
+11. **Hello World**, Hannah Fry.  
 
-192. **Lost Japan**, Alex Kerr. &dagger; (Japanese)
+12. **The Adulterants**, Joe Dunthorne.  
 
-191. **The Weil Conjectures: on math and the pursuit of the unknown**, Karen Olsson.  
+13. **The Broom of the System**, David Foster Wallace.  
 
-190. **Early Work**, Andrew Martin.  
+14. **Bad Blood**, John Carreyrou.  
 
-189. **Underland**, Robert MacFarlane.  
+15. **The Assembly of the Severed Head**, Hugh Lupton.  
 
-188. **My Year of Rest and Relaxation**, Ottessa Moshfegh.  
+16. **Craze: gin and debauchery in an age of reason**, Jessica Warner.  
 
-187. **The Letters of Abélard and Héloïse**. &dagger; (French)  
+17. **Drive Your Plow Over the Bones of the Dead**, Olga Tokarczuk. &dagger; (Polish)  
 
-186. **So Much Longing In So Little Space: the art of Edvard Munch**, Karl Ove Knausg&#229;rd. &dagger; (Norwegian)  
+18. **The Death of Ivan Ilych and other stories**, Leo Tolstoy. &dagger; (Russian)   
 
-185. **Why Women Have Better Sex Under Socialism: and other arguments for economic independence**, Kristen Ghodsee.  
+19. **Brilliant, Brilliant, Brilliant Brilliant Brilliant.**, Joel Golby.  
 
-184. **The Trial**, Franz Kafka. &dagger; (German)  
+20. **The Trial**, Franz Kafka. &dagger; (German)  
 
-183. **Brilliant, Brilliant, Brilliant Brilliant Brilliant.**, Joel Golby.  
+21. **Why Women Have Better Sex Under Socialism: and other arguments for economic independence**, Kristen Ghodsee.  
 
-182. **The Death of Ivan Ilych and other stories**, Leo Tolstoy. &dagger; (Russian)   
+22. **So Much Longing In So Little Space: the art of Edvard Munch**, Karl Ove Knausg&#229;rd. &dagger; (Norwegian)  
 
-181. **Drive Your Plow Over the Bones of the Dead**, Olga Tokarczuk. &dagger; (Polish)  
+23. **The Letters of Abélard and Héloïse**. &dagger; (French)  
 
-180. **Craze: gin and debauchery in an age of reason**, Jessica Warner.  
+24. **My Year of Rest and Relaxation**, Ottessa Moshfegh.  
 
-179. **The Assembly of the Severed Head**, Hugh Lupton.  
+25. **Underland**, Robert MacFarlane.  
 
-178. **Bad Blood**, John Carreyrou.  
+26. **Early Work**, Andrew Martin.  
 
-177. **The Broom of the System**, David Foster Wallace.  
+27. **The Weil Conjectures: on math and the pursuit of the unknown**, Karen Olsson.  
 
-176. **The Adulterants**, Joe Dunthorne.  
+28. **Lost Japan**, Alex Kerr. &dagger; (Japanese)
 
-175. **Hello World**, Hannah Fry.  
+29. **Proofs and Refutations**, Imre Lakatos.  
 
-174. **The Birth of Korean Cool**, Euny Hong.  
+30. **Stories of Your Life and Others**, Ted Chiang.  
 
-173. **Autumn**, Ali Smith.  
+31. **The AI Does Not Hate You**, Tom Chivers.  
 
-172. **Seven Brief Lessons on Physics**, Carlo Rovelli. &dagger; (Italian)  
+32. **Another Kyoto**, Alex Kerr.  
 
-171. **Winter**, Ali Smith. &#126;  
+33. **The Man Who Was Thursday**, G.K. Chesterton.
 
-170. **The Talented Mr Ripley**, Patricia Highsmith.  
+34. **The Collection**, Nina Leger. &dagger; (French)  
 
-169. **Faceless Killers**, Henning Mankell. &dagger; (Swedish)  
+35. **A Walk-On Part: diaries 1994--1999**, Chris Mullin.  
 
-168. **Levels of Life**, Julian Barnes.  
+36. **The Breakfast Bible**, Seb Emina and Malcolm Eggs.  
 
-167. **Convenience Store Woman**, Sayaka Murata. &dagger; (Japanese)  
+37. **Females**, Andrea Long Chu.  
 
-166. **Gef! The Strange Tale of an Extra-Special Talking Mongoose**, Christopher Josiffe.  
+38. **The Memory Police**, Yoko Ogawa. &dagger; (Japanese)  
 
-165. **Bridget Jones's Diary**, Helen Fielding.  
+39. **I am a Cat**, Natsume Sōseki. &dagger; (Japanese)  
 
 ### <a name="2018"></a>2018
 
-164. **Carol**, Patricia Highsmith.  
+1. **Longitude**, Dava Sobel.  
 
-163. **Picture-Book Professors: academia and children's literature**, Melissa M. Terras.  
+2. **A Doubter's Almanac**, Ethan Canin.  
 
-162. **Coyote America**, Dan Flores.  
+3. **Swing Time**, Zadie Smith. &#126;  
 
-161. **Conversations with Friends**, Sally Rooney.  
+4. **Doctor Who and the Krikkitmen**, Douglas Adams & James Goss.  
 
-160. **Mr Burns: a post-electric play**, Anne Washburn.  
+5. **How Not To Be a Boy**, Robert Webb.  
 
-159. **Wise Children**, Angela Carter.  
+6. **On the Natural History of Destruction**, W. G. Sebald.  
 
-158. **33⅓: OK Computer**, Dai Griffiths.  
+7. **The Vegetarian**, Han Kang. &#126;, &dagger; (Korean)  
 
-157. **The Seven Deaths of Evelyn Hardcastle**, Stuart Turton.  
+8. **Educated**, Tara Westover.  
 
-156. **The Red-Haired Woman**, Orhan Pamuk. &dagger; (Turkish)  
+9. **If I'm Scared We Can't Win: Penguin modern poets 1**, Emily Berry, Anne Carson & Sophie Collins.  
 
-155. **Tintin: The Black Island**, Hergé. &dagger; (French)  
+10. **The Bend of the World**, Jacob Bacharach.  
 
-154. **Closing the Gap**, Vicky Neale.  
+11. **Eileen**, Ottessa Moshfegh. &#126;  
 
-153. **Normal People**, Sally Rooney. &#126;  
+12. **Politics and the English Language**, George Orwell.
 
-152. **Letters written in Sweden, Norway, and Denmark**, Mary Wollstonecraft.  
+13. **Sight**, Jessie Greengrass.  
 
-151. **Let's Explore Diabetes With Owls**, David Sedaris.  
+14. **H(A)PPY**, Nicola Barker.  &#126;  
 
-150.  **Game Theory**, Thomas Jones.  
+15. **Injection #1**, W. Ellis, D. Shalvey & J. Bellaire.  
 
-149. **Lullaby**, Leïla Slimani. &dagger; (French) &#126;
+16. **Possession**, A. S. Byatt.  
 
-148. **The Glass Bead Game**, Hermann Hesse. &dagger; (German)  
+17. **On Chesil Beach**, Ian McEwan. &lowast;  
 
-147. **Men Without Women**, Haruki Murakami. &dagger; (Japanese)
+18. **Shutter Island**, Dennis Lehane.  
 
-146. **Computation, Proof, Machine**, Giles Dowek. &dagger; (French)    
+19. **Stand Out of Our Light: freedom and resistance in the attention economy**, James Williams.  
 
-145. **Dracula**, Bram Stoker. &#126;  
+20. **Philosophy of Mathematics**, Øystein Linnebo.  
 
-144. **Essays on the Theory of Numbers**, Richard Dedekind. &dagger; (German)    
+21. **The Island of Doctor Moreau**, H. G. Wells. &#126;  
 
-143. **Infinity to Dine**, lazenby.  
+22. **The Idiot**, Elif Batuman.  
 
-142. **Bit of a Blur**, Alex James.  
-Poolside fodder.
+23. **Ada Lovelace: the making of a computer scientist**, Christopher Hollings, Ursula Martin, Adrian Rice.  
 
-141. **Ada Lovelace: the making of a computer scientist**, Christopher Hollings, Ursula Martin, Adrian Rice.  
+24. **Bit of a Blur**, Alex James.  
 
-140. **The Idiot**, Elif Batuman.  
+25. **Infinity to Dine**, lazenby.  
 
-139. **The Island of Doctor Moreau**, H. G. Wells. &#126;  
+26. **Essays on the Theory of Numbers**, Richard Dedekind. &dagger; (German)  
 
-138. **Philosophy of Mathematics**, Øystein Linnebo.  
+27. **Dracula**, Bram Stoker. &#126;  
 
-137. **Stand Out of Our Light: freedom and resistance in the attention economy**, James Williams.  
+28. **Computation, Proof, Machine**, Giles Dowek. &dagger; (French)  
 
-136. **Shutter Island**, Dennis Lehane. 
+29. **Men Without Women**, Haruki Murakami. &dagger; (Japanese)  
 
-135. **On Chesil Beach**, Ian McEwan. &lowast;  
+30. **The Glass Bead Game**, Hermann Hesse. &dagger; (German)  
 
-134. **Possession**, A. S. Byatt.  
+31. **Lullaby**, Leïla Slimani. &dagger; (French) &#126;  
 
-133. **Injection #1**, W. Ellis, D. Shalvey & J. Bellaire.  
+32.  **Game Theory**, Thomas Jones.  
 
-132. **H(A)PPY**, Nicola Barker.  &#126;  
+33. **Let's Explore Diabetes With Owls**, David Sedaris.  
 
-131. **Sight**, Jessie Greengrass.  
+34. **Letters written in Sweden, Norway, and Denmark**, Mary Wollstonecraft.  
 
-130. **Politics and the English Language**, George Orwell.
+35. **Normal People**, Sally Rooney. &#126;  
 
-129. **Eileen**, Ottessa Moshfegh. &#126;  
+36. **Closing the Gap**, Vicky Neale.  
 
-128. **The Bend of the World**, Jacob Bacharach.   
+37. **Tintin: The Black Island**, Hergé. &dagger; (French)  
 
-127. **If I'm Scared We Can't Win: Penguin modern poets 1**, Emily Berry, Anne Carson & Sophie Collins.
+38. **The Red-Haired Woman**, Orhan Pamuk. &dagger; (Turkish)  
 
-126. **Educated**, Tara Westover.  
+39. **The Seven Deaths of Evelyn Hardcastle**, Stuart Turton.  
 
-125. **The Vegetarian**, Han Kang. &#126;, &dagger; (Korean)  
+40. **33⅓: OK Computer**, Dai Griffiths.  
 
-124. **On the Natural History of Destruction**, W. G. Sebald.  
+41. **Wise Children**, Angela Carter.  
 
-123. **How Not To Be a Boy**, Robert Webb.  
+42. **Mr Burns: a post-electric play**, Anne Washburn.  
 
-122. **Doctor Who and the Krikkitmen**, Douglas Adams & James Goss.  
+43. **Conversations with Friends**, Sally Rooney.  
+44. **Coyote America**, Dan Flores.  
 
-121. **Swing Time**, Zadie Smith. &#126;  
+45. **Picture-Book Professors: academia and children's literature**, Melissa M. Terras.  
 
-120. **A Doubter's Almanac**, Ethan Canin.  
-
-119. **Longitude**, Dava Sobel.  
+46. **Carol**, Patricia Highsmith.  
 
 
 ### <a name="2017"></a>2017
-118. **A Very British Coup**, Chris Mullin.  
 
-117. **Scoop**, Evelyn Waugh.  
+1. **Neoreaction a Basilisk**, Phil Sandifer.  
 
-116. **Letters from Iceland**, W. H. Auden & Louis MacNeice.  
+2. **I Hate the Internet**, Jarett Kobek.  
 
-115. **The Return of the King**, J. R. R. Tolkein. &lowast;  
+3. **Alfred Tarski: Life and Logic**, Anita & Solomon Feferman.  
 
-114. **The Two Towers**, J. R. R. Tolkein. &lowast;  
+4. **A Winter Book**, Tove Jansson. &dagger; (Swedish)
 
-113. **The Fellowship of the Ring**, J. R. R. Tolkein. &lowast;  
+5. **The Fish Ladder**, Katharine Norbury.  
 
-112. **Every Last Tie: The Story of the Unabomber and His Family**, David Kaczynski.  
+6. **Orkneyinga Saga**, Anonymous. &dagger; (Old Norse)  
 
-111. **La Belle Sauvage: The Book of Dust Vol. I**, Phillip Pullman.  
+7. **Fingersmith**, Sarah Waters.  
 
-110. **The Amber Spyglass**, Phillip Pullman. &lowast;  
+8. **The Secret History**, Donna Tartt.  
 
-109. **The Subtle Knife**, Phillip Pullman. &lowast;  
+9. **Beyond the Northlands**, Eleanor Rosamund Barraclough.  
 
-108. **Northern Lights**, Phillip Pullman. &lowast;  
+10. **A Tale for the Time Being**, Ruth Ozeki.  
 
-107. **Leviathan, or the Whale**, Philip Hoare.
+11. **Zero K**, Don Delillo.  
 
-106. **The Goldfinch**, Donna Tartt.  
+12. **Wild**, Cheryl Strayed.  
 
-105. **His Bloody Project**, Graham Burnett Macrae.  
+13. **The Housekeeper and the Professor**, Yoko Ogawa. &dagger; (Japanese)  
 
-104. **Between the World and Me**, Ta-Nehisi Coates.  
+14. **Concepts of Modern Mathematics**, Ian Stewart.  
 
-103. **In Watermelon Sugar**, Richard Brautigan. 
+15. **June**, Gerbrand Bakker. &dagger; (Dutch)  
 
-102. **Heroes of the Frontier**, Dave Eggers.  
+16. **Dirk Gently's Holistic Detective Agency**, Douglas Adams.  
 
-101. **Do No Harm**, Henry Marsh.
+17. **The Descent of Man**, Grayson Perry.  
 
-100. **The Blue Fox**, Sj&oacute;n. &dagger; (Icelandic)
+18. **Silas Marner**, George Eliot.  
 
-99. **Kill All Normies**, Angela Nagle.  
+19. **Oranges Are Not the Only Fruit**, Jeanette Winterson.  
 
-98. **Against Everything**, Mark Greif.  
+20. **Against Everything**, Mark Greif.  
 
-97. **Oranges Are Not the Only Fruit**, Jeanette Winterson.  
+21. **Kill All Normies**, Angela Nagle.  
 
-96. **Silas Marner**, George Eliot.  
+22. **The Blue Fox**, Sj&oacute;n. &dagger; (Icelandic)
 
-95. **The Descent of Man**, Grayson Perry.  
+23. **Do No Harm**, Henry Marsh.
 
-94. **Dirk Gently's Holistic Detective Agency**, Douglas Adams.  
+24. **Heroes of the Frontier**, Dave Eggers.  
 
-93. **June**, Gerbrand Bakker. &dagger; (Dutch)  
+25. **In Watermelon Sugar**, Richard Brautigan.  
 
-92. **Concepts of Modern Mathematics**, Ian Stewart.  
+26. **Between the World and Me**, Ta-Nehisi Coates.  
 
-91. **The Housekeeper and the Professor**, Yoko Ogawa. &dagger; (Japanese)  
+27. **His Bloody Project**, Graham Burnett Macrae.  
 
-90. **Wild**, Cheryl Strayed.  
+28. **The Goldfinch**, Donna Tartt.  
 
-89. **Zero K**, Don Delillo.  
+29. **Leviathan, or the Whale**, Philip Hoare.
 
-88. **A Tale for the Time Being**, Ruth Ozeki.  
+30. **Northern Lights**, Phillip Pullman. &lowast;  
 
-87. **Beyond the Northlands**, Eleanor Rosamund Barraclough.
+31. **The Subtle Knife**, Phillip Pullman. &lowast;  
 
-86. **The Secret History**, Donna Tartt.  
+32. **The Amber Spyglass**, Phillip Pullman. &lowast;  
 
-85. **Fingersmith**, Sarah Waters.  
+33. **La Belle Sauvage: The Book of Dust Vol. I**, Phillip Pullman.  
 
-84. **Orkneyinga Saga**, Anonymous. &dagger; (Old Norse)  
+34. **Every Last Tie: The Story of the Unabomber and His Family**, David Kaczynski.  
 
-83. **The Fish Ladder**, Katharine Norbury.  
+35. **The Fellowship of the Ring**, J. R. R. Tolkein. &lowast;  
 
-82. **A Winter Book**, Tove Jansson. &dagger; (Swedish)
+36. **The Two Towers**, J. R. R. Tolkein. &lowast;  
 
-81. **Alfred Tarski: Life and Logic**, Anita & Solomon Feferman.  
+37. **The Return of the King**, J. R. R. Tolkein. &lowast;  
 
-80. **I Hate the Internet**, Jarett Kobek.  
+38. **Letters from Iceland**, W. H. Auden & Louis MacNeice.  
 
-79. **Neoreaction a Basilisk**, Phil Sandifer.  
+39. **Scoop**, Evelyn Waugh.  
+
+40. **A Very British Coup**, Chris Mullin.  
 
 ### <a name="2016"></a>2016
 
-78. **The Wee Free Men**, Terry Practchett. &lowast;  
-
-77. **Titus Groan**, Mervyn Peake.  
-
-76. **The Idea of North**, Peter Davidson.  
-
-75. **The One Hundred Nights of Hero**, Isabel Greenberg.  
-
-74. **My Struggle 5: some rain must fall**, Karl Ove Knausg&#229;rd. &dagger; (Norwegian)  
-
-73. **We Don't Know What We're Doing**, Thomas Morris.  
-
-72. **The Woman in Black**, Susan Hill.  
-
-71. **The Collected Cat Rackham**, Steve Wolfhard.  
-
-70. **Grief is the Thing with Feathers**, Max Porter.  
-
-69. **The Shipping News**, Annie Proulx.  
-
-68. **Littlewood's Miscellany**, J. E. Littlewood.  
-
-67. **The Girl in the Spider's Web**, David Lagercrantz.  
-
-66. **Three Men in a Boat**, Jerome K. Jerome.  &lowast;  
-
-65. **Space Below my Feet**, Gwen Moffat.  
-
-64. **From Asgard to Valhalla**, Heather  O'Donoghue.  
-
-63. **A Mathematician's Year in Japan**, Joel David Hamkins.  
-
-62. **Aurora**, Kim Stanley Robinson.  
-
-61. **Prime Numbers and the Riemann Hypothesis**, Barry Mazur & William Stein.  
-
-60. **Blockchain Revolution**, Don Tapscott & Alex Tapscott.  
-
-59. **An Account of the Decline of the Great Auk, According to One Who Saw It**, Jessie Greengrass.  
-
-58. **The Shpeherd's Life**, James Rebanks.  
-
-57. **Public Library (and other stories)**, Ali Smith.  
-
-56. **A Book for Her**, Bridget Christie.  
-
-55. **My Struggle 4: dancing in the dark**, Karl Ove Knausg&#229;rd. &dagger; (Norwegian)  
-
-54. **Eichmann in Jerusalem**, Hannah Arendt.  
-
-53. **No One Belongs Here More Than You**, Miranda July.  
-
-52. **The Virgin Suicides**, Jeffrey Eugenides.  
-
-51. **The Greenlanders**, Jane Smiley.  
-
-50. **All One Breath**, John Burnside.  
-
-49. **The Winter's Tale**, William Shakespeare.  
-
-48. **Station Eleven**, Emily StJohn Mandel.  
-
-47. **The Outrun**, Amy Liptrot.  
-
-46. **Siddhartha**, Hermann Hesse. &dagger; (German)  
-
-45. **We Have Always Lived in the Castle**, Shirley Jackson.  
-
-44. **A303: the Highway to the Sun**, Tom Fort.  
-
-43. **Ludwig Wittgenstein: the Duty of Genius**, Ray Monk.  
-
-42. **The Thrilling Adventures of Lovelace and Babbage**, Sydney Padua.  
-
-41. **My Struggle 3: boyhood island**, Karl Ove Knausg&#229;rd. &dagger; (Norwegian)  
-
-40. **Tamara Drewe**, Posy Simmonds.  &lowast;  
-
-39. **To the Lighthouse**, Virginia Woolf.  
-
-38. **Consolations of the Forest**, Sylvain Tesson. &dagger; (French)  
-
-37. **Berlin Poplars**, Anne B. Ragde. &dagger; (Norwegian)  
-
-36. **Two Girls, One on Each Knee: the puzzling, playful world of
+1. **Two Girls, One on Each Knee: the puzzling, playful world of
 the crossword**, Alan Connor.  
 
+2. **Berlin Poplars**, Anne B. Ragde. &dagger; (Norwegian)  
+
+3. **Consolations of the Forest**, Sylvain Tesson. &dagger; (French)  
+
+4. **To the Lighthouse**, Virginia Woolf.  
+
+5. **Tamara Drewe**, Posy Simmonds.  &lowast;  
+
+6. **My Struggle 3: boyhood island**, Karl Ove Knausg&#229;rd. &dagger; (Norwegian)  
+
+7. **The Thrilling Adventures of Lovelace and Babbage**, Sydney Padua.  
+
+8. **Ludwig Wittgenstein: the Duty of Genius**, Ray Monk.  
+
+9. **A303: the Highway to the Sun**, Tom Fort.  
+
+10. **We Have Always Lived in the Castle**, Shirley Jackson.  
+
+11. **Siddhartha**, Hermann Hesse. &dagger; (German)  
+
+12. **The Outrun**, Amy Liptrot.  
+
+13. **Station Eleven**, Emily StJohn Mandel.  
+
+14. **The Winter's Tale**, William Shakespeare.  
+
+15. **All One Breath**, John Burnside.  
+
+16. **The Greenlanders**, Jane Smiley.  
+
+17. **The Virgin Suicides**, Jeffrey Eugenides.  
+
+18. **No One Belongs Here More Than You**, Miranda July.  
+
+19. **Eichmann in Jerusalem**, Hannah Arendt.  
+
+20. **My Struggle 4: dancing in the dark**, Karl Ove Knausg&#229;rd. &dagger; (Norwegian)  
+
+21. **A Book for Her**, Bridget Christie.  
+
+22. **Public Library (and other stories)**, Ali Smith.  
+
+23. **The Shpeherd's Life**, James Rebanks.  
+
+24. **An Account of the Decline of the Great Auk, According to One Who Saw It**, Jessie Greengrass.  
+
+25. **Blockchain Revolution**, Don Tapscott & Alex Tapscott.  
+
+26. **Prime Numbers and the Riemann Hypothesis**, Barry Mazur & William Stein.  
+
+27. **Aurora**, Kim Stanley Robinson.  
+
+28. **A Mathematician's Year in Japan**, Joel David Hamkins.  
+
+29. **From Asgard to Valhalla**, Heather  O'Donoghue.  
+
+30. **Space Below my Feet**, Gwen Moffat.  
+
+31. **Three Men in a Boat**, Jerome K. Jerome.  &lowast;  
+
+32. **The Girl in the Spider's Web**, David Lagercrantz.  
+
+33. **Littlewood's Miscellany**, J. E. Littlewood.  
+
+34. **The Shipping News**, Annie Proulx.  
+
+35. **Grief is the Thing with Feathers**, Max Porter.  
+
+36. **The Collected Cat Rackham**, Steve Wolfhard.  
+
+37. **The Woman in Black**, Susan Hill.  
+
+38. **We Don't Know What We're Doing**, Thomas Morris.  
+
+39. **My Struggle 5: some rain must fall**, Karl Ove Knausg&#229;rd. &dagger; (Norwegian)  
+
+40. **The One Hundred Nights of Hero**, Isabel Greenberg.  
+
+41. **The Idea of North**, Peter Davidson.  
+
+42. **Titus Groan**, Mervyn Peake.  
+
+43. **The Wee Free Men**, Terry Practchett. &lowast;  
+
+
 ### <a name="2015"></a>2015
-35. **Girls to the Front: the true story of the riot grrrl revolution**,
-Sara Marcus.
 
-34. **60 Degrees North**,
-Malachy Tallack.  
+1. **Ayoade on Ayoade: a cinematic odyssey**, Richard Ayoade.  
 
-33. **Look Who's Back**, Timur Vermes. &dagger; (German)  
+2. **My Struggle 1: a death in the family**, Karl Ove Knausg&#229;rd. &dagger; (Norwegian)  
 
-32. **Not That Kind of Girl**, Lena Dunham.  
+3. **Good Omens**, Terry Pratchett and Neil Gaiman.  
 
-31. **The Road to Little Dribbling**, Bill Bryson.  
+4. **A View from the Foothills: the diaries of Chris Mullin 1999-2005**.  
 
-30. **The Lady in the Van**, Alan Bennett. &lowast;  
+5. **The Buried Giant**, Kazuo Ishiguro.  
 
-29. **The Girl who Kicked the Hornet's Nest**, Stieg Larsson. &dagger; (Swedish)  
+6. **Lords and Ladies**, Terry Pratchett. &lowast;  
 
-28. **The Girl who Played with Fire**, Stieg Larsson. &dagger; (Swedish)
+7. **So You've Been Publicly Shamed**, Jon Ronson.  
 
-27. **The Girl with the Dragon Tattoo**, Stieg Larsson. &dagger; (Swedish)
+8. **Landmarks**, Robert Macfarlane.  
 
-26. **The Way of the Runner**, Adharanand Finn.  
+9. **The Cyberiad**, Stanis&#x142;aw Lem. &dagger; (Polish)  
 
-25. **Last Night in Montreal**, Emily St.John Mandel.  
+10. **Lightning Rods**, Helen DeWitt.  
+
+11. **In the All-Night Caf&eacute;**, Stuart David.  
+
+12. **Foundation**, Isaac Asimov. &lowast;
+13. **Foundation and Empire**, Isaac Asimov.
+14. **Second Foundation**, Isaac Asimov.  
+
+15. **This Changes Everything**, Naomi Klein.  
+
+16. **Cakes, Custard, and Category Theory,** Eugenia Cheng.  
+
+17. **My Struggle 2: a man in love**, Karl Ove Knausg&#229;rd. &dagger; (Norwegian)  
+
+18. **North**, Seamus Heaney.  
+
+19. **Alan Turing: the Enigma**, Andrew Hodges.  
+
+20. **The Innocence of Father Brown**, G. K. Chesterton.  
+
+21. **A Room with a View**, E. M. Forster. &lowast;  
+
+22. **Purity**, Jonathan Franzen.  
+
+23. **Decline and Fall: the diaries of Chris Mullin 2005-2010**.  
 
 24. **Everything and More**,
 David Foster Wallace.  
 
-23. **Decline and Fall: the diaries of Chris Mullin 2005-2010**.  
+25. **Last Night in Montreal**, Emily St.John Mandel.  
 
-22. **Purity**, Jonathan Franzen.  
+26. **The Way of the Runner**, Adharanand Finn.  
 
-21. **A Room with a View**, E. M. Forster. &lowast;  
+27. **The Girl with the Dragon Tattoo**, Stieg Larsson. &dagger; (Swedish)
 
-20. **The Innocence of Father Brown**, G. K. Chesterton.  
+28. **The Girl who Played with Fire**, Stieg Larsson. &dagger; (Swedish)
 
-19. **Alan Turing: the Enigma**, Andrew Hodges.  
+29. **The Girl who Kicked the Hornet's Nest**, Stieg Larsson. &dagger; (Swedish)  
 
-18. **North**, Seamus Heaney.  
+30. **The Lady in the Van**, Alan Bennett. &lowast;  
 
-17. **My Struggle 2: a man in love**, Karl Ove Knausg&#229;rd. &dagger; (Norwegian)  
+31. **The Road to Little Dribbling**, Bill Bryson.  
 
-16. **Cakes, Custard, and Category Theory,** Eugenia Cheng.  
+32. **Not That Kind of Girl**, Lena Dunham.  
 
-15. **This Changes Everything**, Naomi Klein.  
+33. **Look Who's Back**, Timur Vermes. &dagger; (German)  
 
-14. **Second Foundation**, Isaac Asimov.  
+34. **60 Degrees North**,
+Malachy Tallack.  
 
-13. **Foundation and Empire**, Isaac Asimov.
-
-12. **Foundation**, Isaac Asimov. &lowast;
-
-11. **In the All-Night Caf&eacute;**, Stuart David.  
-
-10. **Lightning Rods**, Helen DeWitt.  
-
-9. **The Cyberiad**, Stanis&#x142;aw Lem. &dagger; (Polish)  
-
-8. **Landmarks**, Robert Macfarlane.  
-
-7. **So You've Been Publicly Shamed**, Jon Ronson.  
-
-6. **Lords and Ladies**, Terry Pratchett. &lowast;  
-
-5. **The Buried Giant**, Kazuo Ishiguro.  
-
-4. **A View from the Foothills: the diaries of Chris Mullin 1999-2005**.  
-
-3. **Good Omens**, Terry Pratchett and Neil Gaiman.  
-
-2. **My Struggle 1: a death in the family**, Karl Ove Knausg&#229;rd. &dagger; (Norwegian)  
-
-1. **Ayoade on Ayoade: a cinematic odyssey**, Richard Ayoade.  
-
+35. **Girls to the Front: the true story of the riot grrrl revolution**,
+Sara Marcus.

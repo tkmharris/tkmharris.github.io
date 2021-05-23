@@ -7,6 +7,11 @@ pygmentsStyle = "solarized-dark" # solarized-light, -dark or -dark256
 pluralizeListTitles = false
 relativeURLs = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [author]
   name = "Tom Harris"
   email = "tkmharris@protonmail.com"

@@ -18,6 +18,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Being Ecological**, Timothy Morton.  
 * **The Bells of Nagasaki**, Takashi Nagai.  
 * **The Black Death (Manchester Medieval Sources)**, Rosemary Horrox.  
+* **Braised Pork**, An Yu.  
 * **A Brief History of Neoliberalism**, David Harvey.  
 * **Capitalist Realism**, Mark Fisher.  
 * **The Centaur**, John Updike.
@@ -68,7 +69,9 @@ Some books I'd like, in case you need to get me a gift.
 * **House of Leaves**, Mark Z. Danielewski.    
 * **Hunger Makes Me a Modern Girl**, Carrie Brownstein.  
 * **The Hungry Brain**, Stephan Guyenet.
+* **I Must Go**, Yiyun Li.  
 * **The Ice Palace**, Tarjei Vessas.  
+* **Icelandic Folk Tales**, Hjörleifur Helgi Stefánsson.  
 * **In My Own Time: thoughts and afterthoughts**, Jane Miller.  
 * **Infinitesimal**, Amir Alexander.  
 * **The Infinities**, John Banville.  
@@ -91,6 +94,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Miles from Nowhere**, Nami Mun.  
 * **The Ministry for the Future**, Kim Stanely Robinson.  
 * **The Mushroom at the End of the World**, Anna Lowenhaupt Tsing.  
+* **My First Summer in the Sierra**, John Muir.  
 * **Naming Infinity**, Loren Graham & Jean-Michel Kantor.  
 * **New Dark Age: technology and the end of the future**, James Bridle.  
 * **The Nine Billion Names of God**, Arthur C. Clarke.  
@@ -100,6 +104,7 @@ Some books I'd like, in case you need to get me a gift.
 * **On Bullshit**, Harry G. Frankfurt.  
 * **On Murder Considered as One of the Fine Arts**, Thomas de Quincey.  
 * **On Quaternions and Octonions**, John H. Conway & Derek A. Smith.  
+* **One Way and Another: new and selected essays**, Adam Phillips.  
 * **Once a Runner**, John L. Parker Jr.  
 * **Once They Were Hats**, Frances Backhouse.  
 * **Ordinary Differential Equations (MIT Press)**, V. I. Arnold.   
@@ -144,6 +149,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Time Traveller's Guide to Medieval England**, Ian Mortimer.  
 * **The Thing in the Gap Stone Stile**, Alice Oswald.  
 * **Tove Jansson: Work and Love**, Tuula Karjalainen.  
+* **Travels in Alaska**, John Muir.  
 * **Travelers of a Hundred Ages: The Japanese as Revealed Through 1,000 Years of Diaries**, Donald Keene.   
 * **The Trial of Henry Kissinger**, Christopher Hitchens.  
 * **Think Again: how to reason and argue**,

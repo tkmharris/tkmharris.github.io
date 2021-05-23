@@ -6,7 +6,7 @@ draft: false
 ---
 
 I am a big fan of the Akiyama–Tanigawa algorithm[^1][^2] for computing [Bernoulli numbers](https://en.wikipedia.org/wiki/Bernoulli_number). 
-It works by generating a structure resembling Pascal's triangle, whose rows' entries are determined by a simple calculation on the two entries above them, from which we can read off the sequence of Bernoulli numbers. 
+It works by generating a structure resembling Pascal's triangle, with rows whose entries are determined by a simple calculation on the two entries above them, from which we can read off the sequence of Bernoulli numbers. 
 
 What I like about this algorithm, besides its simplicity and elegance, is that it admits a concordantly simple and elgant implementation in Haskell using infinite data structures.
 
@@ -72,6 +72,6 @@ Neat!
 [^2]: Kaneko, M.  The Akiyama-Tanigawa algorithm for Bernoulli numbers. *Journal of Integer Sequences* **3**, Article 00.2.9 (2000).
 [journal webpage](https://cs.uwaterloo.ca/journals/JIS/VOL3/KANEKO/AT-kaneko.html)
 
-[^3]: Of course we could just write a recursive `bernoulliNum` function and define `bernoulliNums = map bernoulliNum [1..]`, but that would be inefficient (and much less elegant).
+[^3]: Of course we could just write a recursive `bernoulliNum` function and define `bernoulliNums = map bernoulliNum [1..]`, but that would be inelegant (and inefficient).
 
 [^4]: This is more verbose than it needs to be for the purpose of exposition. This [github gist](https://gist.github.com/tkmharris/00e10d6341d3f9ce4f343302a51bb129) has a condensed version.
