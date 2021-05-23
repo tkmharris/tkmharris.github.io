@@ -139,7 +139,6 @@ a:active,
 a:visited {
 	text-decoration: none;
 	border-bottom: 1px solid #839496;
-	padding: 2px 4px;
 }
 a:hover {
 	color: #000000;
@@ -256,6 +255,13 @@ h3 {
 }
 .nounderline {
 	text-decoration: underline;
+}
+.inline-svg {
+  display: inline-block;
+  height: 1.15rem;
+  width: 1.15rem;
+  top: 0.15rem;
+  position: relative;
 }
 
 /*** Structure ***/
@@ -395,9 +401,16 @@ img.center {
 	margin: 0 auto 1em auto;
 }
 
+img[alt=inline] { 
+	display: block;
+	text-align: left;
+	margin: 0 1em 1em 0;
+	width: 200px; 
+}
+
 pre,
 code {
-	background-color: rgba(255, 255, 255, 0.015);
+	background-color: rgba(255, 255, 255, .02);
 	color: #93a1a1;
 	font-size: 95%;
 }

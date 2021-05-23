@@ -4,7 +4,6 @@
 	<div class="post-content">{{ .Content | safeHTML }}</div>
 
 	{{ range .Paginator.Pages }}
-
 		<article class="post">
 			<a href="{{ .Permalink }}">{{ .Title }}</a> {{ if .Draft }}(Draft){{ end }}
 		</article>
