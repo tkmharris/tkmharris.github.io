@@ -2,7 +2,7 @@
 	<article class="post">
 		<h1>{{ .Title }} {{ if .Draft }}(Draft){{ end }} </h1>
 		{{ if .Params.showDate }}
-			<p class="meta">{{ .Date.Format "Mon. 2 Jan. 2006" }}</p>
+			<p class="meta">{{ .Date.Format "Monday 2 January 2006" }}</p>
 		{{ end }}
 
 		<div class="post-content">{{ .Content | safeHTML }}</div>

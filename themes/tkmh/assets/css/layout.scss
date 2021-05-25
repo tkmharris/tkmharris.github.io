@@ -185,7 +185,6 @@ blockquote {
 	margin: 22px 22px;
 	padding: 0 20px;
 	border-left: 2px solid #000000;
-	font-size: 1.2em;
 	font-style: italic;
 	line-height: 1.5em;
 }
@@ -384,6 +383,7 @@ article img {
 
 article .meta {
 	padding-bottom: 2px;
+	font-style: italic;
 	font-size: 0.85em;
 }
 

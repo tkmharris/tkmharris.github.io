@@ -5,6 +5,7 @@ date: 2021-05-01
 
 Some books I'd like, in case you need to get me a gift.
 
+* **A Scheme of Heaven: Astrology and the Birth of Science**, Alexander Boxer.  
 * **Ælfred’s Britain: War and Peace in the Viking Age**, Max Adams.    
 * **The Absolute Book**, Elizabeth Knox.  
 * **Against the Grain: a deep history of the earliest states**, James C. Scott.  
@@ -20,6 +21,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Black Death (Manchester Medieval Sources)**, Rosemary Horrox.  
 * **Braised Pork**, An Yu.  
 * **A Brief History of Neoliberalism**, David Harvey.  
+* **Capital in the 21st Century**, Thomas Piketty.  
 * **Capitalist Realism**, Mark Fisher.  
 * **The Centaur**, John Updike.
 * **Cod: A Biography of the Fish that Changed the World**, Mark Kurlansky.  
@@ -139,9 +141,11 @@ Some books I'd like, in case you need to get me a gift.
 * **The Sleepwalkers: How Europe Went to War in 1914**, Christopher Clark.  
 * **Stonehenge**, Rosemary Hill.  
 * **The Souls of Yellow Folk**, Wesley Yang.  
-* **Sourdough**, Robin Sloan.  
+* **Sourdough**, Robin Sloan. 
+* **Stalin Ate My Homework**, Alexei Sayle.   
 * **The Strangest Man: The hidden Life of Paul Dirac, Quantum Genius**, Graham Farmelo.  
 * **The Struggle for Mastery: Britain 1066-1284**, David Carpenter.  
+* **Tales from the Loop**, Simon Stålenhag.  
 * **Territory of Light**, Yuko Tsushima.  
 * **That Reminds Me**, Derek Owusu.  
 * **Things The Grandchildren Should Know**, Mark Oliver Everett.  

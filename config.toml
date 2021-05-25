@@ -17,7 +17,7 @@ relativeURLs = true
   email = "tkmharris@protonmail.com"
 
 [params]
-  scheme = "gray" # light, dark, gray or preference
+  scheme = "gray" # light, dark, gray or tkmh-custom
   #description = "tkmh.space"
 
 [menu]
