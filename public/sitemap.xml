@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://tkmh.space/</loc>
+    <lastmod>2021-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://tkmh.space/flotsam/turing-herb/</loc>
+    <lastmod>2021-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://tkmh.space/flotsam/</loc>
+    <lastmod>2021-05-09T18:17:39+01:00</lastmod>
+  </url><url>
+    <loc>http://tkmh.space/flotsam/latin-square-wiphala/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://tkmh.space/flotsam/haskell-akiyama-tanigawa/</loc>
+    <lastmod>2021-05-01T17:03:32+01:00</lastmod>
+  </url><url>
+    <loc>http://tkmh.space/booklist/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://tkmh.space/maths/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://tkmh.space/wishlist/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://tkmh.space/categories/</loc>
+  </url><url>
+    <loc>http://tkmh.space/tags/</loc>
+  </url>
+</urlset>
