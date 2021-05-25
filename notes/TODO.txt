@@ -1,8 +1,0 @@
-
-Get MathJax working.
-
-Write something good for the writing section
-
-Make dropdown menus like this: https://www.maths.ed.ac.uk/~cbarwick/
-
-Make a nice geometric pattern for the right side.
