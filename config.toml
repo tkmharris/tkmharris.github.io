@@ -1,0 +1,42 @@
+baseURL = "http://tkmh.space/"
+languageCode = "en-uk"
+title = "Tom Harris"
+theme = "tkmh"
+# copyright = "© Tom Harris 2021–"
+pygmentsStyle = "solarized-dark" # solarized-light, -dark or -dark256
+pluralizeListTitles = false
+relativeURLs = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[author]
+  name = "Tom Harris"
+  email = "tkmharris@protonmail.com"
+
+[params]
+  scheme = "gray" # light, dark, gray or tkmh-custom
+  #description = "tkmh.space"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+  [[menu.other]]
+    name = "Maths"
+    url = "/maths/"
+    weight = 1
+  [[menu.other]]
+    name = "Booklist"
+    url = "/booklist/"
+    weight = 2
+  [[menu.other]]
+    name = "Flotsam"
+    url = "/flotsam/"
+    weight = 3
+
+
+
+
