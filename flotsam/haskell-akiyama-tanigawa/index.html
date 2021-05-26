@@ -73,7 +73,7 @@ It works by generating a structure resembling Pascal&rsquo;s triangle, with rows
 
 -- for example, the third element of the third row is
 -- 3*(1/4 - 1/5) = 3/20
-</code></pre><p>However, Haskell&rsquo;s infinite data structures and lazy evaluation lets us define the whole bi-infinte array—hence all the Bernoulli numbers—in one go.<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> Let&rsquo;s see how this is done.<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup></p>
+</code></pre><p>However, Haskell&rsquo;s infinite data structures and lazy evaluation lets us define the whole bi-infinte array—hence all the Bernoulli numbers—in one go.<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> Let&rsquo;s see how this is done.<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup><sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup></p>
 <p>First we import <code>Data.Ratio</code> to handle rationals and initialize an infinite array of the reciprocals of natural numbers:</p>
 <pre><code>import Data.Ratio
 
@@ -81,16 +81,17 @@ recips :: [Rational]
 recips = map (\n -&gt; 1 % n) [1..]
 </code></pre><p>Next we write our row update rule and iterate it infinitely on the initial row to get the bi-infinite grid:</p>
 <pre><code>nextRow :: [Rational] -&gt; [Rational]
--- ↓ a little tricky
-nextRow = nextRow' 1 where 
-	nextRow' n (y:ys) = ((y - head ys) * (toRational n)) : (nextRow' (n+1) ys)	
+nextRow xs = zipWith (*) [1..] (zipWith (-) xs (drop 1 xs))
 
 bernoulliGrid :: [[Rational]]
 bernoulliGrid = iterate nextRow recips
 </code></pre><p>Taking the first entries of each row in the grid gives the series of Bernoulli numbers:</p>
 <pre><code>bernoulliNums :: [Rational]
 bernoulliNums = map head bernoulliGrid
-</code></pre><p>Now we can get as many Bernoulli numbers as we want with <code>take &lt;num&gt; bernoulliNums</code>.</p>
+</code></pre><p>Now we can get as many Bernoulli numbers as we want with <code>take &lt;num&gt; bernoulliNums</code>. And indeed we have:</p>
+<pre><code>Prelude Data.Ratio&gt; take 5 bernoulliNums 
+[1 % 1,1 % 2,1 % 6,0 % 1,(-1) % 30]
+</code></pre><p>as expected.</p>
 <p>Neat!</p>
 <section class="footnotes" role="doc-endnotes">
 <hr>
@@ -107,7 +108,10 @@ bernoulliNums = map head bernoulliGrid
 <p>Of course we could just write a recursive <code>bernoulliNum</code> function and define <code>bernoulliNums = map bernoulliNum [1..]</code>, but that would be inelegant (and inefficient).&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:4" role="doc-endnote">
-<p>This is more verbose than it needs to be for the purpose of exposition. This <a href="https://gist.github.com/tkmharris/00e10d6341d3f9ce4f343302a51bb129">github gist</a> has a condensed version.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>This is a little more verbose than it needs to be for the purpose of exposition. This <a href="https://gist.github.com/tkmharris/00e10d6341d3f9ce4f343302a51bb129">github gist</a> has a condensed version.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:5" role="doc-endnote">
+<p>Thanks to Owen Stephens for some Haskell pointers and a more concise version of <code>nextRow</code> than my original.&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
 </section>
