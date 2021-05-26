@@ -32,7 +32,7 @@ If you want to generate the first n Bernoulli numbers, then you can start with j
 -- 3*(1/4 - 1/5) = 3/20
 ```
 
-However, Haskell's infinite data structures and lazy evaluation lets us define the whole bi-infinte array—hence all the Bernoulli numbers—in one go.[^3] Let's see how this is done.[^4]
+However, Haskell's infinite data structures and lazy evaluation lets us define the whole bi-infinte array—hence all the Bernoulli numbers—in one go.[^3] Let's see how this is done.[^4][^5]
 
 First we import `Data.Ratio` to handle rationals and initialize an infinite array of the reciprocals of natural numbers:
 
@@ -47,9 +47,7 @@ Next we write our row update rule and iterate it infinitely on the initial row t
 
 ```
 nextRow :: [Rational] -> [Rational]
--- ↓ a little tricky
-nextRow = nextRow' 1 where 
-	nextRow' n (y:ys) = ((y - head ys) * (toRational n)) : (nextRow' (n+1) ys)	
+nextRow xs = zipWith (*) [1..] (zipWith (-) xs (drop 1 xs))
 
 bernoulliGrid :: [[Rational]]
 bernoulliGrid = iterate nextRow recips
@@ -62,7 +60,12 @@ bernoulliNums :: [Rational]
 bernoulliNums = map head bernoulliGrid
 ```
 
-Now we can get as many Bernoulli numbers as we want with `take <num> bernoulliNums`.
+Now we can get as many Bernoulli numbers as we want with `take <num> bernoulliNums`. And indeed we have:
+```
+Prelude Data.Ratio> take 5 bernoulliNums 
+[1 % 1,1 % 2,1 % 6,0 % 1,(-1) % 30]
+```
+as expected.
 
 Neat!
 
@@ -74,4 +77,6 @@ Neat!
 
 [^3]: Of course we could just write a recursive `bernoulliNum` function and define `bernoulliNums = map bernoulliNum [1..]`, but that would be inelegant (and inefficient).
 
-[^4]: This is more verbose than it needs to be for the purpose of exposition. This [github gist](https://gist.github.com/tkmharris/00e10d6341d3f9ce4f343302a51bb129) has a condensed version.
+[^4]: This is a little more verbose than it needs to be for the purpose of exposition. This [github gist](https://gist.github.com/tkmharris/00e10d6341d3f9ce4f343302a51bb129) has a condensed version. 
+
+[^5]: Thanks to Owen Stephens for some Haskell pointers and a more concise version of `nextRow` than my original.
