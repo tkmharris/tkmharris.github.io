@@ -146,6 +146,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Strangest Man: The hidden Life of Paul Dirac, Quantum Genius**, Graham Farmelo.  
 * **The Struggle for Mastery: Britain 1066-1284**, David Carpenter.  
 * **Tales from the Loop**, Simon Stålenhag.  
+* **Ten Great Ideas About Chance**, Persi Diaconis & Brian Skyrms.  
 * **Territory of Light**, Yuko Tsushima.  
 * **That Reminds Me**, Derek Owusu.  
 * **Things The Grandchildren Should Know**, Mark Oliver Everett.  

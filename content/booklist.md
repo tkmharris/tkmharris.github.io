@@ -9,7 +9,7 @@ All the books I read since 2015. I also have a [wishlist](../wishlist/).
 ### Rubric
 Re-reads are marked with an asterisk (&lowast;).  
 Works read in translation are marked with a dagger (&dagger;).  
-Things I read for book club are marked with a tilde (&#126;)
+Things I read for book club are marked with a tilde (&#126;).
 
 ### <a name="2021"></a>2021
 
@@ -31,7 +31,7 @@ Things I read for book club are marked with a tilde (&#126;)
 
 9. **A Passion for Nature: the Life of John Muir**, Donald Worster.  
 
-10. **Theaetetus (Oxford World's Classics)**, Plato.  
+10. **The High House**, Jessie Greengrass.
 
 ### <a name="2020"></a>2020
 1. **The Wild Places**, Robert MacFarlane.
