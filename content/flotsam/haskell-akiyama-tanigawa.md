@@ -16,7 +16,7 @@ Let's describe the structure the algorithm emerges from. Like Pascals's triangle
 
 The first entries of each row—the leftmost vertical column—are the Bernoulli numbers.
 
-If you want to generate the first n Bernoulli numbers, then you can start with just n entries in the initial row. This is illustrated below for n=5; our first five Bernoulli numbers are 1, 1/2, 1/6, 0, -1/30, as expected.
+If you want to generate the first n Bernoulli numbers, then you can start with just n entries in the initial row. This is illustrated below for n=5; our first five Bernoulli numbers are 1, 1/2, 1/6, 0, -1/30, as we expect.
 ```
   1    1/2   1/3   1/4   1/5
   ↓  ↙  ↓  ↙  ↓  ↙  ↓  ↙  
@@ -34,7 +34,7 @@ If you want to generate the first n Bernoulli numbers, then you can start with j
 
 However, Haskell's infinite data structures and lazy evaluation lets us define the whole bi-infinte array—hence all the Bernoulli numbers—in one go.[^3] Let's see how this is done.[^4][^5]
 
-First we import `Data.Ratio` to handle rationals and initialize an infinite array of the reciprocals of natural numbers:
+First we import `Data.Ratio` to handle rationals (representing p/q with `p % q`) and initialize an infinite array of the reciprocals of natural numbers:
 
 ```
 import Data.Ratio
@@ -65,7 +65,6 @@ Now we can get as many Bernoulli numbers as we want with `take <num> bernoulliNu
 Prelude Data.Ratio> take 5 bernoulliNums 
 [1 % 1,1 % 2,1 % 6,0 % 1,(-1) % 30]
 ```
-as expected.
 
 Neat!
 
