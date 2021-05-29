@@ -60,7 +60,7 @@ It works by generating a structure resembling Pascal&rsquo;s triangle, with rows
 <li>In any subsequent row, the n-th element is given by the previous row&rsquo;s (n+1)-st element subtracted from its n-th element, all multiplied by n.</li>
 </ol>
 <p>The first entries of each row—the leftmost vertical column—are the Bernoulli numbers.</p>
-<p>If you want to generate the first n Bernoulli numbers, then you can start with just n entries in the initial row. This is illustrated below for n=5; our first five Bernoulli numbers are 1, 1/2, 1/6, 0, -1/30, as expected.</p>
+<p>If you want to generate the first n Bernoulli numbers, then you can start with just n entries in the initial row. This is illustrated below for n=5; our first five Bernoulli numbers are 1, 1/2, 1/6, 0, -1/30, as we expect.</p>
 <pre><code>  1    1/2   1/3   1/4   1/5
   ↓  ↙  ↓  ↙  ↓  ↙  ↓  ↙  
  1/2   1/3   1/4   1/5
@@ -74,7 +74,7 @@ It works by generating a structure resembling Pascal&rsquo;s triangle, with rows
 -- for example, the third element of the third row is
 -- 3*(1/4 - 1/5) = 3/20
 </code></pre><p>However, Haskell&rsquo;s infinite data structures and lazy evaluation lets us define the whole bi-infinte array—hence all the Bernoulli numbers—in one go.<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> Let&rsquo;s see how this is done.<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup><sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup></p>
-<p>First we import <code>Data.Ratio</code> to handle rationals and initialize an infinite array of the reciprocals of natural numbers:</p>
+<p>First we import <code>Data.Ratio</code> to handle rationals (representing p/q with <code>p % q</code>) and initialize an infinite array of the reciprocals of natural numbers:</p>
 <pre><code>import Data.Ratio
 
 recips :: [Rational]
@@ -91,8 +91,7 @@ bernoulliNums = map head bernoulliGrid
 </code></pre><p>Now we can get as many Bernoulli numbers as we want with <code>take &lt;num&gt; bernoulliNums</code>. And indeed we have:</p>
 <pre><code>Prelude Data.Ratio&gt; take 5 bernoulliNums 
 [1 % 1,1 % 2,1 % 6,0 % 1,(-1) % 30]
-</code></pre><p>as expected.</p>
-<p>Neat!</p>
+</code></pre><p>Neat!</p>
 <section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
