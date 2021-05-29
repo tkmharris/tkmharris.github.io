@@ -65,7 +65,6 @@ Some books I'd like, in case you need to get me a gift.
 * **Gone: a search for what remains of the earth's extinct creatures**, Michael Blencowe.  
 * **Growth of the Soil**, Knut Hamsun.  
 * **The Hedgehog and the Fox**, Isaiah Berlin.  
-* **The High House**, Jessie Greengrass.  
 * **The History of Iceland**, Gunnar Karlsson.  
 * **How To Be Depressed**, George Scialabba.  
 * **House of Leaves**, Mark Z. Danielewski.    
@@ -117,8 +116,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Pine**, Francine Toon.  
 * **The Planets**, Dava Sobel.  
 * **Poincaré and the Three-Body Problem**, June Barrow-Green. 
-* **Possible Minds: 25 ways of looking at AI**.   
-* **Priestdaddy**, Patricia Lockwood.  
+* **Possible Minds: 25 ways of looking at AI*     
 * **Reasons and Persons**, Derek Parfit.  
 * **The Recognitions**, William Gaddis.
 * **Red Plenty**, Francis Spufford.  
