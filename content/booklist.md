@@ -23,7 +23,7 @@ Things I read for book club are marked with a tilde (&#126;).
 
 5. **Wide Sargasso Sea**, Jean Rhys.  
 
-6. **The Three Body Problem**, Liu Cixin &dagger; (Chinese).  
+6. **The Three Body Problem**, Liu Cixin &dagger; (Mandarin).  
 
 7.  **Joe Gould's Secret**, Joseph Mitchell.  
 
@@ -34,6 +34,8 @@ Things I read for book club are marked with a tilde (&#126;).
 10. **The High House**, Jessie Greengrass.
 
 11. **The Palestinian-Israeli Conflict: A Very Short Introduction**, Martin Bunton.  
+
+12. **Priestdaddy**, Patricia Lockwood.  
 
 ### <a name="2020"></a>2020
 1. **The Wild Places**, Robert MacFarlane.

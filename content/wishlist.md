@@ -5,7 +5,6 @@ date: 2021-05-01
 
 Some books I'd like, in case you need to get me a gift.
 
-* **A Scheme of Heaven: Astrology and the Birth of Science**, Alexander Boxer.  
 * **Ælfred’s Britain: War and Peace in the Viking Age**, Max Adams.    
 * **The Absolute Book**, Elizabeth Knox.  
 * **Against the Grain: a deep history of the earliest states**, James C. Scott.  
@@ -38,6 +37,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Drowned World**, J. G. Ballard.  
 * **The Earth Dies Streaming**, A. S. Hamrah.   
 * **English Climate: Wartime Stories**, Sylvia Townsend Warner.  
+* **Entangled Life: how fungi make our worlds, change our minds and shape our futures**, Merlin Sheldrake.  
 * **The European Eel**, Steve Ely.  
 * **Evil Men**, James Dawes.  
 * **Exact Thinking in Demented Times: The Vienna Circle and the Epic Quest for the Foundations of Science**, Karl Sigmund.  
@@ -129,6 +129,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Road to Wigan Pier**, George Orwell.  
 * **Rosencrantz and Guildenstern Are Dead**, Tom Stoppard.  
 * **Sabrina**, Nick Drnaso.  
+* **A Scheme of Heaven: Astrology and the Birth of Science**, Alexander Boxer.  
 * **Science Fictions**, Stuart Ritchie.  
 * **Set Adrift Upon the World**, James Hunter.  
 * **Sex at Dawn**, Christopher Ryan and Cacilda Jethá.  
@@ -148,7 +149,6 @@ Some books I'd like, in case you need to get me a gift.
 * **Territory of Light**, Yuko Tsushima.  
 * **That Reminds Me**, Derek Owusu.  
 * **Things The Grandchildren Should Know**, Mark Oliver Everett.  
-* **Time Travel**, James Gleick.  
 * **The Time Traveller's Guide to Medieval England**, Ian Mortimer.  
 * **The Thing in the Gap Stone Stile**, Alice Oswald.  
 * **Tove Jansson: Work and Love**, Tuula Karjalainen.  
