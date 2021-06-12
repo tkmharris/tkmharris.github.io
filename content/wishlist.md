@@ -33,6 +33,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Disappearing Earth**, Julia Phillips.  
 * **The Dispossessed**, Ursula K. LeGuin.  
 * **Don Quixote**, Cervantes.  
+* **Down and Out in Paris and London**, George Orwell.  
 * **Down Girl: the logic of misogyny**, Kate Manne.  
 * **The Drowned World**, J. G. Ballard.  
 * **The Earth Dies Streaming**, A. S. Hamrah.   
@@ -80,6 +81,7 @@ Some books I'd like, in case you need to get me a gift.
 * **It**, Stephen King.   
 * **The Journal of a Disappointed Man**, W.N.P. Barbellion.  
 * **The Journals Of A White Sea Wolf**, Mariusz Wilk.  
+* **The Journey to the West: vol 1**, Anthony C. Yu.  
 * **Kokoro**, Natsume Sōseki.  
 * **K-Punk: The Collected and Unpublished Writings of Mark Fisher**, Mark Fisher.  
 * **Leaving the Planet by Space Elevator**, Phillip Ragan & Bradley Edwards.  
@@ -132,7 +134,6 @@ Some books I'd like, in case you need to get me a gift.
 * **A Scheme of Heaven: Astrology and the Birth of Science**, Alexander Boxer.  
 * **Science Fictions**, Stuart Ritchie.  
 * **Set Adrift Upon the World**, James Hunter.  
-* **Sex at Dawn**, Christopher Ryan and Cacilda Jethá.  
 * **The Sickness Unto Death**, S&#248;ren Kierkegaard.  
 * **Silence**, Endō Shūsaku.  
 * **Silent Spring**, Rachel Carson.  
@@ -167,4 +168,5 @@ Walter Sinnott-Armstrong.
 * **Wasting Time on the Internet**, Kenneth Goldsmith.  
 * **Watching the English**, Kate Fox.  
 * **What's Your Pronoun**, Dennis Baron.  
+* **Yes Yes More More**, Anna Wood.  
 * **You Too Can Have a Body Like Mine**, Alexandra Kleeman.  

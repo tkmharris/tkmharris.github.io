@@ -37,6 +37,8 @@ Things I read for book club are marked with a tilde (&#126;).
 
 12. **Priestdaddy**, Patricia Lockwood.  
 
+13. **Time Travel: A History**, James Gleick.  
+
 ### <a name="2020"></a>2020
 1. **The Wild Places**, Robert MacFarlane.
 
