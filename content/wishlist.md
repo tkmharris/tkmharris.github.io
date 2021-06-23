@@ -37,6 +37,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Down Girl: the logic of misogyny**, Kate Manne.  
 * **The Drowned World**, J. G. Ballard.  
 * **The Earth Dies Streaming**, A. S. Hamrah.   
+* **The End of Eternity**, Isaac Asimov.  
 * **English Climate: Wartime Stories**, Sylvia Townsend Warner.  
 * **Entangled Life: how fungi make our worlds, change our minds and shape our futures**, Merlin Sheldrake.  
 * **The European Eel**, Steve Ely.  
@@ -118,7 +119,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Pine**, Francine Toon.  
 * **The Planets**, Dava Sobel.  
 * **Poincaré and the Three-Body Problem**, June Barrow-Green. 
-* **Possible Minds: 25 ways of looking at AI*     
+* **Possible Minds: 25 ways of looking at AI**     
 * **Reasons and Persons**, Derek Parfit.  
 * **The Recognitions**, William Gaddis.
 * **Red Plenty**, Francis Spufford.  
@@ -134,7 +135,6 @@ Some books I'd like, in case you need to get me a gift.
 * **A Scheme of Heaven: Astrology and the Birth of Science**, Alexander Boxer.  
 * **Science Fictions**, Stuart Ritchie.  
 * **Set Adrift Upon the World**, James Hunter.  
-* **The Sickness Unto Death**, S&#248;ren Kierkegaard.  
 * **Silence**, Endō Shūsaku.  
 * **Silent Spring**, Rachel Carson.  
 * **Simone Weil: an anthology**, Simone Weil.  
@@ -150,6 +150,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Territory of Light**, Yuko Tsushima.  
 * **That Reminds Me**, Derek Owusu.  
 * **Things The Grandchildren Should Know**, Mark Oliver Everett.  
+* **The Time Machine**, H.G. Wells.  
 * **The Time Traveller's Guide to Medieval England**, Ian Mortimer.  
 * **The Thing in the Gap Stone Stile**, Alice Oswald.  
 * **Tove Jansson: Work and Love**, Tuula Karjalainen.  
