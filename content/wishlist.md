@@ -1,17 +1,15 @@
 ---
 title: "Wishlist"
-date: 2021-05-01
+date: 2021-07-06
 ---
 
 Some books I'd like, in case you need to get me a gift.
 
 * **Ælfred’s Britain: War and Peace in the Viking Age**, Max Adams.    
+* **At the Existentialist Cafe**, Sarah Bakewell.  
 * **The Absolute Book**, Elizabeth Knox.  
-* **Against the Grain: a deep history of the earliest states**, James C. Scott.  
 * **The Age of Surveillance Capitalism**, Shoshana Zuboff.  
 * **The Age of Wonder**, Richard Holmes.  
-* **Algorithmic Puzzles**, Anany Levitin & Maria Levitin.  
-* **Algorithmic Thinking: A Problem-Based Introduction**, Daniel Zingaro.  
 * **Arctic Voices: resistance at the tipping point**, Subhankar Banerjee.  
 * **The Ashtray: (Or the Man Who Denied Reality)**, Errol Morris.  
 * **The Beauty of Everyday Things**, Soetsu Yanagi.  
@@ -19,14 +17,17 @@ Some books I'd like, in case you need to get me a gift.
 * **The Bells of Nagasaki**, Takashi Nagai.  
 * **The Black Death (Manchester Medieval Sources)**, Rosemary Horrox.  
 * **Braised Pork**, An Yu.  
+* **Brexitland**, Maria Sobolewska & Robert Ford.  
 * **A Brief History of Neoliberalism**, David Harvey.  
-* **Capital in the 21st Century**, Thomas Piketty.  
 * **Capitalist Realism**, Mark Fisher.  
 * **The Centaur**, John Updike.
+* **The Chrysanthemum and the Sword**, Ruth Benedict.  
 * **Cod: A Biography of the Fish that Changed the World**, Mark Kurlansky.  
 * **CoDex 1962: A Trilogy**, Sjón.  
 * **The Collected Stories of Grace Paley**, Grace Paley.  
 * **The Coming Insurrection**, The Invisible Committee.  
+* **The Crime Writer**, Jill Dawson.  
+* **The Cry of the Owl**, Patricia Highsmith.  
 * **David Copperfield**, Charles Dickens.
 * **The Crystal Messenger**, Pham Thi Hoal.  
 * **Death in Her Hands**, Ottessa Moshfegh.  
@@ -38,15 +39,12 @@ Some books I'd like, in case you need to get me a gift.
 * **The Drowned World**, J. G. Ballard.  
 * **The Earth Dies Streaming**, A. S. Hamrah.   
 * **The End of Eternity**, Isaac Asimov.  
-* **English Climate: Wartime Stories**, Sylvia Townsend Warner.  
-* **Entangled Life: how fungi make our worlds, change our minds and shape our futures**, Merlin Sheldrake.  
 * **The European Eel**, Steve Ely.  
 * **Evil Men**, James Dawes.  
-* **Exact Thinking in Demented Times: The Vienna Circle and the Epic Quest for the Foundations of Science**, Karl Sigmund.  
+* **Exact Thinking in Demented Times**, Karl Sigmund.  
 * **Exhalation**, Ted Chiang.  
 * **Feral**, George Monbiot.  
 * **Ficciones**, Jorge Luis Borges.  
-* **Finite and Infinite Games**, James P. Carse.  
 * **The First American: the life and times of Benjamin Franklin**, H. W. Brands.  
 * **The First Bad Man**, Miranda July.  
 * **First You Write a Sentence**, Joe Moran.  
@@ -56,18 +54,18 @@ Some books I'd like, in case you need to get me a gift.
 * **Fred**, Posy Simmonds.    
 * **From Hell**, Alan Moore & Eddie Campbell.  
 * **Future Sex**, Emily Witt.  
-* **The Future Starts Here: Adventures in the Twenty-First Century**, John Higgs.  
-* **The Gallows Pole**, Benjamin Myers.  
-* **Generation Left**, Keir Milburn.  
+* **The Gallows Pole**, Benjamin Myers. 
 * **The Genius in my Basement**, Alexander Masters.  
 * **A Girl Is a Half-Formed Thing**, Eimear McBride.  
 * **The Glass Hotel**, Emily St.John Mandell.  
 * **The Golden Bough**, James Frazer.  
 * **The Golden Notebook**, Doris Lessing.  
 * **Gone: a search for what remains of the earth's extinct creatures**, Michael Blencowe.  
-* **Growth of the Soil**, Knut Hamsun.  
+* **Half of a Yellow Sun**, Chimamanda Ngozi Adichie.  
 * **The Hedgehog and the Fox**, Isaiah Berlin.  
-* **The History of Iceland**, Gunnar Karlsson.  
+* **Hinton**, Mark Blacklock.    
+* **How Animals Work**, Knut Schmidt-Nelson.  
+* **How Bad Are Bananas**, Mike Berners-Lee.  
 * **How To Be Depressed**, George Scialabba.  
 * **House of Leaves**, Mark Z. Danielewski.    
 * **Hunger Makes Me a Modern Girl**, Carrie Brownstein.  
@@ -94,13 +92,13 @@ Some books I'd like, in case you need to get me a gift.
 * **Madam Bovary**,  Gustave Flaubert.    
 * **The Magicians**, Lev Grossman.  
 * **Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001–2011**, Lizzy Goodman.  
+* **The Melancholia of Class**, Cynthia Cruz.  
 * **More Trees to Climb**, Ben Moor.  
 * **Miles from Nowhere**, Nami Mun.  
 * **The Ministry for the Future**, Kim Stanely Robinson.  
 * **The Mushroom at the End of the World**, Anna Lowenhaupt Tsing.  
 * **My First Summer in the Sierra**, John Muir.  
 * **Naming Infinity**, Loren Graham & Jean-Michel Kantor.  
-* **New Dark Age: technology and the end of the future**, James Bridle.  
 * **The Nine Billion Names of God**, Arthur C. Clarke.  
 * **Njal's Saga (Penguin Classics)**, Anonymous.  
 * **No One Is Talking About This**, Patricia Lockwood.  
@@ -113,9 +111,11 @@ Some books I'd like, in case you need to get me a gift.
 * **Once They Were Hats**, Frances Backhouse.  
 * **Ordinary Differential Equations (MIT Press)**, V. I. Arnold.   
 * **Out of Sheer Rage**, Geoff Dyer.  
+* **The Paper Lantern**, Will Burns.  
 * **Perdido Street Station**, China Miéville.  
 * **Phillip Larkin: a Writer's Life**, Andrew Motion.  
 * **Picnic at Hanging Rock**, Joan Lindsay.  
+* **Picture This**, Molly Bang.  
 * **Pine**, Francine Toon.  
 * **The Planets**, Dava Sobel.  
 * **Poincaré and the Three-Body Problem**, June Barrow-Green. 
@@ -124,6 +124,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Recognitions**, William Gaddis.
 * **Red Plenty**, Francis Spufford.  
 * **Regular Polytopes**, H.S.M. Coxeter.  
+* **The Reinvention of Humanity**, Charles King.  
 * **Revolting Prostitutes**, Juno Mac & Molly Smith.  
 * **The Righteous Mind**, Jonathan Haidt.  
 * **The Rise and Fall of the Dinosaurs: a new history of a lost world**, Steve Brusatte.  
@@ -135,6 +136,7 @@ Some books I'd like, in case you need to get me a gift.
 * **A Scheme of Heaven: Astrology and the Birth of Science**, Alexander Boxer.  
 * **Science Fictions**, Stuart Ritchie.  
 * **Set Adrift Upon the World**, James Hunter.  
+* **Shape**, Jordan Ellenberg.  
 * **Silence**, Endō Shūsaku.  
 * **Silent Spring**, Rachel Carson.  
 * **Simone Weil: an anthology**, Simone Weil.  
@@ -153,7 +155,6 @@ Some books I'd like, in case you need to get me a gift.
 * **The Time Machine**, H.G. Wells.  
 * **The Time Traveller's Guide to Medieval England**, Ian Mortimer.  
 * **The Thing in the Gap Stone Stile**, Alice Oswald.  
-* **Tove Jansson: Work and Love**, Tuula Karjalainen.  
 * **Travels in Alaska**, John Muir.  
 * **Travelers of a Hundred Ages: The Japanese as Revealed Through 1,000 Years of Diaries**, Donald Keene.   
 * **The Trial of Henry Kissinger**, Christopher Hitchens.  
@@ -162,11 +163,9 @@ Walter Sinnott-Armstrong.
 * **Thousand Cranes**, Yasunari Kawabata.  
 * **Uncanny Valley**, Anna Wiener.  
 * **The Unconsoled**, Kazuo Ishiguro.  
-* **Utopia for Realists**, Rutger Bergman.  
 * **The Varieties of Religious Experience**, William James.  
 * **Vesper Flights**, Helen Macdonald.  
 * **The Visual Display of Quantitative Information**, Edward R. Tufte.  
-* **Wasting Time on the Internet**, Kenneth Goldsmith.  
 * **Watching the English**, Kate Fox.  
 * **What's Your Pronoun**, Dennis Baron.  
 * **Yes Yes More More**, Anna Wood.  
