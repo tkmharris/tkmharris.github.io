@@ -10,6 +10,16 @@
     <webMaster>tkmharris@protonmail.com (Tom Harris)</webMaster>
     <lastBuildDate>Sat, 22 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://tkmh.space/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Wishlist</title>
+      <link>http://tkmh.space/wishlist/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <author>tkmharris@protonmail.com (Tom Harris)</author>
+      <guid>http://tkmh.space/wishlist/</guid>
+      <description>Some books I&amp;rsquo;d like, in case you need to get me a gift.
+ Ælfred’s Britain: War and Peace in the Viking Age, Max Adams. At the Existentialist Cafe, Sarah Bakewell. The Absolute Book, Elizabeth Knox. The Age of Surveillance Capitalism, Shoshana Zuboff. The Age of Wonder, Richard Holmes. Arctic Voices: resistance at the tipping point, Subhankar Banerjee. The Ashtray: (Or the Man Who Denied Reality), Errol Morris. The Beauty of Everyday Things, Soetsu Yanagi.</description>
+    </item>
+    
+    <item>
       <title>Herb</title>
       <link>http://tkmh.space/flotsam/turing-herb/</link>
       <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
@@ -74,16 +84,6 @@ arXiv, published
   Two Formulae for exterior power operations on higher K-groups.
 (with Bernhard Köck)
 arXiv, published</description>
-    </item>
-    
-    <item>
-      <title>Wishlist</title>
-      <link>http://tkmh.space/wishlist/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <author>tkmharris@protonmail.com (Tom Harris)</author>
-      <guid>http://tkmh.space/wishlist/</guid>
-      <description>Some books I&amp;rsquo;d like, in case you need to get me a gift.
- Ælfred’s Britain: War and Peace in the Viking Age, Max Adams. The Absolute Book, Elizabeth Knox. Against the Grain: a deep history of the earliest states, James C. Scott. The Age of Surveillance Capitalism, Shoshana Zuboff. The Age of Wonder, Richard Holmes. Algorithmic Puzzles, Anany Levitin &amp;amp; Maria Levitin. Algorithmic Thinking: A Problem-Based Introduction, Daniel Zingaro. Arctic Voices: resistance at the tipping point, Subhankar Banerjee.</description>
     </item>
     
   </channel>
