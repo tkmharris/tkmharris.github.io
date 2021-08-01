@@ -43,6 +43,13 @@ Things I read for book club are marked with a tilde (&#126;).
 
 15. **Address Unknown**, Kathrine Kressmann Taylor.    
 
+16. **Mountains and Desire**, Margret Grebowicz.
+
+17. **Heaven**, Meiko Kawakami. &dagger; (Japanese)  
+
+18. **Dos and Don'ts: 10 Years Of Vice Magazine's Street Fashion Critiques**, Gavin McInnes.  
+
+
 ### <a name="2020"></a>2020
 1. **The Wild Places**, Robert MacFarlane.
 
