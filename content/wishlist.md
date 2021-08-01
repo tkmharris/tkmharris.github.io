@@ -1,6 +1,5 @@
 ---
 title: "Wishlist"
-date: 2021-07-06
 ---
 
 Some books I'd like, in case you need to get me a gift.
@@ -16,6 +15,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Being Ecological**, Timothy Morton.  
 * **The Bells of Nagasaki**, Takashi Nagai.  
 * **The Black Death (Manchester Medieval Sources)**, Rosemary Horrox.  
+* **Black Teacher**, Beryl Gilroy.  
 * **Braised Pork**, An Yu.  
 * **Brexitland**, Maria Sobolewska & Robert Ford.  
 * **A Brief History of Neoliberalism**, David Harvey.  
@@ -62,6 +62,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Golden Notebook**, Doris Lessing.  
 * **Gone: a search for what remains of the earth's extinct creatures**, Michael Blencowe.  
 * **Half of a Yellow Sun**, Chimamanda Ngozi Adichie.  
+* **The Heart of the Original**, Steve Aylett.  
 * **The Hedgehog and the Fox**, Isaiah Berlin.  
 * **Hinton**, Mark Blacklock.    
 * **How Animals Work**, Knut Schmidt-Nelson.  
@@ -77,6 +78,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Infinitesimal**, Amir Alexander.  
 * **The Infinities**, John Banville.  
 * **The Intellectuals and the Masses**, John Carey.  
+* **There Is No Such Thing As Cultural Identity**, François Jullien.  
 * **It**, Stephen King.   
 * **The Journal of a Disappointed Man**, W.N.P. Barbellion.  
 * **The Journals Of A White Sea Wolf**, Mariusz Wilk.  
@@ -116,7 +118,6 @@ Some books I'd like, in case you need to get me a gift.
 * **Phillip Larkin: a Writer's Life**, Andrew Motion.  
 * **Picnic at Hanging Rock**, Joan Lindsay.  
 * **Picture This**, Molly Bang.  
-* **Pine**, Francine Toon.  
 * **The Planets**, Dava Sobel.  
 * **Poincaré and the Three-Body Problem**, June Barrow-Green. 
 * **Possible Minds: 25 ways of looking at AI**     
@@ -135,6 +136,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Sabrina**, Nick Drnaso.  
 * **A Scheme of Heaven: Astrology and the Birth of Science**, Alexander Boxer.  
 * **Science Fictions**, Stuart Ritchie.  
+* **Seeing Like A State**, James Scott.  
 * **Set Adrift Upon the World**, James Hunter.  
 * **Shape**, Jordan Ellenberg.  
 * **Silence**, Endō Shūsaku.  
