@@ -67,7 +67,8 @@ Some books I'd like, in case you need to get me a gift.
 * **Hinton**, Mark Blacklock.    
 * **How Animals Work**, Knut Schmidt-Nelson.  
 * **How Bad Are Bananas**, Mike Berners-Lee.  
-* **How To Be Depressed**, George Scialabba.  
+* **How To Be Depressed**, George Scialabba.   
+* **Howl's Moving Castle**, Diana Wynne Jones.  
 * **House of Leaves**, Mark Z. Danielewski.    
 * **Hunger Makes Me a Modern Girl**, Carrie Brownstein.  
 * **The Hungry Brain**, Stephan Guyenet.
@@ -147,6 +148,8 @@ Some books I'd like, in case you need to get me a gift.
 * **The Souls of Yellow Folk**, Wesley Yang.  
 * **Sourdough**, Robin Sloan. 
 * **Stalin Ate My Homework**, Alexei Sayle.   
+* **Strange Weather in Tokyo**, 
+Hiromi Kawakami.  
 * **The Strangest Man: The hidden Life of Paul Dirac, Quantum Genius**, Graham Farmelo.  
 * **The Struggle for Mastery: Britain 1066-1284**, David Carpenter.  
 * **Tales from the Loop**, Simon Stålenhag.  
