@@ -43,6 +43,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Evil Men**, James Dawes.  
 * **Exact Thinking in Demented Times**, Karl Sigmund.  
 * **Exhalation**, Ted Chiang.  
+* **Fat City**, Leonard Gardner.  
 * **Feral**, George Monbiot.  
 * **Ficciones**, Jorge Luis Borges.  
 * **The First American: the life and times of Benjamin Franklin**, H. W. Brands.  
@@ -96,6 +97,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Magicians**, Lev Grossman.  
 * **Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001–2011**, Lizzy Goodman.  
 * **The Melancholia of Class**, Cynthia Cruz.  
+* **Modern Buildings in Britain: a gazetteer**, Owen Hatherley.  
 * **More Trees to Climb**, Ben Moor.  
 * **Miles from Nowhere**, Nami Mun.  
 * **The Ministry for the Future**, Kim Stanely Robinson.  
@@ -121,6 +123,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Picture This**, Molly Bang.  
 * **The Planets**, Dava Sobel.  
 * **Poincaré and the Three-Body Problem**, June Barrow-Green. 
+* **Possession**, Jane Austen.  
 * **Possible Minds: 25 ways of looking at AI**     
 * **Reasons and Persons**, Derek Parfit.  
 * **The Recognitions**, William Gaddis.
@@ -132,6 +135,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Rise and Fall of the Dinosaurs: a new history of a lost world**, Steve Brusatte.  
 * **RISINGTIDEFALLINGSTAR**, Phillip Hoare.  
 * **Resevoir 13**, John McGregor.  
+* **The Right to Sex**, Amia Srinivasan.  
 * **The Road to Wigan Pier**, George Orwell.  
 * **Rosencrantz and Guildenstern Are Dead**, Tom Stoppard.  
 * **Sabrina**, Nick Drnaso.  
@@ -148,7 +152,6 @@ Some books I'd like, in case you need to get me a gift.
 * **The Souls of Yellow Folk**, Wesley Yang.  
 * **Sourdough**, Robin Sloan. 
 * **Stalin Ate My Homework**, Alexei Sayle.   
-* **Strange Weather in Tokyo**, 
 Hiromi Kawakami.  
 * **The Strangest Man: The hidden Life of Paul Dirac, Quantum Genius**, Graham Farmelo.  
 * **The Struggle for Mastery: Britain 1066-1284**, David Carpenter.  
