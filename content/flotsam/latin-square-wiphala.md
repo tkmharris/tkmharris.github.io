@@ -1,5 +1,5 @@
 ---
-title: "Latin Square Wiphala"
+title: "Latin Wiphala"
 date: 2021-05-04
 showDate: true
 draft: false
