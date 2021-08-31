@@ -55,9 +55,11 @@ Things I read for book club are marked with a tilde (&#126;).
 
 21. **The Utopia of Rules**, David Graeber.  
 
+22. **Strange Weather in Tokyo**, Hiromi Kawakami. &dagger; (Japanese)  
+
 
 ### <a name="2020"></a>2020
-1. **The Wild Places**, Robert MacFarlane.
+1. **The Wild Places**, Robert MacFarlane.  
 
 2. **Trick Mirror**, Jia Tolentino.
 

@@ -430,3 +430,31 @@ Put a wok over a high heat, add the sesame oil and fry the tofu for about 5 minu
 Add the peppers, broccoli and spring onions, reserving a handful to garnish, to the stir-fry and toss over a high heat for 3–4 minutes before adding the carrot ribbons. Add the noodles, pour in the remaining sauce and season with the salt. Stir-fry until the noodles are coated in the sauce and heated through.
 
 Serve the stir-fry with the reserved spring onions and sesame seeds to garnish.
+
+
+### Plum and almond sponge cake
+
+#### Ingredients
+* 200g butter, softened, plus extra for greasing
+* 200g golden caster sugar
+* 4 large free-range eggs
+* 100g plain flour
+* 2 tsp baking powder
+* 130g ground almonds
+* 50g roasted hazelnuts, chopped
+* 120g golden marzipan, chopped
+* 500g (about 12) ripe plums, stoned and cut into quarters
+* 20g flaked almonds, toasted
+* 60g icing sugar
+* 1 tbsp lemon juice
+
+#### Method
+Preheat the oven to 180°C/fan160°C/gas 4. Lightly grease a 23cm square tin that’s 5cm deep and line the base with baking paper.
+
+In a big bowl, cream the butter and sugar with a hand-held electric whisk until pale, light and fluffy, then gradually add the eggs, whisking between each addition. Sift over the flour and baking powder, add the ground almonds and fold in gently with a big spoon. Fold in the hazelnuts and marzipan.
+
+Pour the mix into the tin and scatter the plum quarters over, pushing them down a little into the mixture. Bake for 50 minutes until a skewer inserted in the centre comes out clean. Scatter with the flaked almonds.
+
+Cool a little in the tin and then remove to a wire rack to cool completely.
+
+For the lemon icing, sift the icing sugar into a bowl, add the lemon juice and stir to a single-cream consistency. Use a teaspoon or piping bag to drizzle the icing over the cake, then cut into squares and serve as a teatime treat. 
