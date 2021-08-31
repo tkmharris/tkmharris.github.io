@@ -80,6 +80,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Infinitesimal**, Amir Alexander.  
 * **The Infinities**, John Banville.  
 * **The Intellectuals and the Masses**, John Carey.  
+* **The Intellectual Life of the British Working Classes*, Jonathan Rose.  
 * **There Is No Such Thing As Cultural Identity**, François Jullien.  
 * **It**, Stephen King.   
 * **The Journal of a Disappointed Man**, W.N.P. Barbellion.  
@@ -91,6 +92,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Leonhard Euler: Mathematical Genius in the Enlightenment**, Ronald S. Calinger.  
 * **A Libertarian Walks Into a Bear: The Utopian Plot to Liberate an American Town (And Some Bears)**, Matthew Hongoltz-Hetling.  
 * **Lint**, Steve Aylett.  
+* **Little Fires Everywhere**, Celeste Ng.  
 * **The Love Affairs of Nathaniel P.**, Adelle Waldman.  
 * **The Luminaries**, Eleanor Catton.
 * **Madam Bovary**,  Gustave Flaubert.    
@@ -106,7 +108,6 @@ Some books I'd like, in case you need to get me a gift.
 * **Naming Infinity**, Loren Graham & Jean-Michel Kantor.  
 * **The Nine Billion Names of God**, Arthur C. Clarke.  
 * **Njal's Saga (Penguin Classics)**, Anonymous.  
-* **No One Is Talking About This**, Patricia Lockwood.  
 * **The Norton Introduction to Philosophy**, Gideon Rosen, Alex Byrne, Joshua Cohen & Seana Shiffrin *(Eds.)*.  
 * **On Bullshit**, Harry G. Frankfurt.  
 * **On Murder Considered as One of the Fine Arts**, Thomas de Quincey.  
@@ -132,6 +133,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Reinvention of Humanity**, Charles King.  
 * **Revolting Prostitutes**, Juno Mac & Molly Smith.  
 * **The Righteous Mind**, Jonathan Haidt.  
+* **Ring of Bright Water**, Gavin Maxwell.  
 * **The Rise and Fall of the Dinosaurs: a new history of a lost world**, Steve Brusatte.  
 * **RISINGTIDEFALLINGSTAR**, Phillip Hoare.  
 * **Resevoir 13**, John McGregor.  
@@ -151,8 +153,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Stonehenge**, Rosemary Hill.  
 * **The Souls of Yellow Folk**, Wesley Yang.  
 * **Sourdough**, Robin Sloan. 
-* **Stalin Ate My Homework**, Alexei Sayle.   
-Hiromi Kawakami.  
+* **Stalin Ate My Homework**, Alexei Sayle.  
 * **The Strangest Man: The hidden Life of Paul Dirac, Quantum Genius**, Graham Farmelo.  
 * **The Struggle for Mastery: Britain 1066-1284**, David Carpenter.  
 * **Tales from the Loop**, Simon Stålenhag.  
