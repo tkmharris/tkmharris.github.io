@@ -51,7 +51,7 @@ Things I read for book club are marked with a tilde (&#126;).
 
 19. **Pine**, Francine Toon.  
 
-20. **What I Talk About When I Talk About Running**, Haruki Murakami. &dagger; (Japanese)  
+20. **What I Talk About When I Talk About Running**, Haruki Murakami. &lowast;, &dagger; (Japanese)  
 
 21. **The Utopia of Rules**, David Graeber.  
 
