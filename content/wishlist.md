@@ -22,6 +22,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Capitalist Realism**, Mark Fisher.  
 * **The Centaur**, John Updike.
 * **The Chrysanthemum and the Sword**, Ruth Benedict.  
+* **Climbers**, M. John Harrison.  
 * **Cod: A Biography of the Fish that Changed the World**, Mark Kurlansky.  
 * **CoDex 1962: A Trilogy**, Sjón.  
 * **The Collected Stories of Grace Paley**, Grace Paley.  
@@ -39,12 +40,12 @@ Some books I'd like, in case you need to get me a gift.
 * **The Drowned World**, J. G. Ballard.  
 * **The Earth Dies Streaming**, A. S. Hamrah.   
 * **The End of Eternity**, Isaac Asimov.  
+* **Erasure**, Percival Everett.  
 * **The European Eel**, Steve Ely.  
 * **Evil Men**, James Dawes.  
 * **Exact Thinking in Demented Times**, Karl Sigmund.  
 * **Exhalation**, Ted Chiang.  
 * **Fat City**, Leonard Gardner.  
-* **Feral**, George Monbiot.  
 * **Ficciones**, Jorge Luis Borges.  
 * **The First American: the life and times of Benjamin Franklin**, H. W. Brands.  
 * **The First Bad Man**, Miranda July.  
@@ -80,8 +81,8 @@ Some books I'd like, in case you need to get me a gift.
 * **Infinitesimal**, Amir Alexander.  
 * **The Infinities**, John Banville.  
 * **The Intellectuals and the Masses**, John Carey.  
-* **The Intellectual Life of the British Working Classes*, Jonathan Rose.  
-* **There Is No Such Thing As Cultural Identity**, François Jullien.  
+* **The Intellectual Life of the British Working Classes**, Jonathan Rose.  
+* **Intimations**, Zadie Smith.  
 * **It**, Stephen King.   
 * **The Journal of a Disappointed Man**, W.N.P. Barbellion.  
 * **The Journals Of A White Sea Wolf**, Mariusz Wilk.  
@@ -96,7 +97,6 @@ Some books I'd like, in case you need to get me a gift.
 * **The Love Affairs of Nathaniel P.**, Adelle Waldman.  
 * **The Luminaries**, Eleanor Catton.
 * **Madam Bovary**,  Gustave Flaubert.    
-* **The Magicians**, Lev Grossman.  
 * **Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001–2011**, Lizzy Goodman.  
 * **The Melancholia of Class**, Cynthia Cruz.  
 * **Modern Buildings in Britain: a gazetteer**, Owen Hatherley.  
@@ -139,8 +139,8 @@ Some books I'd like, in case you need to get me a gift.
 * **Resevoir 13**, John McGregor.  
 * **The Right to Sex**, Amia Srinivasan.  
 * **The Road to Wigan Pier**, George Orwell.  
+* **Roarings from Further Out**, Algernon Blackwood.  
 * **Rosencrantz and Guildenstern Are Dead**, Tom Stoppard.  
-* **Sabrina**, Nick Drnaso.  
 * **A Scheme of Heaven: Astrology and the Birth of Science**, Alexander Boxer.  
 * **Science Fictions**, Stuart Ritchie.  
 * **Seeing Like A State**, James Scott.  
@@ -149,7 +149,6 @@ Some books I'd like, in case you need to get me a gift.
 * **Silence**, Endō Shūsaku.  
 * **Silent Spring**, Rachel Carson.  
 * **Simone Weil: an anthology**, Simone Weil.  
-* **The Sleepwalkers: How Europe Went to War in 1914**, Christopher Clark.  
 * **Stonehenge**, Rosemary Hill.  
 * **The Souls of Yellow Folk**, Wesley Yang.  
 * **Sourdough**, Robin Sloan. 
