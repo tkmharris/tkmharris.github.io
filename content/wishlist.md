@@ -176,5 +176,6 @@ Walter Sinnott-Armstrong.
 * **The Visual Display of Quantitative Information**, Edward R. Tufte.  
 * **Watching the English**, Kate Fox.  
 * **What's Your Pronoun**, Dennis Baron.  
+* **The What, Why and How of Assessment**, Simon Child & Paul Ellis.  
 * **Yes Yes More More**, Anna Wood.  
 * **You Too Can Have a Body Like Mine**, Alexandra Kleeman.  
