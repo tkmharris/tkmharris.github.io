@@ -312,7 +312,7 @@ You can begin to eat your kimchi right away, but it will continue to ripen and b
 Makes two portions.
 
 #### Ingredients
-
+  
 *for the salmon*
 * 50g brown sugar
 * 60ml soy sauce
