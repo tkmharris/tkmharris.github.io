@@ -28,6 +28,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Collected Stories of Grace Paley**, Grace Paley.  
 * **The Coming Insurrection**, The Invisible Committee.  
 * **The Crime Writer**, Jill Dawson.  
+* **Crow Court**, Andy Charman.  
 * **The Cry of the Owl**, Patricia Highsmith.  
 * **David Copperfield**, Charles Dickens.
 * **The Crystal Messenger**, Pham Thi Hoal.  
@@ -141,6 +142,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Road to Wigan Pier**, George Orwell.  
 * **Roarings from Further Out**, Algernon Blackwood.  
 * **Rosencrantz and Guildenstern Are Dead**, Tom Stoppard.  
+* **Sabrina** Nick Drnaso.  
 * **A Scheme of Heaven: Astrology and the Birth of Science**, Alexander Boxer.  
 * **Science Fictions**, Stuart Ritchie.  
 * **Seeing Like A State**, James Scott.  
@@ -159,6 +161,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Ten Great Ideas About Chance**, Persi Diaconis & Brian Skyrms.  
 * **Territory of Light**, Yuko Tsushima.  
 * **That Reminds Me**, Derek Owusu.  
+* **Things Remembered and Things Forgotten**, Kyoko Nakajima.  
 * **Things The Grandchildren Should Know**, Mark Oliver Everett.  
 * **The Time Machine**, H.G. Wells.  
 * **The Time Traveller's Guide to Medieval England**, Ian Mortimer.  
