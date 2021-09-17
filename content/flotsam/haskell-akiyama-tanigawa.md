@@ -10,9 +10,9 @@ It works by generating a structure resembling Pascal's triangle, with rows whose
 
 What I like about this algorithm, besides its simplicity and elegance, is that it admits a concordantly simple and elgant implementation in Haskell using infinite data structures.
 
-Let's describe the structure the algorithm emerges from. Like Pascals's triangle it has infinitely many rows. Unlike Pascal's triangle, its rows are also infinite. Specifically, it is a rightwards- and downwards-infinite grid of rational numbers generated as follows:
+Let's describe the structure the algorithm emerges from. Like Pascal's triangle it has infinitely many rows. Unlike Pascal's triangle, its rows are also infinite. Specifically, it is a rightwards- and downwards-infinite grid of rational numbers generated as follows:
 1. The first row consists of the reciprocals of the positive integers.
-2. In any subsequent row, the n-th element is given by the previous row's (n+1)-st element subtracted from its n-th element, all multiplied by n.
+2. In any subsequent row, the n-th element is given by the difference of the previous row's  n-th and (n+1)-st elements, all multiplied by n.
 
 The first entries of each row—the leftmost vertical column—are the Bernoulli numbers.
 
@@ -74,7 +74,7 @@ Neat!
 [^2]: Kaneko, M.  The Akiyama-Tanigawa algorithm for Bernoulli numbers. *Journal of Integer Sequences* **3**, Article 00.2.9 (2000).
 [journal webpage](https://cs.uwaterloo.ca/journals/JIS/VOL3/KANEKO/AT-kaneko.html)
 
-[^3]: Of course we could just write a recursive `bernoulliNum` function and define `bernoulliNums = map bernoulliNum [1..]`, but that would be inelegant (and inefficient).
+[^3]: Of course we could just write a recursive `bernoulliNum` function and define `bernoulliNums = map bernoulliNum [1..]`. But that would be inelegant.
 
 [^4]: This is a little more verbose than it needs to be for the purpose of exposition. This [github gist](https://gist.github.com/tkmharris/00e10d6341d3f9ce4f343302a51bb129) has a condensed version. 
 
