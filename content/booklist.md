@@ -61,6 +61,8 @@ Things I read for book club are marked with a tilde (&#126;).
 
 24. **Country Music**, Will Burns. 
 
+25. **No One Is Talking About This**, Patricia Lockwood.  
+
 
 ### <a name="2020"></a>2020
 1. **The Wild Places**, Robert MacFarlane.  

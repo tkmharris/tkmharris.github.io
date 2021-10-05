@@ -22,6 +22,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Capitalist Realism**, Mark Fisher.  
 * **The Centaur**, John Updike.
 * **The Chrysanthemum and the Sword**, Ruth Benedict.  
+* **City: Rediscovering the Center**, William H. Whyte.  
 * **Climbers**, M. John Harrison.  
 * **Cod: A Biography of the Fish that Changed the World**, Mark Kurlansky.  
 * **CoDex 1962: A Trilogy**, Sjón.  
@@ -98,6 +99,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Love Affairs of Nathaniel P.**, Adelle Waldman.  
 * **The Luminaries**, Eleanor Catton.
 * **Madam Bovary**,  Gustave Flaubert.    
+* **The Man from the Future: The Visionary Life of John von Neumann**, Ananyo Bhattacharya.  
 * **Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001–2011**, Lizzy Goodman.  
 * **The Melancholia of Class**, Cynthia Cruz.  
 * **Modern Buildings in Britain: a gazetteer**, Owen Hatherley.  
@@ -127,6 +129,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Poincaré and the Three-Body Problem**, June Barrow-Green. 
 * **Possession**, Jane Austen.  
 * **Possible Minds: 25 ways of looking at AI**     
+* **The Power Broker**, Robert Caro.  
 * **Reasons and Persons**, Derek Parfit.  
 * **The Recognitions**, William Gaddis.
 * **Red Plenty**, Francis Spufford.  
@@ -172,8 +175,10 @@ Some books I'd like, in case you need to get me a gift.
 * **Think Again: how to reason and argue**,
 Walter Sinnott-Armstrong.  
 * **Thousand Cranes**, Yasunari Kawabata.  
+* **The Tyranny of Merit**, Michael J. Sandel.  
 * **Uncanny Valley**, Anna Wiener.  
 * **The Unconsoled**, Kazuo Ishiguro.  
+* **Unix: a history and a memoir**, Brian W. Kernighan.  
 * **The Varieties of Religious Experience**, William James.  
 * **Vesper Flights**, Helen Macdonald.  
 * **The Visual Display of Quantitative Information**, Edward R. Tufte.  
