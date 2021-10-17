@@ -63,6 +63,10 @@ Things I read for book club are marked with a tilde (&#126;).
 
 25. **No One Is Talking About This**, Patricia Lockwood.  
 
+26. **Shape**, Jordan Ellenberg.  
+
+27. **The End of Eternity**, Isaac Asimov.  
+
 
 ### <a name="2020"></a>2020
 1. **The Wild Places**, Robert MacFarlane.  
