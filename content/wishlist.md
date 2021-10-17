@@ -40,8 +40,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Down and Out in Paris and London**, George Orwell.  
 * **Down Girl: the logic of misogyny**, Kate Manne.  
 * **The Drowned World**, J. G. Ballard.  
-* **The Earth Dies Streaming**, A. S. Hamrah.   
-* **The End of Eternity**, Isaac Asimov.  
+* **The Earth Dies Streaming**, A. S. Hamrah.     
 * **Erasure**, Percival Everett.  
 * **The European Eel**, Steve Ely.  
 * **Evil Men**, James Dawes.  
@@ -70,7 +69,6 @@ Some books I'd like, in case you need to get me a gift.
 * **The Hedgehog and the Fox**, Isaiah Berlin.  
 * **Hinton**, Mark Blacklock.    
 * **How Animals Work**, Knut Schmidt-Nelson.  
-* **How Bad Are Bananas**, Mike Berners-Lee.  
 * **How To Be Depressed**, George Scialabba.   
 * **Howl's Moving Castle**, Diana Wynne Jones.  
 * **House of Leaves**, Mark Z. Danielewski.    
@@ -148,9 +146,8 @@ Some books I'd like, in case you need to get me a gift.
 * **Sabrina** Nick Drnaso.  
 * **A Scheme of Heaven: Astrology and the Birth of Science**, Alexander Boxer.  
 * **Science Fictions**, Stuart Ritchie.  
-* **Seeing Like A State**, James Scott.  
+* **The Seabird's Cry**, Adam Nicolson.  
 * **Set Adrift Upon the World**, James Hunter.  
-* **Shape**, Jordan Ellenberg.  
 * **Silence**, Endō Shūsaku.  
 * **Silent Spring**, Rachel Carson.  
 * **Simone Weil: an anthology**, Simone Weil.  
