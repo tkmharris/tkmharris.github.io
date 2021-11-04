@@ -154,6 +154,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Stonehenge**, Rosemary Hill.  
 * **The Souls of Yellow Folk**, Wesley Yang.  
 * **Sourdough**, Robin Sloan. 
+* **Speak Not: Empire, Identity and the Politics of Language**, James Griffiths.  
 * **Stalin Ate My Homework**, Alexei Sayle.  
 * **The Strangest Man: The hidden Life of Paul Dirac, Quantum Genius**, Graham Farmelo.  
 * **The Struggle for Mastery: Britain 1066-1284**, David Carpenter.  

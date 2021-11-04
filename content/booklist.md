@@ -67,6 +67,10 @@ Things I read for book club are marked with a tilde (&#126;).
 
 27. **The End of Eternity**, Isaac Asimov.  
 
+28. **Aesthetics: a very short introduction**, Bence Nanay.  
+
+29. **William Blake Vs The World**, John Higgs.  
+
 
 ### <a name="2020"></a>2020
 1. **The Wild Places**, Robert MacFarlane.  
