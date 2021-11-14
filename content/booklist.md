@@ -69,7 +69,9 @@ Things I read for book club are marked with a tilde (&#126;).
 
 28. **Aesthetics: a very short introduction**, Bence Nanay.  
 
-29. **William Blake Vs The World**, John Higgs.  
+29. **Algorithms Illuminated Part I: The Basics**, Tim Roughgarden.  
+
+30. **William Blake Vs The World**, John Higgs.  
 
 
 ### <a name="2020"></a>2020
