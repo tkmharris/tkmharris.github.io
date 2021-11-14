@@ -77,6 +77,7 @@ Some books I'd like, in case you need to get me a gift.
 * **I Must Go**, Yiyun Li.  
 * **The Ice Palace**, Tarjei Vessas.  
 * **Icelandic Folk Tales**, Hjörleifur Helgi Stefánsson.  
+* **Idoru**, William Gibson.  
 * **In My Own Time: thoughts and afterthoughts**, Jane Miller.  
 * **Infinitesimal**, Amir Alexander.  
 * **The Infinities**, John Banville.  
@@ -139,7 +140,6 @@ Some books I'd like, in case you need to get me a gift.
 * **The Rise and Fall of the Dinosaurs: a new history of a lost world**, Steve Brusatte.  
 * **RISINGTIDEFALLINGSTAR**, Phillip Hoare.  
 * **Resevoir 13**, John McGregor.  
-* **The Right to Sex**, Amia Srinivasan.  
 * **The Road to Wigan Pier**, George Orwell.  
 * **Roarings from Further Out**, Algernon Blackwood.  
 * **Rosencrantz and Guildenstern Are Dead**, Tom Stoppard.  
@@ -151,6 +151,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Silence**, Endō Shūsaku.  
 * **Silent Spring**, Rachel Carson.  
 * **Simone Weil: an anthology**, Simone Weil.  
+* **Something in Disguise**, Elizabeth Jane Howard.  
 * **Stonehenge**, Rosemary Hill.  
 * **The Souls of Yellow Folk**, Wesley Yang.  
 * **Sourdough**, Robin Sloan. 
@@ -178,7 +179,7 @@ Walter Sinnott-Armstrong.
 * **The Unconsoled**, Kazuo Ishiguro.  
 * **Unix: a history and a memoir**, Brian W. Kernighan.  
 * **The Varieties of Religious Experience**, William James.  
-* **Vesper Flights**, Helen Macdonald.  
+* **Virtual Light**, William Gibson.  
 * **The Visual Display of Quantitative Information**, Edward R. Tufte.  
 * **Watching the English**, Kate Fox.  
 * **What's Your Pronoun**, Dennis Baron.  
