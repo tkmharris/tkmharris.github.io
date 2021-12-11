@@ -73,6 +73,11 @@ Things I read for book club are marked with a tilde (&#126;).
 
 30. **William Blake Vs The World**, John Higgs.  
 
+31. **How Computers Really Work**, Matthew Justice.  
+
+32. **Roarings from Further Out**, Algernon Blackwood.  
+
+33. **Notes from an Island**, Tove Jansson & Tuulikki Pieitilä.  
 
 ### <a name="2020"></a>2020
 1. **The Wild Places**, Robert MacFarlane.  

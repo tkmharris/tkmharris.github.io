@@ -64,6 +64,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Golden Bough**, James Frazer.  
 * **The Golden Notebook**, Doris Lessing.  
 * **Gone: a search for what remains of the earth's extinct creatures**, Michael Blencowe.  
+* **The Great Railway Bazaar: By Train Through Asia**, Paul Theroux.  
 * **Half of a Yellow Sun**, Chimamanda Ngozi Adichie.  
 * **The Heart of the Original**, Steve Aylett.  
 * **The Hedgehog and the Fox**, Isaiah Berlin.  
@@ -87,9 +88,12 @@ Some books I'd like, in case you need to get me a gift.
 * **It**, Stephen King.   
 * **The Journal of a Disappointed Man**, W.N.P. Barbellion.  
 * **The Journals Of A White Sea Wolf**, Mariusz Wilk.  
+* **Journey to the Edge of Reason: The life of Kurt Gödel**, Stephen Budiansky.  
 * **The Journey to the West: vol 1**, Anthony C. Yu.  
+* **Klara and the Sun**, Kazuo Ishiguro.  
 * **Kokoro**, Natsume Sōseki.  
 * **K-Punk: The Collected and Unpublished Writings of Mark Fisher**, Mark Fisher.  
+* **The Land of Maybe: a Faroe Islands year**, Tim Ecott.  
 * **Leaving the Planet by Space Elevator**, Phillip Ragan & Bradley Edwards.  
 * **Leonhard Euler: Mathematical Genius in the Enlightenment**, Ronald S. Calinger.  
 * **A Libertarian Walks Into a Bear: The Utopian Plot to Liberate an American Town (And Some Bears)**, Matthew Hongoltz-Hetling.  
@@ -98,7 +102,6 @@ Some books I'd like, in case you need to get me a gift.
 * **The Love Affairs of Nathaniel P.**, Adelle Waldman.  
 * **The Luminaries**, Eleanor Catton.
 * **Madam Bovary**,  Gustave Flaubert.    
-* **The Man from the Future: The Visionary Life of John von Neumann**, Ananyo Bhattacharya.  
 * **Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001–2011**, Lizzy Goodman.  
 * **The Melancholia of Class**, Cynthia Cruz.  
 * **Modern Buildings in Britain: a gazetteer**, Owen Hatherley.  
@@ -129,6 +132,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Possession**, Jane Austen.  
 * **Possible Minds: 25 ways of looking at AI**     
 * **The Power Broker**, Robert Caro.  
+* **Quintessence: Basic readings from the philosophy of W.V. Quine**, W.V. Quine.  
 * **Reasons and Persons**, Derek Parfit.  
 * **The Recognitions**, William Gaddis.
 * **Red Plenty**, Francis Spufford.  
@@ -141,7 +145,6 @@ Some books I'd like, in case you need to get me a gift.
 * **RISINGTIDEFALLINGSTAR**, Phillip Hoare.  
 * **Resevoir 13**, John McGregor.  
 * **The Road to Wigan Pier**, George Orwell.  
-* **Roarings from Further Out**, Algernon Blackwood.  
 * **Rosencrantz and Guildenstern Are Dead**, Tom Stoppard.  
 * **Sabrina** Nick Drnaso.  
 * **A Scheme of Heaven: Astrology and the Birth of Science**, Alexander Boxer.  
