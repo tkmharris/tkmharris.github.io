@@ -32,7 +32,7 @@ If you want to generate the first n Bernoulli numbers, then you can start with j
 -- 3*(1/4 - 1/5) = 3/20
 ```
 
-However, Haskell's infinite data structures and lazy evaluation lets us define the whole bi-infinte array—hence all the Bernoulli numbers—in one go.[^3] Let's see how this is done.[^4][^5]
+However, Haskell's infinite data structures and lazy evaluation lets us define the whole bi-infinte array—hence all the Bernoulli numbers—in one go.[^3] Let's see how this is done.[^4]
 
 First we import `Data.Ratio` to handle rationals (representing p/q with `p % q`) and initialize an infinite array of the reciprocals of natural numbers:
 
@@ -76,6 +76,4 @@ Neat!
 
 [^3]: Of course we could just write a recursive `bernoulliNum` function and define `bernoulliNums = map bernoulliNum [1..]`. But that would be inelegant.
 
-[^4]: This is a little more verbose than it needs to be for the purpose of exposition. This [github gist](https://gist.github.com/tkmharris/00e10d6341d3f9ce4f343302a51bb129) has a condensed version. 
-
-[^5]: Thanks to Owen Stephens for some Haskell pointers and a more concise version of `nextRow` than my original.
+[^4]: This is a little more verbose than it needs to be for the purpose of exposition. This [github gist](https://gist.github.com/tkmharris/00e10d6341d3f9ce4f343302a51bb129) has a condensed version. Thanks to Owen Stephens for some Haskell pointers.
