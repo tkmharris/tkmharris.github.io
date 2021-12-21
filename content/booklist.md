@@ -77,7 +77,9 @@ Things I read for book club are marked with a tilde (&#126;).
 
 32. **Roarings from Further Out**, Algernon Blackwood.  
 
-33. **Notes from an Island**, Tove Jansson & Tuulikki Pieitilä.  
+33. **Notes from an Island**, Tove Jansson & Tuulikki Pieitilä. &dagger; (Swedish)  
+
+34. **Botchan**, Natsume Sōseki. &dagger; (Japanese)  
 
 ### <a name="2020"></a>2020
 1. **The Wild Places**, Robert MacFarlane.  

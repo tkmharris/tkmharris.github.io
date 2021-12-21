@@ -104,7 +104,6 @@ Some books I'd like, in case you need to get me a gift.
 * **Madam Bovary**,  Gustave Flaubert.    
 * **Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001–2011**, Lizzy Goodman.  
 * **The Melancholia of Class**, Cynthia Cruz.  
-* **Modern Buildings in Britain: a gazetteer**, Owen Hatherley.  
 * **More Trees to Climb**, Ben Moor.  
 * **Miles from Nowhere**, Nami Mun.  
 * **The Ministry for the Future**, Kim Stanely Robinson.  
@@ -129,8 +128,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Picture This**, Molly Bang.  
 * **The Planets**, Dava Sobel.  
 * **Poincaré and the Three-Body Problem**, June Barrow-Green. 
-* **Possession**, Jane Austen.  
-* **Possible Minds: 25 ways of looking at AI**     
+* **Possession**, Jane Austen.       
 * **The Power Broker**, Robert Caro.  
 * **Quintessence: Basic readings from the philosophy of W.V. Quine**, W.V. Quine.  
 * **Reasons and Persons**, Derek Parfit.  
@@ -160,6 +158,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Sourdough**, Robin Sloan. 
 * **Speak Not: Empire, Identity and the Politics of Language**, James Griffiths.  
 * **Stalin Ate My Homework**, Alexei Sayle.  
+* **Starting Strength**, Mark Rippetoe.  
 * **The Strangest Man: The hidden Life of Paul Dirac, Quantum Genius**, Graham Farmelo.  
 * **The Struggle for Mastery: Britain 1066-1284**, David Carpenter.  
 * **Tales from the Loop**, Simon Stålenhag.  
