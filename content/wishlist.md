@@ -16,6 +16,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Bells of Nagasaki**, Takashi Nagai.  
 * **The Black Death (Manchester Medieval Sources)**, Rosemary Horrox.  
 * **Black Teacher**, Beryl Gilroy.  
+* **Blindsight**, Peter Watts.  
 * **Braised Pork**, An Yu.  
 * **Brexitland**, Maria Sobolewska & Robert Ford.  
 * **A Brief History of Neoliberalism**, David Harvey.  
@@ -42,6 +43,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Drowned World**, J. G. Ballard.  
 * **The Earth Dies Streaming**, A. S. Hamrah.     
 * **Erasure**, Percival Everett.  
+* **The Essential Turing**, B. Jack Copeland (ed.).  
 * **The European Eel**, Steve Ely.  
 * **Evil Men**, James Dawes.  
 * **Exact Thinking in Demented Times**, Karl Sigmund.  
@@ -68,7 +70,6 @@ Some books I'd like, in case you need to get me a gift.
 * **Half of a Yellow Sun**, Chimamanda Ngozi Adichie.  
 * **The Heart of the Original**, Steve Aylett.  
 * **The Hedgehog and the Fox**, Isaiah Berlin.  
-* **Hinton**, Mark Blacklock.    
 * **How Animals Work**, Knut Schmidt-Nelson.  
 * **How To Be Depressed**, George Scialabba.   
 * **Howl's Moving Castle**, Diana Wynne Jones.  
@@ -100,7 +101,6 @@ Some books I'd like, in case you need to get me a gift.
 * **Lint**, Steve Aylett.  
 * **Little Fires Everywhere**, Celeste Ng.  
 * **The Love Affairs of Nathaniel P.**, Adelle Waldman.  
-* **The Luminaries**, Eleanor Catton.
 * **Madam Bovary**,  Gustave Flaubert.    
 * **Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001–2011**, Lizzy Goodman.  
 * **The Melancholia of Class**, Cynthia Cruz.  
@@ -186,5 +186,6 @@ Walter Sinnott-Armstrong.
 * **Watching the English**, Kate Fox.  
 * **What's Your Pronoun**, Dennis Baron.  
 * **The What, Why and How of Assessment**, Simon Child & Paul Ellis.  
+* **White is for Witching**, Helen Oyeyemi.  
 * **Yes Yes More More**, Anna Wood.  
 * **You Too Can Have a Body Like Mine**, Alexandra Kleeman.  
