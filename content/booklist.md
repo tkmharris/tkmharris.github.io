@@ -81,6 +81,8 @@ Things I read for book club are marked with a tilde (&#126;).
 
 34. **Botchan**, Natsume Sōseki. &dagger; (Japanese)  
 
+35. **The Man from the Future: the Visionary Life of John von Neumann**, Ananyo Bhattacharya.  
+
 ### <a name="2020"></a>2020
 1. **The Wild Places**, Robert MacFarlane.  
 
