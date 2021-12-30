@@ -28,8 +28,9 @@ Some books I'd like, in case you need to get me a gift.
 * **Cod: A Biography of the Fish that Changed the World**, Mark Kurlansky.  
 * **CoDex 1962: A Trilogy**, Sjón.  
 * **The Collected Stories of Grace Paley**, Grace Paley.  
-* **The Coming Insurrection**, The Invisible Committee.  
+* **The Compleat Strategyst**, J.D. Williams.  
 * **The Crime Writer**, Jill Dawson.  
+* **Crossroads**, Jonathan Franzen.  
 * **Crow Court**, Andy Charman.  
 * **The Cry of the Owl**, Patricia Highsmith.  
 * **David Copperfield**, Charles Dickens.

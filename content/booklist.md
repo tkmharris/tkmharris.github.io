@@ -83,6 +83,8 @@ Things I read for book club are marked with a tilde (&#126;).
 
 35. **The Man from the Future: the Visionary Life of John von Neumann**, Ananyo Bhattacharya.  
 
+36. **Paradoxes**, R.M. Sainsbury.  
+
 ### <a name="2020"></a>2020
 1. **The Wild Places**, Robert MacFarlane.  
 
