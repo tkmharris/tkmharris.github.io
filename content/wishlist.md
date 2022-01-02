@@ -162,6 +162,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Starting Strength**, Mark Rippetoe.  
 * **The Strangest Man: The hidden Life of Paul Dirac, Quantum Genius**, Graham Farmelo.  
 * **The Struggle for Mastery: Britain 1066-1284**, David Carpenter.  
+* **The Sympathizer**, Viet Thanh Nguyen.  
 * **Tales from the Loop**, Simon Stålenhag.  
 * **Ten Great Ideas About Chance**, Persi Diaconis & Brian Skyrms.  
 * **Territory of Light**, Yuko Tsushima.  
@@ -177,10 +178,12 @@ Some books I'd like, in case you need to get me a gift.
 * **Think Again: how to reason and argue**,
 Walter Sinnott-Armstrong.  
 * **Thousand Cranes**, Yasunari Kawabata.  
+* **Tokyo Ueno Station**, Yu Miri.  
 * **The Tyranny of Merit**, Michael J. Sandel.  
 * **Uncanny Valley**, Anna Wiener.  
 * **The Unconsoled**, Kazuo Ishiguro.  
 * **Unix: a history and a memoir**, Brian W. Kernighan.  
+* **Up in the Old Hotel**, Joseph Mitchell.  
 * **The Varieties of Religious Experience**, William James.  
 * **Virtual Light**, William Gibson.  
 * **The Visual Display of Quantitative Information**, Edward R. Tufte.  

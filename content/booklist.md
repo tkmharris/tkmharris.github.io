@@ -11,6 +11,10 @@ Re-reads are marked with an asterisk (&lowast;).
 Works read in translation are marked with a dagger (&dagger;).  
 Things I read for book club are marked with a tilde (&#126;).
 
+### <a name="2022"></a>2022
+
+1. **Flatland**, Edwin A. Abbott.  
+
 ### <a name="2021"></a>2021
 
 1. **The Fens**, Francis Pryor.  
