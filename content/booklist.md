@@ -15,7 +15,11 @@ Things I read for book club are marked with a tilde (&#126;).
 
 1. **Flatland**, Edwin A. Abbott.  
 
-2. **Snow Country**, Yasunari Kawabata &dagger; (Japanese).
+2. **Snow Country**, Yasunari Kawabata. &dagger; (Japanese)  
+
+3. **Burmese Days**, George Orwell.  
+
+4. **The Right to Sex**, Amia Srinivasan.  
 
 ### <a name="2021"></a>2021
 
@@ -29,7 +33,7 @@ Things I read for book club are marked with a tilde (&#126;).
 
 5. **Wide Sargasso Sea**, Jean Rhys.  
 
-6. **The Three Body Problem**, Liu Cixin &dagger; (Mandarin).  
+6. **The Three Body Problem**, Liu Cixin. &dagger; (Mandarin)  
 
 7.  **Joe Gould's Secret**, Joseph Mitchell.  
 

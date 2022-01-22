@@ -22,6 +22,7 @@ Some books I'd like, in case you need to get me a gift.
 * **A Brief History of Neoliberalism**, David Harvey.  
 * **Capitalist Realism**, Mark Fisher.  
 * **The Centaur**, John Updike.
+* **Chess Story**, Stefan Zweig.  
 * **The Chrysanthemum and the Sword**, Ruth Benedict.  
 * **City: Rediscovering the Center**, William H. Whyte.  
 * **Climbers**, M. John Harrison.  
@@ -62,6 +63,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Future Sex**, Emily Witt.  
 * **The Gallows Pole**, Benjamin Myers. 
 * **The Genius in my Basement**, Alexander Masters.  
+* **Germinal**,  Émile Zola.  
 * **A Girl Is a Half-Formed Thing**, Eimear McBride.  
 * **The Glass Hotel**, Emily St.John Mandell.  
 * **The Golden Bough**, James Frazer.  
