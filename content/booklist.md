@@ -21,6 +21,8 @@ Things I read for book club are marked with a tilde (&#126;).
 
 4. **The Right to Sex**, Amia Srinivasan.  
 
+5. **Hinton**, Mark Blacklock.  
+
 ### <a name="2021"></a>2021
 
 1. **The Fens**, Francis Pryor.  
