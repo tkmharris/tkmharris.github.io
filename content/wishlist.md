@@ -37,6 +37,7 @@ Some books I'd like, in case you need to get me a gift.
 * **David Copperfield**, Charles Dickens.
 * **The Crystal Messenger**, Pham Thi Hoal.  
 * **Death in Her Hands**, Ottessa Moshfegh.  
+* **Diaspora**, Greg Egan.  
 * **Disappearing Earth**, Julia Phillips.  
 * **The Dispossessed**, Ursula K. LeGuin.  
 * **Don Quixote**, Cervantes.  
@@ -44,6 +45,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Down Girl: the logic of misogyny**, Kate Manne.  
 * **The Drowned World**, J. G. Ballard.  
 * **The Earth Dies Streaming**, A. S. Hamrah.     
+* **The Embrace of the Fourth Dimension**, Mark Blacklock.  
 * **Erasure**, Percival Everett.  
 * **The Essential Turing**, B. Jack Copeland (ed.).  
 * **The European Eel**, Steve Ely.  
@@ -73,6 +75,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Half of a Yellow Sun**, Chimamanda Ngozi Adichie.  
 * **The Heart of the Original**, Steve Aylett.  
 * **The Hedgehog and the Fox**, Isaiah Berlin.  
+* **How Algorithms Create and Prevent Fake News**, Noah Giansiracusa.  
 * **How Animals Work**, Knut Schmidt-Nelson.  
 * **How To Be Depressed**, George Scialabba.   
 * **Howl's Moving Castle**, Diana Wynne Jones.  
@@ -94,6 +97,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Journals Of A White Sea Wolf**, Mariusz Wilk.  
 * **Journey to the Edge of Reason: The life of Kurt Gödel**, Stephen Budiansky.  
 * **The Journey to the West: vol 1**, Anthony C. Yu.  
+* **King of Infinite Space: Donald Coxeter, the Man Who Saved Geometry**, Siobhan Roberts.  
 * **Klara and the Sun**, Kazuo Ishiguro.  
 * **Kokoro**, Natsume Sōseki.  
 * **K-Punk: The Collected and Unpublished Writings of Mark Fisher**, Mark Fisher.  
@@ -137,7 +141,6 @@ Some books I'd like, in case you need to get me a gift.
 * **Reasons and Persons**, Derek Parfit.  
 * **The Recognitions**, William Gaddis.
 * **Red Plenty**, Francis Spufford.  
-* **Regular Polytopes**, H.S.M. Coxeter.  
 * **The Reinvention of Humanity**, Charles King.  
 * **Revolting Prostitutes**, Juno Mac & Molly Smith.  
 * **The Righteous Mind**, Jonathan Haidt.  
@@ -157,6 +160,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Simone Weil: an anthology**, Simone Weil.  
 * **Something in Disguise**, Elizabeth Jane Howard.  
 * **Stonehenge**, Rosemary Hill.  
+* **Stubborn Attachments**, Tyler Cohen.  
 * **The Souls of Yellow Folk**, Wesley Yang.  
 * **Sourdough**, Robin Sloan. 
 * **Speak Not: Empire, Identity and the Politics of Language**, James Griffiths.  
