@@ -10,7 +10,19 @@
     <webMaster>tkmharris@protonmail.com (Tom Harris)</webMaster>
     <lastBuildDate>Sun, 09 May 2021 18:17:39 +0100</lastBuildDate><atom:link href="http://tkmh.space/flotsam/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>White Grey Blue Black White</title>
+      <title>Associahedron</title>
+      <link>http://tkmh.space/flotsam/associahedron/</link>
+      <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
+      <author>tkmharris@protonmail.com (Tom Harris)</author>
+      <guid>http://tkmh.space/flotsam/associahedron/</guid>
+      <description>Jean-Louis Loday&amp;rsquo;s realisation of the (5-)associahedron:
+The vertices are generated from planar binary trees using the algorithm described in Loday&amp;rsquo;s paper1 (Loday gives vertices in 4-space but they sit in a 3-dimsional hyperplane which I&amp;rsquo;ve projected onto ordinary 3-space). The surface was created and written to STL with the Trimesh Python library. Code.
+  Loday, J-L. Realization of the Stasheff polytope. Archiv der Mathematik 83, 267–278 (2004). doi&amp;#160;&amp;#x21a9;&amp;#xfe0e;
+   </description>
+    </item>
+    
+    <item>
+      <title>Fimmvörðuháls</title>
       <link>http://tkmh.space/flotsam/fimmv%C3%B6r%C3%B0uh%C3%A1ls/</link>
       <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
       <author>tkmharris@protonmail.com (Tom Harris)</author>
