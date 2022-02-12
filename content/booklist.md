@@ -23,6 +23,8 @@ Things I read for book club are marked with a tilde (&#126;).
 
 5. **Hinton**, Mark Blacklock.  
 
+6. **The Dark Forest**, Cixin Liu. &dagger; (Mandarin)  
+
 ### <a name="2021"></a>2021
 
 1. **The Fens**, Francis Pryor.  
