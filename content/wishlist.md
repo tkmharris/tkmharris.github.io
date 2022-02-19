@@ -1,3 +1,4 @@
+
 ---
 title: "Wishlist"
 ---
@@ -10,6 +11,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Age of Surveillance Capitalism**, Shoshana Zuboff.  
 * **The Age of Wonder**, Richard Holmes.  
 * **Arctic Voices: resistance at the tipping point**, Subhankar Banerjee.  
+* **Arithmetical, Geometrical and Combinatorial Puzzles from Japan**, Tadao Kitazawa.  
 * **The Ashtray: (Or the Man Who Denied Reality)**, Errol Morris.  
 * **The Beauty of Everyday Things**, Soetsu Yanagi.  
 * **Being Ecological**, Timothy Morton.  
