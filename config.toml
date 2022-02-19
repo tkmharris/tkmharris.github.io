@@ -33,9 +33,13 @@ relativeURLs = true
     url = "/booklist/"
     weight = 2
   [[menu.other]]
+    name = "Nota Bene"
+    url = "/nota-bene/"
+    weight = 3
+  [[menu.other]]
     name = "Flotsam"
     url = "/flotsam/"
-    weight = 3
+    weight = 4
 
 
 
