@@ -25,6 +25,8 @@ Things I read for book club are marked with a tilde (&#126;).
 
 6. **The Dark Forest**, Cixin Liu. &dagger; (Mandarin)  
 
+7. **Innumeracy: mathematical illiteracy and its consequences**, John Allen Paulos.  
+
 ### <a name="2021"></a>2021
 
 1. **The Fens**, Francis Pryor.  
