@@ -10,8 +10,8 @@ Some books I'd like, in case you need to get me a gift.
 * **The Absolute Book**, Elizabeth Knox.  
 * **The Age of Surveillance Capitalism**, Shoshana Zuboff.  
 * **The Age of Wonder**, Richard Holmes.  
+* **All the Wrong Moves**, Sasha Chapin.  
 * **Arctic Voices: resistance at the tipping point**, Subhankar Banerjee.  
-* **Arithmetical, Geometrical and Combinatorial Puzzles from Japan**, Tadao Kitazawa.  
 * **The Ashtray: (Or the Man Who Denied Reality)**, Errol Morris.  
 * **The Beauty of Everyday Things**, Soetsu Yanagi.  
 * **Being Ecological**, Timothy Morton.  
@@ -32,17 +32,17 @@ Some books I'd like, in case you need to get me a gift.
 * **CoDex 1962: A Trilogy**, Sjón.  
 * **The Collected Stories of Grace Paley**, Grace Paley.  
 * **The Compleat Strategyst**, J.D. Williams.  
+* **A Confederacy of Dunces**, John Kennedy Toole.  
 * **The Crime Writer**, Jill Dawson.  
 * **Crossroads**, Jonathan Franzen.  
 * **Crow Court**, Andy Charman.  
 * **The Cry of the Owl**, Patricia Highsmith.  
-* **David Copperfield**, Charles Dickens.
 * **The Crystal Messenger**, Pham Thi Hoal.  
 * **Death in Her Hands**, Ottessa Moshfegh.  
 * **Diaspora**, Greg Egan.  
 * **Disappearing Earth**, Julia Phillips.  
+* **Dispatches**, Michael Herr.  
 * **The Dispossessed**, Ursula K. LeGuin.  
-* **Don Quixote**, Cervantes.  
 * **Down and Out in Paris and London**, George Orwell.  
 * **Down Girl: the logic of misogyny**, Kate Manne.  
 * **The Drowned World**, J. G. Ballard.  
@@ -53,7 +53,6 @@ Some books I'd like, in case you need to get me a gift.
 * **The European Eel**, Steve Ely.  
 * **Evil Men**, James Dawes.  
 * **Exact Thinking in Demented Times**, Karl Sigmund.  
-* **Exhalation**, Ted Chiang.  
 * **Fat City**, Leonard Gardner.  
 * **Ficciones**, Jorge Luis Borges.  
 * **The First American: the life and times of Benjamin Franklin**, H. W. Brands.  
@@ -65,6 +64,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Footnotes**, Vybarr Cregan-Reid.
 * **Fred**, Posy Simmonds.    
 * **From Hell**, Alan Moore & Eddie Campbell.  
+* **Fuccboi**, Sean Thor Conroe.  
 * **Future Sex**, Emily Witt.  
 * **The Gallows Pole**, Benjamin Myers. 
 * **The Genius in my Basement**, Alexander Masters.  
@@ -115,7 +115,9 @@ Some books I'd like, in case you need to get me a gift.
 * **Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001–2011**, Lizzy Goodman.  
 * **The Melancholia of Class**, Cynthia Cruz.  
 * **More Trees to Climb**, Ben Moor.  
+* **Michel the Giant: An African in Greenland**, Tété-Michel Kpomassie.  
 * **Miles from Nowhere**, Nami Mun.  
+* **Mill**, David Macaulay.  
 * **The Ministry for the Future**, Kim Stanely Robinson.  
 * **The Mushroom at the End of the World**, Anna Lowenhaupt Tsing.  
 * **My First Summer in the Sierra**, John Muir.  
@@ -131,7 +133,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Once a Runner**, John L. Parker Jr.  
 * **Once They Were Hats**, Frances Backhouse.  
 * **Ordinary Differential Equations (MIT Press)**, V. I. Arnold.   
-* **Out of Sheer Rage**, Geoff Dyer.  
+* **Otherlands**, Thomas Halliday.  
 * **The Paper Lantern**, Will Burns.  
 * **Perdido Street Station**, China Miéville.  
 * **Phillip Larkin: a Writer's Life**, Andrew Motion.  
@@ -139,6 +141,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Picture This**, Molly Bang.  
 * **The Planets**, Dava Sobel.  
 * **Poincaré and the Three-Body Problem**, June Barrow-Green. 
+* **Poor**, Caleb Femi.  
 * **Possession**, Jane Austen.       
 * **The Power Broker**, Robert Caro.  
 * **Quintessence: Basic readings from the philosophy of W.V. Quine**, W.V. Quine.  
@@ -158,6 +161,7 @@ Some books I'd like, in case you need to get me a gift.
 * **A Scheme of Heaven: Astrology and the Birth of Science**, Alexander Boxer.  
 * **Science Fictions**, Stuart Ritchie.  
 * **The Seabird's Cry**, Adam Nicolson.  
+* **Second-Hand Time**, Svetlana Alexievich.  
 * **Set Adrift Upon the World**, James Hunter.  
 * **Silence**, Endō Shūsaku.  
 * **Silent Spring**, Rachel Carson.  
@@ -166,7 +170,6 @@ Some books I'd like, in case you need to get me a gift.
 * **Stonehenge**, Rosemary Hill.  
 * **Stubborn Attachments**, Tyler Cohen.  
 * **The Souls of Yellow Folk**, Wesley Yang.  
-* **Sourdough**, Robin Sloan. 
 * **Speak Not: Empire, Identity and the Politics of Language**, James Griffiths.  
 * **Stalin Ate My Homework**, Alexei Sayle.  
 * **Starting Strength**, Mark Rippetoe.  
@@ -203,5 +206,6 @@ Walter Sinnott-Armstrong.
 * **The What, Why and How of Assessment**, Simon Child & Paul Ellis.  
 * **White Chapell, Scarlet Tracings**, Iain Sinclair.  
 * **White is for Witching**, Helen Oyeyemi.  
+* **The Women Are Up to Something**, Benjamin J.B. Lipscomb.  
 * **Yes Yes More More**, Anna Wood.  
 * **You Too Can Have a Body Like Mine**, Alexandra Kleeman.  

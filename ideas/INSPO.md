@@ -5,3 +5,4 @@ https://math.commelin.net/
 http://www.rtrueman.com/
 https://www.maths.ed.ac.uk/~cbarwick/
 http://homepages.warwick.ac.uk/staff/G.Brown/
+https://www.thomashalliday.co.uk/
