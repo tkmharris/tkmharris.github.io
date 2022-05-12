@@ -100,6 +100,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Journals Of A White Sea Wolf**, Mariusz Wilk.  
 * **Journey to the Edge of Reason: The life of Kurt Gödel**, Stephen Budiansky.  
 * **The Journey to the West: vol 1**, Anthony C. Yu.  
+* **Kusamakura**, Natsume Sōseki.  
 * **King of Infinite Space: Donald Coxeter, the Man Who Saved Geometry**, Siobhan Roberts.  
 * **Klara and the Sun**, Kazuo Ishiguro.  
 * **Kokoro**, Natsume Sōseki.  
@@ -114,6 +115,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Madam Bovary**,  Gustave Flaubert.    
 * **Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001–2011**, Lizzy Goodman.  
 * **The Melancholia of Class**, Cynthia Cruz.  
+* **The Moon and Sixpence**, W. Somerset Maugham.  
 * **More Trees to Climb**, Ben Moor.  
 * **Michel the Giant: An African in Greenland**, Tété-Michel Kpomassie.  
 * **Miles from Nowhere**, Nami Mun.  
