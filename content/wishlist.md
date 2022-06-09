@@ -37,7 +37,8 @@ Some books I'd like, in case you need to get me a gift.
 * **Crossroads**, Jonathan Franzen.  
 * **Crow Court**, Andy Charman.  
 * **The Cry of the Owl**, Patricia Highsmith.  
-* **The Crystal Messenger**, Pham Thi Hoal.  
+* **The Crystal Messenger**, Pham Thi Hoal. 
+* **The Currency of Politics**, Stefan Eich.   
 * **Death in Her Hands**, Ottessa Moshfegh.  
 * **Diaspora**, Greg Egan.  
 * **Disappearing Earth**, Julia Phillips.  
@@ -194,7 +195,9 @@ Some books I'd like, in case you need to get me a gift.
 * **The Trial of Henry Kissinger**, Christopher Hitchens.  
 Walter Sinnott-Armstrong.  
 * **Tokyo Ueno Station**, Yu Miri.  
+* **The Tokyo Zodiac Murders**, Soji Shimada.  
 * **The Topeka School**, Ben Lerner.  
+* **The Transcendent Kingdom**, Yaa Gyasi.  
 * **The Tyranny of Merit**, Michael J. Sandel.  
 * **Uncanny Valley**, Anna Wiener.  
 * **The Unconsoled**, Kazuo Ishiguro.  

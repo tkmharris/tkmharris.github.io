@@ -31,9 +31,15 @@ Things I read for book club are marked with a tilde (&#126;).
 
 9. **The River of Lost Footsteps: A Personal History of Burma**, Thant Myint-U.  
 
-10. **The North Water**, Ian McGuire**.  
+10. **Changing Places**, David Lodge.  
 
-11. **Crime and Punishment**, Fyodor Dostoevsky. &dagger; (Russian)   
+11. **The North Water**, Ian McGuire.  
+
+12. **Crime and Punishment**, Fyodor Dostoevsky. &dagger; (Russian)   
+
+13. **Quantum Computing Since Democritus**, Scott Aaronson.  
+
+14. **Exhalation**, Ted Chiang.  
 
 ### <a name="2021"></a>2021
 
