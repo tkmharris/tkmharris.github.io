@@ -24,7 +24,6 @@ Some books I'd like, in case you need to get me a gift.
 * **A Brief History of Neoliberalism**, David Harvey.  
 * **Capitalist Realism**, Mark Fisher.  
 * **The Centaur**, John Updike.
-* **Chess Story**, Stefan Zweig.  
 * **The Chrysanthemum and the Sword**, Ruth Benedict.  
 * **City: Rediscovering the Center**, William H. Whyte.  
 * **Climbers**, M. John Harrison.  
@@ -94,7 +93,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Infinitesimal**, Amir Alexander.  
 * **The Infinities**, John Banville.  
 * **The Intellectuals and the Masses**, John Carey.  
-* **The Intellectual Life of the British Working Classes**, Jonathan Rose.  
+* **The Internet Is Not What You Think It Is**, Justin E.H. Smith.  
 * **Intimations**, Zadie Smith.  
 * **It**, Stephen King.   
 * **The Journal of a Disappointed Man**, W.N.P. Barbellion.  
@@ -114,6 +113,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Little Fires Everywhere**, Celeste Ng.  
 * **The Love Affairs of Nathaniel P.**, Adelle Waldman.  
 * **Madam Bovary**,  Gustave Flaubert.    
+* **Making "Nature"**, Melinda Baldwin.  
 * **Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001–2011**, Lizzy Goodman.  
 * **The Melancholia of Class**, Cynthia Cruz.  
 * **The Moon and Sixpence**, W. Somerset Maugham.  
