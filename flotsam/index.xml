@@ -17,8 +17,7 @@
       <guid>http://tkmh.space/flotsam/associahedron/</guid>
       <description>Jean-Louis Loday&amp;rsquo;s realisation of the (5-)associahedron:
 The vertices are generated from planar binary trees using the algorithm described in Loday&amp;rsquo;s paper1 (Loday gives vertices in 4-space but they sit in a 3-dimsional hyperplane which I&amp;rsquo;ve projected onto ordinary 3-space). The surface was created and written to STL with the Trimesh Python library. Code.
-  Loday, J-L. Realization of the Stasheff polytope. Archiv der Mathematik 83, 267–278 (2004). doi&amp;#160;&amp;#x21a9;&amp;#xfe0e;
-   </description>
+Loday, J-L. Realization of the Stasheff polytope. Archiv der Mathematik 83, 267–278 (2004). doi&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
     
     <item>
@@ -37,8 +36,8 @@ The vertices are generated from planar binary trees using the algorithm describe
       <author>tkmharris@protonmail.com (Tom Harris)</author>
       <guid>http://tkmh.space/flotsam/turing-herb/</guid>
       <description>From an amazon.com review of Lewis &amp;amp; Papadimitrious&amp;rsquo;s Elements of the Theory of Computation:
- And also&amp;hellip; who the hell is this geek on the cover? It doesn&amp;rsquo;t reveal his identity anywhere in the book. You know this book is bad when they have a herb like him staring at you. This guy needs a new suit, a haircut, and he needs to learn how to smile.
- The herb</description>
+And also&amp;hellip; who the hell is this geek on the cover? It doesn&amp;rsquo;t reveal his identity anywhere in the book. You know this book is bad when they have a herb like him staring at you. This guy needs a new suit, a haircut, and he needs to learn how to smile.
+The herb</description>
     </item>
     
     <item>
