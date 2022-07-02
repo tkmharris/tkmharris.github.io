@@ -90,6 +90,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Icelandic Folk Tales**, Hjörleifur Helgi Stefánsson.  
 * **Idoru**, William Gibson.  
 * **In My Own Time: thoughts and afterthoughts**, Jane Miller.  
+* **Indelible City: Dispossession and Defiance in Hong Kong**, Louisa Lim.  
 * **Infinitesimal**, Amir Alexander.  
 * **The Infinities**, John Banville.  
 * **The Intellectuals and the Masses**, John Carey.  
