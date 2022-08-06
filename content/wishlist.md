@@ -15,7 +15,6 @@ Some books I'd like, in case you need to get me a gift.
 * **The Ashtray: (Or the Man Who Denied Reality)**, Errol Morris.  
 * **The Beauty of Everyday Things**, Soetsu Yanagi.  
 * **Being Ecological**, Timothy Morton.  
-* **The Bells of Nagasaki**, Takashi Nagai.  
 * **The Black Death (Manchester Medieval Sources)**, Rosemary Horrox.  
 * **Black Teacher**, Beryl Gilroy.  
 * **Blindsight**, Peter Watts.  
@@ -78,6 +77,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Half of a Yellow Sun**, Chimamanda Ngozi Adichie.  
 * **The Heart of the Original**, Steve Aylett.  
 * **The Hedgehog and the Fox**, Isaiah Berlin.  
+* **Hiroshima**, John Hersey.  
 * **How Algorithms Create and Prevent Fake News**, Noah Giansiracusa.  
 * **How Animals Work**, Knut Schmidt-Nelson.  
 * **How To Be Depressed**, George Scialabba.   
