@@ -45,6 +45,12 @@ Things I read for book club are marked with a tilde (&#126;).
 
 16. **The Essex Serpent**, Sarah Perry.  
 
+17. **A Pale View of Hills**, Kazuo Ishiguro.
+
+18. **My Life as a Dog**, Reidar Jönsson. &dagger; (Swedish)
+
+19. **Six Easy Pieces**, Richard P. Feynmann.  
+
 ### <a name="2021"></a>2021
 
 1. **The Fens**, Francis Pryor.  
