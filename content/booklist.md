@@ -51,6 +51,8 @@ Things I read for book club are marked with a tilde (&#126;).
 
 19. **Six Easy Pieces**, Richard P. Feynmann.  
 
+20. **Small World**, David Lodge.  
+
 ### <a name="2021"></a>2021
 
 1. **The Fens**, Francis Pryor.  
