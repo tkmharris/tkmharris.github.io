@@ -42,6 +42,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Disappearing Earth**, Julia Phillips.  
 * **Dispatches**, Michael Herr.  
 * **The Dispossessed**, Ursula K. LeGuin.  
+* **A Divine Language**, Alec Wilkinson.  
 * **Down and Out in Paris and London**, George Orwell.  
 * **Down Girl: the logic of misogyny**, Kate Manne.  
 * **The Drowned World**, J. G. Ballard.  
@@ -80,6 +81,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Hiroshima**, John Hersey.  
 * **How Algorithms Create and Prevent Fake News**, Noah Giansiracusa.  
 * **How Animals Work**, Knut Schmidt-Nelson.  
+* **How Music Works**, David Byrne.  
 * **How To Be Depressed**, George Scialabba.   
 * **Howl's Moving Castle**, Diana Wynne Jones.  
 * **House of Leaves**, Mark Z. Danielewski.    
@@ -179,7 +181,6 @@ Some books I'd like, in case you need to get me a gift.
 * **Starting Strength**, Mark Rippetoe.  
 * **The Strangest Man: The hidden Life of Paul Dirac, Quantum Genius**, Graham Farmelo.  
 * **The Struggle for Mastery: Britain 1066-1284**, David Carpenter.  
-* **The Sympathizer**, Viet Thanh Nguyen.  
 * **Tales from the Loop**, Simon Stålenhag.  
 * **Ten Great Ideas About Chance**, Persi Diaconis & Brian Skyrms.  
 * **Territory of Light**, Yuko Tsushima.  
