@@ -11,6 +11,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Age of Surveillance Capitalism**, Shoshana Zuboff.  
 * **The Age of Wonder**, Richard Holmes.  
 * **All the Wrong Moves**, Sasha Chapin.  
+* **The Anomoly**, Hervé le Tellier.  
 * **Arctic Voices: resistance at the tipping point**, Subhankar Banerjee.  
 * **The Ashtray: (Or the Man Who Denied Reality)**, Errol Morris.  
 * **The Beauty of Everyday Things**, Soetsu Yanagi.  
@@ -95,6 +96,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Indelible City: Dispossession and Defiance in Hong Kong**, Louisa Lim.  
 * **Infinitesimal**, Amir Alexander.  
 * **The Infinities**, John Banville.  
+* **An Instinct for Dragons**, David E. Jones.  
 * **The Intellectuals and the Masses**, John Carey.  
 * **The Internet Is Not What You Think It Is**, Justin E.H. Smith.  
 * **Intimations**, Zadie Smith.  
@@ -148,7 +150,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Planets**, Dava Sobel.  
 * **Poincaré and the Three-Body Problem**, June Barrow-Green. 
 * **Poor**, Caleb Femi.  
-* **Possession**, Jane Austen.       
+* **Persuasion**, Jane Austen.       
 * **The Power Broker**, Robert Caro.  
 * **Quintessence: Basic readings from the philosophy of W.V. Quine**, W.V. Quine.  
 * **Reasons and Persons**, Derek Parfit.  
