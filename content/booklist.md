@@ -53,6 +53,12 @@ Things I read for book club are marked with a tilde (&#126;).
 
 20. **Small World**, David Lodge.  
 
+21. **The Sympathizer**, Viet Thanh Nguyen.  
+
+22. **Nice Work**, David Lodge.  
+
+23. **A Heartbreaking Work of Staggering Genius**, Dave Eggers.  
+
 ### <a name="2021"></a>2021
 
 1. **The Fens**, Francis Pryor.  
