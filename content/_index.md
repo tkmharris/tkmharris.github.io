@@ -8,10 +8,13 @@ layout: staticpage
 
 Hello, I'm Tom. 
 
-I am an editor at Cambridge University Press.  
-I mainly work on books in maths, logic and theoretical CS. 
+I am a (junior) software engineer in Bath, UK.
 
-I do other things too.
+Until recently I was a commissioning editor at Cambridge University Press working on books in maths, logic and theoretical CS. 
+
+Before that I did a maths PhD.
+
+Next: ???
 
 ### Contact
 
