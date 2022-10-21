@@ -150,7 +150,6 @@ Some books I'd like, in case you need to get me a gift.
 * **The Planets**, Dava Sobel.  
 * **Poincaré and the Three-Body Problem**, June Barrow-Green. 
 * **Poor**, Caleb Femi.  
-* **Persuasion**, Jane Austen.       
 * **The Power Broker**, Robert Caro.  
 * **Quintessence: Basic readings from the philosophy of W.V. Quine**, W.V. Quine.  
 * **Reasons and Persons**, Derek Parfit.  
@@ -205,7 +204,8 @@ Walter Sinnott-Armstrong.
 * **The Tyranny of Merit**, Michael J. Sandel.  
 * **Uncanny Valley**, Anna Wiener.  
 * **The Unconsoled**, Kazuo Ishiguro.  
-* **Unix: a history and a memoir**, Brian W. Kernighan.  
+* **Unix: a history and a memoir**, Brian W. Kernighan. 
+* **The Unreal and the Real: Selected Stories**, Ursula K. LeGuin.   
 * **Up in the Old Hotel**, Joseph Mitchell.  
 * **The Varieties of Religious Experience**, William James.  
 * **Virtual Light**, William Gibson.  
