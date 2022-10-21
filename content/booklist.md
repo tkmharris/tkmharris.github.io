@@ -59,6 +59,12 @@ Things I read for book club are marked with a tilde (&#126;).
 
 23. **A Heartbreaking Work of Staggering Genius**, Dave Eggers.  
 
+24. **Persuasion**, Jane Austen.  
+
+25. **Death in Her Hands**, Ottessa Moshfegh.  
+
+26. **Astral Season, Beastly Season**, Tahi Saihate. &dagger; (Japanese)  
+
 ### <a name="2021"></a>2021
 
 1. **The Fens**, Francis Pryor.  
