@@ -148,6 +148,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Picnic at Hanging Rock**, Joan Lindsay.  
 * **Picture This**, Molly Bang.  
 * **The Planets**, Dava Sobel.  
+* **The Platform's Edge: uncanny tales of the railways**, Mike Ashley.  
 * **Poincaré and the Three-Body Problem**, June Barrow-Green. 
 * **Poor**, Caleb Femi.  
 * **The Power Broker**, Robert Caro.  
@@ -170,6 +171,8 @@ Some books I'd like, in case you need to get me a gift.
 * **The Seabird's Cry**, Adam Nicolson.  
 * **Second-Hand Time**, Svetlana Alexievich.  
 * **Set Adrift Upon the World**, James Hunter.  
+* **The Seven Moons of Maali Almeida**, Shehan Karunatilaka.  
+* **Seven Games: a human history**, Oliver Roeder.   
 * **Silence**, Endō Shūsaku.  
 * **Silent Spring**, Rachel Carson.  
 * **Simone Weil: an anthology**, Simone Weil.  
@@ -211,6 +214,7 @@ Walter Sinnott-Armstrong.
 * **Virtual Light**, William Gibson.  
 * **The Visual Display of Quantitative Information**, Edward R. Tufte.  
 * **Watching the English**, Kate Fox.  
+* **Weird Woods: tales from the haunted forests of Britain**, John Miller.  
 * **What's Your Pronoun**, Dennis Baron.  
 * **The What, Why and How of Assessment**, Simon Child & Paul Ellis.  
 * **White Chapell, Scarlet Tracings**, Iain Sinclair.  
