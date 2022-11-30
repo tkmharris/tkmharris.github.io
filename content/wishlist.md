@@ -14,6 +14,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Anomoly**, Hervé le Tellier.  
 * **Arctic Voices: resistance at the tipping point**, Subhankar Banerjee.  
 * **The Ashtray: (Or the Man Who Denied Reality)**, Errol Morris.  
+* **Backroom Boys**, Francis Spufford.  
 * **The Beauty of Everyday Things**, Soetsu Yanagi.  
 * **Being Ecological**, Timothy Morton.  
 * **The Black Death (Manchester Medieval Sources)**, Rosemary Horrox.  
@@ -110,6 +111,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Klara and the Sun**, Kazuo Ishiguro.  
 * **Kokoro**, Natsume Sōseki.  
 * **K-Punk: The Collected and Unpublished Writings of Mark Fisher**, Mark Fisher.  
+* **The Lady Tasting Tea**, David Salsburb.   
 * **The Land of Maybe: a Faroe Islands year**, Tim Ecott.  
 * **Leaving the Planet by Space Elevator**, Phillip Ragan & Bradley Edwards.  
 * **Leonhard Euler: Mathematical Genius in the Enlightenment**, Ronald S. Calinger.  
