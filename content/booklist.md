@@ -67,7 +67,11 @@ Things I read for book club are marked with a tilde (&#126;).
 
 27. **Abolish Silicon Valley**, Wendy Liu.  
 
-28. **Tokyo Express**, Seichō Matsuomoto.  
+28. **Tokyo Express**, Seichō Matsuomoto. &dagger; (Japanese)    
+
+29. **Stone Blind**, Natalie Haynes. &#126;  
+
+30. **The Netanyahus**, Joshua Cohen.  
 
 ### <a name="2021"></a>2021
 
