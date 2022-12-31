@@ -73,6 +73,12 @@ Things I read for book club are marked with a tilde (&#126;).
 
 30. **The Netanyahus**, Joshua Cohen.  
 
+31. **'Twas the Nightshift before Christmas**, Adam Kay. &#126;  
+
+32. **The English Understand Wool**, Helen DeWitt.  
+
+33. **Wolf Hall**, Hilary Mantel.  
+
 ### <a name="2021"></a>2021
 
 1. **The Fens**, Francis Pryor.  

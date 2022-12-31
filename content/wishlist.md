@@ -7,12 +7,10 @@ Some books I'd like, in case you need to get me a gift.
 
 * **Ælfred’s Britain: War and Peace in the Viking Age**, Max Adams.    
 * **At the Existentialist Cafe**, Sarah Bakewell.  
-* **The Absolute Book**, Elizabeth Knox.  
 * **The Age of Surveillance Capitalism**, Shoshana Zuboff.  
 * **The Age of Wonder**, Richard Holmes.  
 * **All the Wrong Moves**, Sasha Chapin.  
 * **The Anomoly**, Hervé le Tellier.  
-* **Arctic Voices: resistance at the tipping point**, Subhankar Banerjee.  
 * **The Ashtray: (Or the Man Who Denied Reality)**, Errol Morris.  
 * **Backroom Boys**, Francis Spufford.  
 * **The Beauty of Everyday Things**, Soetsu Yanagi.  
@@ -39,14 +37,12 @@ Some books I'd like, in case you need to get me a gift.
 * **The Cry of the Owl**, Patricia Highsmith.  
 * **The Crystal Messenger**, Pham Thi Hoal. 
 * **The Currency of Politics**, Stefan Eich.   
-* **Death in Her Hands**, Ottessa Moshfegh.  
 * **Diaspora**, Greg Egan.  
 * **Disappearing Earth**, Julia Phillips.  
 * **Dispatches**, Michael Herr.  
 * **The Dispossessed**, Ursula K. LeGuin.  
 * **A Divine Language**, Alec Wilkinson.  
 * **Down and Out in Paris and London**, George Orwell.  
-* **Down Girl: the logic of misogyny**, Kate Manne.  
 * **The Drowned World**, J. G. Ballard.  
 * **The Earth Dies Streaming**, A. S. Hamrah.     
 * **The Embrace of the Fourth Dimension**, Mark Blacklock.  
@@ -58,18 +54,15 @@ Some books I'd like, in case you need to get me a gift.
 * **Fat City**, Leonard Gardner.  
 * **Ficciones**, Jorge Luis Borges.  
 * **The First American: the life and times of Benjamin Franklin**, H. W. Brands.  
-* **The First Bad Man**, Miranda July.  
 * **First Love, Last Rites**, Ian McEwan.  
 * **First You Write a Sentence**, Joe Moran.  
 * **The Fish Can Sing**, Halldór Laxness.  
 * **The Foghorn's Lament**, Jennifer Lucy Allan.  
-* **Footnotes**, Vybarr Cregan-Reid.
 * **Fred**, Posy Simmonds.    
 * **From Hell**, Alan Moore & Eddie Campbell.  
 * **Fuccboi**, Sean Thor Conroe.  
 * **Future Sex**, Emily Witt.  
 * **The Gallows Pole**, Benjamin Myers. 
-* **The Genius in my Basement**, Alexander Masters.  
 * **Germinal**,  Émile Zola.  
 * **A Girl Is a Half-Formed Thing**, Eimear McBride.  
 * **The Glass Hotel**, Emily St.John Mandell.  
@@ -81,7 +74,6 @@ Some books I'd like, in case you need to get me a gift.
 * **The Heart of the Original**, Steve Aylett.  
 * **The Hedgehog and the Fox**, Isaiah Berlin.  
 * **Hiroshima**, John Hersey.  
-* **How Algorithms Create and Prevent Fake News**, Noah Giansiracusa.  
 * **How Animals Work**, Knut Schmidt-Nelson.  
 * **How Music Works**, David Byrne.  
 * **How To Be Depressed**, George Scialabba.   
@@ -100,7 +92,6 @@ Some books I'd like, in case you need to get me a gift.
 * **An Instinct for Dragons**, David E. Jones.  
 * **The Intellectuals and the Masses**, John Carey.  
 * **The Internet Is Not What You Think It Is**, Justin E.H. Smith.  
-* **Intimations**, Zadie Smith.  
 * **It**, Stephen King.   
 * **The Journal of a Disappointed Man**, W.N.P. Barbellion.  
 * **The Journals Of A White Sea Wolf**, Mariusz Wilk.  
@@ -114,8 +105,8 @@ Some books I'd like, in case you need to get me a gift.
 * **The Lady Tasting Tea**, David Salsburb.   
 * **The Land of Maybe: a Faroe Islands year**, Tim Ecott.  
 * **Leaving the Planet by Space Elevator**, Phillip Ragan & Bradley Edwards.  
-* **Leonhard Euler: Mathematical Genius in the Enlightenment**, Ronald S. Calinger.  
 * **A Libertarian Walks Into a Bear: The Utopian Plot to Liberate an American Town (And Some Bears)**, Matthew Hongoltz-Hetling.  
+* **The Library at Mount Char**, Scott Hawkins.  
 * **Lint**, Steve Aylett.  
 * **Little Fires Everywhere**, Celeste Ng.  
 * **The Love Affairs of Nathaniel P.**, Adelle Waldman.  
@@ -147,7 +138,6 @@ Some books I'd like, in case you need to get me a gift.
 * **The Paper Lantern**, Will Burns.  
 * **Perdido Street Station**, China Miéville.  
 * **Phillip Larkin: a Writer's Life**, Andrew Motion.  
-* **Picnic at Hanging Rock**, Joan Lindsay.  
 * **Picture This**, Molly Bang.  
 * **The Planets**, Dava Sobel.  
 * **The Platform's Edge: uncanny tales of the railways**, Mike Ashley.  
@@ -165,7 +155,6 @@ Some books I'd like, in case you need to get me a gift.
 * **The Rise and Fall of the Dinosaurs: a new history of a lost world**, Steve Brusatte.  
 * **RISINGTIDEFALLINGSTAR**, Phillip Hoare.  
 * **Resevoir 13**, John McGregor.  
-* **The Road to Wigan Pier**, George Orwell.  
 * **Rosencrantz and Guildenstern Are Dead**, Tom Stoppard.  
 * **Sabrina** Nick Drnaso.  
 * **A Scheme of Heaven: Astrology and the Birth of Science**, Alexander Boxer.  
