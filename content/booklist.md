@@ -11,6 +11,12 @@ Re-reads are marked with an asterisk (&lowast;).
 Works read in translation are marked with a dagger (&dagger;).  
 Things I read for book club are marked with a tilde (&#126;).
 
+### <a name="2023"></a>2023
+
+1. **You Are Not Expected to Understand This**, Torie Bosch (ed.).  
+
+2. **This Is How You Lose the Time War**, Amal El-Mohtar & Max Gladstone.  
+
 ### <a name="2022"></a>2022
 
 1. **Flatland**, Edwin A. Abbott.  
