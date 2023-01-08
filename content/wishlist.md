@@ -19,7 +19,6 @@ Some books I'd like, in case you need to get me a gift.
 * **Black Teacher**, Beryl Gilroy.  
 * **Blindsight**, Peter Watts.  
 * **Braised Pork**, An Yu.  
-* **Brexitland**, Maria Sobolewska & Robert Ford.  
 * **A Brief History of Neoliberalism**, David Harvey.  
 * **Capitalist Realism**, Mark Fisher.  
 * **The Centaur**, John Updike.
@@ -34,8 +33,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Crime Writer**, Jill Dawson.  
 * **Crossroads**, Jonathan Franzen.  
 * **Crow Court**, Andy Charman.  
-* **The Cry of the Owl**, Patricia Highsmith.  
-* **The Crystal Messenger**, Pham Thi Hoal. 
+* **The Cry of the Owl**, Patricia Highsmith.   
 * **The Currency of Politics**, Stefan Eich.   
 * **Diaspora**, Greg Egan.  
 * **Disappearing Earth**, Julia Phillips.  
@@ -46,6 +44,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Drowned World**, J. G. Ballard.  
 * **The Earth Dies Streaming**, A. S. Hamrah.     
 * **The Embrace of the Fourth Dimension**, Mark Blacklock.  
+* **Emergent Tokyo: Designing the Spontaneous City**, Jorge Almazan.   
 * **Erasure**, Percival Everett.  
 * **The Essential Turing**, B. Jack Copeland (ed.).  
 * **The European Eel**, Steve Ely.  
@@ -63,12 +62,11 @@ Some books I'd like, in case you need to get me a gift.
 * **Fuccboi**, Sean Thor Conroe.  
 * **Future Sex**, Emily Witt.  
 * **The Gallows Pole**, Benjamin Myers. 
-* **Germinal**,  Émile Zola.  
-* **A Girl Is a Half-Formed Thing**, Eimear McBride.  
+* **Germinal**,  Émile Zola.    
 * **The Glass Hotel**, Emily St.John Mandell.  
 * **The Golden Bough**, James Frazer.  
 * **The Golden Notebook**, Doris Lessing.  
-* **Gone: a search for what remains of the earth's extinct creatures**, Michael Blencowe.  
+  
 * **The Great Railway Bazaar: By Train Through Asia**, Paul Theroux.  
 * **Half of a Yellow Sun**, Chimamanda Ngozi Adichie.  
 * **The Heart of the Original**, Steve Aylett.  
@@ -76,8 +74,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Hiroshima**, John Hersey.  
 * **How Animals Work**, Knut Schmidt-Nelson.  
 * **How Music Works**, David Byrne.  
-* **How To Be Depressed**, George Scialabba.   
-* **Howl's Moving Castle**, Diana Wynne Jones.  
+* **How To Be Depressed**, George Scialabba.    
 * **House of Leaves**, Mark Z. Danielewski.    
 * **Hunger Makes Me a Modern Girl**, Carrie Brownstein.  
 * **The Hungry Brain**, Stephan Guyenet.
