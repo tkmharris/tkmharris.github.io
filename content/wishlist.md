@@ -60,6 +60,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Fred**, Posy Simmonds.    
 * **From Hell**, Alan Moore & Eddie Campbell.  
 * **Fuccboi**, Sean Thor Conroe.  
+* **Full Tilt**, Dervla Murphy.  
 * **Future Sex**, Emily Witt.  
 * **The Gallows Pole**, Benjamin Myers. 
 * **Germinal**,  Émile Zola.    
@@ -68,6 +69,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Golden Notebook**, Doris Lessing.  
   
 * **The Great Railway Bazaar: By Train Through Asia**, Paul Theroux.  
+* **A Guide to Japenese Role-Playing Games**, Bitmap Books.  
 * **Half of a Yellow Sun**, Chimamanda Ngozi Adichie.  
 * **The Heart of the Original**, Steve Aylett.  
 * **The Hedgehog and the Fox**, Isaiah Berlin.  
@@ -89,7 +91,8 @@ Some books I'd like, in case you need to get me a gift.
 * **An Instinct for Dragons**, David E. Jones.  
 * **The Intellectuals and the Masses**, John Carey.  
 * **The Internet Is Not What You Think It Is**, Justin E.H. Smith.  
-* **It**, Stephen King.   
+* **It**, Stephen King.  
+* **Japan Sinks**, Sakyo Komatsu.   
 * **The Journal of a Disappointed Man**, W.N.P. Barbellion.  
 * **The Journals Of A White Sea Wolf**, Mariusz Wilk.  
 * **Journey to the Edge of Reason: The life of Kurt Gödel**, Stephen Budiansky.  
@@ -120,6 +123,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Mushroom at the End of the World**, Anna Lowenhaupt Tsing.  
 * **My First Summer in the Sierra**, John Muir.  
 * **Naming Infinity**, Loren Graham & Jean-Michel Kantor.  
+* **Night Sky with Exit Wounds**, Ocean Vuong.  
 * **The Nine Billion Names of God**, Arthur C. Clarke.  
 * **The Nineties**, Chuck Kloosterman.  
 * **Njal's Saga (Penguin Classics)**, Anonymous.  
@@ -146,13 +150,14 @@ Some books I'd like, in case you need to get me a gift.
 * **The Recognitions**, William Gaddis.
 * **Red Plenty**, Francis Spufford.  
 * **The Reinvention of Humanity**, Charles King.  
+* **Resevoir 13**, John McGregor.  
 * **Revolting Prostitutes**, Juno Mac & Molly Smith.  
 * **The Righteous Mind**, Jonathan Haidt.  
 * **Ring of Bright Water**, Gavin Maxwell.  
 * **The Rise and Fall of the Dinosaurs: a new history of a lost world**, Steve Brusatte.  
 * **RISINGTIDEFALLINGSTAR**, Phillip Hoare.  
-* **Resevoir 13**, John McGregor.  
 * **Rosencrantz and Guildenstern Are Dead**, Tom Stoppard.  
+* **The Ruin of all Witches**, Malcolm Gaskill.  
 * **Sabrina** Nick Drnaso.  
 * **A Scheme of Heaven: Astrology and the Birth of Science**, Alexander Boxer.  
 * **Science Fictions**, Stuart Ritchie.  
