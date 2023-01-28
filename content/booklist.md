@@ -17,6 +17,10 @@ Things I read for book club are marked with a tilde (&#126;).
 
 2. **This Is How You Lose the Time War**, Amal El-Mohtar & Max Gladstone.  
 
+3. **Gone: A Search for what Remains of the World's Extinct Creatures**, Michael Blencowe.  
+
+4. **Howl's Moving Castle**, Diana Wynne-Jones. (&#126;)    
+
 ### <a name="2022"></a>2022
 
 1. **Flatland**, Edwin A. Abbott.  
