@@ -63,8 +63,8 @@ Some books I'd like, in case you need to get me a gift.
 * **Full Tilt**, Dervla Murphy.  
 * **Future Sex**, Emily Witt.  
 * **The Gallows Pole**, Benjamin Myers. 
-* **Germinal**,  Émile Zola.    
-* **The Glass Hotel**, Emily St.John Mandell.  
+* **Germinal**,  Émile Zola.   
+* **Ghosts of Gondwana: The History of Life in New Zealand**, George Gibbs.   
 * **The Golden Bough**, James Frazer.  
 * **The Golden Notebook**, Doris Lessing.  
   

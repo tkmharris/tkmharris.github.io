@@ -15,12 +15,13 @@ Things I read for book club are marked with a tilde (&#126;).
 
 1. **You Are Not Expected to Understand This**, Torie Bosch (ed.).  
 
-2. **This Is How You Lose the Time War**, Amal El-Mohtar & Max Gladstone.  
+2. **This Is How You Lose the Time War**, Amal El-Mohtar & Max Gladstone. (&#126;)   
 
 3. **Gone: A Search for what Remains of the World's Extinct Creatures**, Michael Blencowe.  
 
 4. **Howl's Moving Castle**, Diana Wynne-Jones. (&#126;)    
 
+5. **Dark Matter**, Michelle Paver.  
 ### <a name="2022"></a>2022
 
 1. **Flatland**, Edwin A. Abbott.  
