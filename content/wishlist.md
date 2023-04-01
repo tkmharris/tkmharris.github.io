@@ -116,7 +116,6 @@ Some books I'd like, in case you need to get me a gift.
 * **The Melancholia of Class**, Cynthia Cruz.  
 * **The Moon and Sixpence**, W. Somerset Maugham.  
 * **More Trees to Climb**, Ben Moor.  
-* **Michel the Giant: An African in Greenland**, Tété-Michel Kpomassie.  
 * **Miles from Nowhere**, Nami Mun.  
 * **Mill**, David Macaulay.  
 * **The Ministry for the Future**, Kim Stanely Robinson.  

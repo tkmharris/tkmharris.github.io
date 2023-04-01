@@ -22,6 +22,21 @@ Things I read for book club are marked with a tilde (&#126;).
 4. **Howl's Moving Castle**, Diana Wynne-Jones. (&#126;)    
 
 5. **Dark Matter**, Michelle Paver.  
+
+6. **Permanent Record**, Edward Snowden. (&#126;)  
+
+7. **Michel the Giant: An African in Greenland**, Tété-Michel Kpomassie. &dagger; (French)
+
+8. **My Sister, the Serial Killer**, Oyinkan Braithwaite. &#126;  
+
+9. **Ducks: Two Years in the Oil Sands**, Kate Beaton.  
+
+10. **Secret Rendezvous**, Kōbō Abe. &dagger; (Japanese)   
+
+11. **All In It Together: England in the Early 21st Century**, Alwyn Turner.  
+
+12. **Behold the Man**, Michael Moorcock. &#126;  
+
 ### <a name="2022"></a>2022
 
 1. **Flatland**, Edwin A. Abbott.  
