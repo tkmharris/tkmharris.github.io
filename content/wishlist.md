@@ -51,7 +51,6 @@ Some books I'd like, in case you need to get me a gift.
 * **Evil Men**, James Dawes.  
 * **Exact Thinking in Demented Times**, Karl Sigmund.  
 * **Fat City**, Leonard Gardner.  
-* **Ficciones**, Jorge Luis Borges.  
 * **The First American: the life and times of Benjamin Franklin**, H. W. Brands.  
 * **First Love, Last Rites**, Ian McEwan.  
 * **First You Write a Sentence**, Joe Moran.  
@@ -97,8 +96,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Journals Of A White Sea Wolf**, Mariusz Wilk.  
 * **Journey to the Edge of Reason: The life of Kurt Gödel**, Stephen Budiansky.  
 * **The Journey to the West: vol 1**, Anthony C. Yu.  
-* **Kusamakura**, Natsume Sōseki.  
-* **King of Infinite Space: Donald Coxeter, the Man Who Saved Geometry**, Siobhan Roberts.  
+* **Kusamakura**, Natsume Sōseki.    
 * **Klara and the Sun**, Kazuo Ishiguro.  
 * **Kokoro**, Natsume Sōseki.  
 * **K-Punk: The Collected and Unpublished Writings of Mark Fisher**, Mark Fisher.  
@@ -114,11 +112,10 @@ Some books I'd like, in case you need to get me a gift.
 * **Making "Nature"**, Melinda Baldwin.  
 * **Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001–2011**, Lizzy Goodman.  
 * **The Melancholia of Class**, Cynthia Cruz.  
-* **The Moon and Sixpence**, W. Somerset Maugham.  
-* **More Trees to Climb**, Ben Moor.  
 * **Miles from Nowhere**, Nami Mun.  
 * **Mill**, David Macaulay.  
-* **The Ministry for the Future**, Kim Stanely Robinson.  
+* **The Moon and Sixpence**, W. Somerset Maugham.  
+* **More Trees to Climb**, Ben Moor.  
 * **The Mushroom at the End of the World**, Anna Lowenhaupt Tsing.  
 * **My First Summer in the Sierra**, John Muir.  
 * **Naming Infinity**, Loren Graham & Jean-Michel Kantor.  
