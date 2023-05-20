@@ -24,6 +24,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Centaur**, John Updike.
 * **The Chrysanthemum and the Sword**, Ruth Benedict.  
 * **City: Rediscovering the Center**, William H. Whyte.  
+* **The City Authentic: How the Attention Economy Builds Urban America**, David A. Banks.  
 * **Climbers**, M. John Harrison.  
 * **Cod: A Biography of the Fish that Changed the World**, Mark Kurlansky.  
 * **CoDex 1962: A Trilogy**, Sjón.  
@@ -56,7 +57,8 @@ Some books I'd like, in case you need to get me a gift.
 * **First You Write a Sentence**, Joe Moran.  
 * **The Fish Can Sing**, Halldór Laxness.  
 * **The Foghorn's Lament**, Jennifer Lucy Allan.  
-* **Fred**, Posy Simmonds.    
+* **Fred**, Posy Simmonds.  
+* **The Friendly Young Ladies**, Mary Renault.      
 * **From Hell**, Alan Moore & Eddie Campbell.  
 * **Fuccboi**, Sean Thor Conroe.  
 * **Full Tilt**, Dervla Murphy.  
@@ -73,8 +75,8 @@ Some books I'd like, in case you need to get me a gift.
 * **The Heart of the Original**, Steve Aylett.  
 * **The Hedgehog and the Fox**, Isaiah Berlin.  
 * **Hiroshima**, John Hersey.  
-* **How Animals Work**, Knut Schmidt-Nelson.  
-* **How Music Works**, David Byrne.  
+* **The Honest Rainmaker: The life and times of Colonel John R. Stingo**, A. J. Liebling.  
+* **How Animals Work**, Knut Schmidt-Nelson.    
 * **How To Be Depressed**, George Scialabba.    
 * **House of Leaves**, Mark Z. Danielewski.    
 * **Hunger Makes Me a Modern Girl**, Carrie Brownstein.  
