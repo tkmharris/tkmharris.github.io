@@ -37,6 +37,18 @@ Things I read for book club are marked with a tilde (&#126;).
 
 12. **Behold the Man**, Michael Moorcock. &#126;  
 
+13. **A Year in the New Life**, Jack Underwood.  
+
+14. **Carmilla**, J. Sheridan Le Fanu.  
+
+15. **Fictions**, Jean-Luis Borges. &dagger; (Spanish)  
+
+16. **Braised Pork**, An Yu. &#126;  
+
+17. **The Fifty-Nine Icosahedra**, 
+
+18. **The Ministry for the Future**, Kim Stanley Robinson.  
+
 ### <a name="2022"></a>2022
 
 1. **Flatland**, Edwin A. Abbott.  
