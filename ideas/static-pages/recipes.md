@@ -173,7 +173,7 @@ Makes two large dinner portions, or 4 lunch portions.
 #### Method
 
 Heat the oven to 220C.
-Put the potatoes and radishes in a roasting dish with 3 tbsp on the oil, seasoned with salt and pepper.
+Put the potatoes and radishes in a roasting dish with 3 tbsp of the oil, seasoned with salt and pepper.
 Put the dish in the oven for ~40 minutes, tossing halfway through.
 
 To make the dressing, blend the remaining oil with the garlic, lemon juie, yoghurt, and dill. Stir again before serving.
