@@ -45,9 +45,25 @@ Things I read for book club are marked with a tilde (&#126;).
 
 16. **Braised Pork**, An Yu. &#126;  
 
-17. **The Fifty-Nine Icosahedra**, 
+17. **The Fifty-Nine Icosahedra**, H. S. M. Coxeter, P. Du Val, H. T. Flather & J. F. Petrie.
 
 18. **The Ministry for the Future**, Kim Stanley Robinson.  
+
+19. **King of Infinite Space: Donald Coxeter, the Man Who Saved Geometry**, Siobhan Roberts.  
+
+20. **Kitchen**, Banana Yoshimoto. &dagger; (Japanese)  
+
+21. **Termush**, Sven Holm. &dagger; (Danish)  
+
+22. **The Electric Forest**, Tanith Lee.  
+
+23. **The Ascent of Rum Doodle**, W. E. Bowman.  
+
+24. **Picnic at Hanging Rock**, Joan Lindsay.  
+
+25. **Worlds Fantastic, Worlds Familiar: A Guided Tour of the Solar System**, Bonnie J. Buratti.  
+
+26. **Red Plenty**, Francis Spufford.  
 
 ### <a name="2022"></a>2022
 
