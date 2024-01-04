@@ -11,6 +11,9 @@ Re-reads are marked with an asterisk (&lowast;).
 Works read in translation are marked with a dagger (&dagger;).  
 Things I read for book club are marked with a tilde (&#126;).
 
+### <a name="2024"></a>2024
+
+
 ### <a name="2023"></a>2023
 
 1. **You Are Not Expected to Understand This**, Torie Bosch (ed.).  
@@ -64,6 +67,18 @@ Things I read for book club are marked with a tilde (&#126;).
 25. **Worlds Fantastic, Worlds Familiar: A Guided Tour of the Solar System**, Bonnie J. Buratti.  
 
 26. **Red Plenty**, Francis Spufford.  
+
+27. **Halloween Party**, Agatha Christie.  
+
+28. **Klara and the Sun**, Kazuo Ishiguro. &#126;  
+
+29. **Foreverism**, Grafton Turner.  
+
+30. **The Secret Lives of Numbers**, Kate Kitagawa & Timothy Revell.  
+
+31. **Everything That Rises Must Converge**, Flannery O'Connor.  
+
+32. **Mathematics and the Unexpected**, Ivar Ekeland. &dagger; (French)  
 
 ### <a name="2022"></a>2022
 

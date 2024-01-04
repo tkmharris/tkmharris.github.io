@@ -43,6 +43,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Embrace of the Fourth Dimension**, Mark Blacklock.  
 * **Emergent Tokyo: Designing the Spontaneous City**, Jorge Almazan.   
 * **Erasure**, Percival Everett.  
+* **Essays (Penguin Modern Classics), George Orwell.  
 * **The Essential Turing**, B. Jack Copeland (ed.).  
 * **The European Eel**, Steve Ely.  
 * **Evil Men**, James Dawes.  
@@ -111,13 +112,11 @@ Some books I'd like, in case you need to get me a gift.
 * **The Norton Introduction to Philosophy**, Gideon Rosen, Alex Byrne, Joshua Cohen & Seana Shiffrin *(Eds.)*.  
 * **On Bullshit**, Harry G. Frankfurt.  
 * **On Murder Considered as One of the Fine Arts**, Thomas de Quincey.  
-* **On Quaternions and Octonions**, John H. Conway & Derek A. Smith.  
 * **One Way and Another: new and selected essays**, Adam Phillips.  
 * **Once a Runner**, John L. Parker Jr.  
 * **Once They Were Hats**, Frances Backhouse.  
 * **Ordinary Differential Equations (MIT Press)**, V. I. Arnold.   
 * **Perdido Street Station**, China Miéville.  
-* **Phillip Larkin: a Writer's Life**, Andrew Motion.  
 * **Picture This**, Molly Bang.  
 * **Planet Hong Kong: Popular Cinema and the Art of Entertainment**, David Bordwell.  
 * **The Planets**, Dava Sobel.  
@@ -128,7 +127,6 @@ Some books I'd like, in case you need to get me a gift.
 * **Reasons and Persons**, Derek Parfit.    
 * **The Reinvention of Humanity**, Charles King.  
 * **Revolting Prostitutes**, Juno Mac & Molly Smith.  
-* **The Righteous Mind**, Jonathan Haidt.  
 * **Ring of Bright Water**, Gavin Maxwell.  
 * **The Rise and Fall of the Dinosaurs: a new history of a lost world**, Steve Brusatte.  
 * **RISINGTIDEFALLINGSTAR**, Phillip Hoare.  
@@ -136,9 +134,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Ruin of all Witches**, Malcolm Gaskill.  
 * **Sabrina** Nick Drnaso.  
 * **A Scheme of Heaven: Astrology and the Birth of Science**, Alexander Boxer.     
-* **Second-Hand Time**, Svetlana Alexievich.  
 * **Set Adrift Upon the World**, James Hunter.  
-* **The Seven Moons of Maali Almeida**, Shehan Karunatilaka.  
 * **Seven Games: a human history**, Oliver Roeder.   
 * **Silence**, Endō Shūsaku.  
 * **Silent Spring**, Rachel Carson.  
@@ -150,7 +146,6 @@ Some books I'd like, in case you need to get me a gift.
 * **Speak Not: Empire, Identity and the Politics of Language**, James Griffiths.  
 * **Stalin Ate My Homework**, Alexei Sayle.  
 * **The Strangest Man: The hidden Life of Paul Dirac, Quantum Genius**, Graham Farmelo.  
-* **The Struggle for Mastery: Britain 1066-1284**, David Carpenter.  
 * **Tales from the Loop**, Simon Stålenhag.  
 * **Ten Great Ideas About Chance**, Persi Diaconis & Brian Skyrms.  
 * **Territory of Light**, Yuko Tsushima.  
