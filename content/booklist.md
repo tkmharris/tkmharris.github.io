@@ -13,6 +13,9 @@ Things I read for book club are marked with a tilde (&#126;).
 
 ### <a name="2024"></a>2024
 
+1. **Where the Crawdads Sing**, Delia Owens. &#126;  
+
+2. **The Picses**, Melissa Broder.  
 
 ### <a name="2023"></a>2023
 
