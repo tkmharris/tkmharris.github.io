@@ -8,13 +8,11 @@ layout: staticpage
 
 Hello, I'm Tom. 
 
-I am a (junior) software engineer in Bath, UK.
+I am a software engineer in Bath, UK.
 
-Until recently I was a commissioning editor at Cambridge University Press working on books in maths, logic and theoretical CS. 
+Previously I have been a commissioning editor at Cambridge University Press, where I worked on books in maths, logic and theoretical CS. More previously I did a PhD in pure maths and was briefly a postdoc. 
 
-Before that I did a maths PhD.
-
-Next: ???
+Outside of maths and software I like running, hiking, reading, and killing God after 40+ hours of classic JRPG gameplay.
 
 ### Contact
 
