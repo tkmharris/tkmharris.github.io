@@ -17,6 +17,22 @@ Things I read for book club are marked with a tilde (&#126;).
 
 2. **The Picses**, Melissa Broder.  
 
+3. **Several People Are Typing**, Calvin Kasulke.  
+
+4. **O Positive**, Joe Dunthorne.  
+
+5. **The City & The City**, China Miéville. &#126;  
+
+6. **An Applied Mathematician's Apology**, LLoyd N. Trefethen.  
+
+7. **Tomorrow, and Tomorrow, and Tomorrow**, Gabrielle Zevin. &#126;    
+
+8. **The Art of Doing Science and Engineering**, Richard W. Hamming.  
+
+9. **Crying in H-Mart**, Michelle Zauner. &#126;  
+
+10. **God Complex**, Rachael Allen.  
+
 ### <a name="2023"></a>2023
 
 1. **You Are Not Expected to Understand This**, Torie Bosch (ed.).  
