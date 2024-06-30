@@ -40,6 +40,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Embrace of the Fourth Dimension**, Mark Blacklock.  
 * **Emergent Tokyo: Designing the Spontaneous City**, Jorge Almazan.   
 * **Erasure**, Percival Everett.  
+* **Error of Judgement**, Chris Mullin.  
 * **Essays (Penguin Modern Classics)**, George Orwell.  
 * **The Essential Turing**, B. Jack Copeland (ed.).  
 * **The European Eel**, Steve Ely.  
@@ -95,11 +96,11 @@ Some books I'd like, in case you need to get me a gift.
 * **Luminous**, Greg Egan.  
 * **Madam Bovary**,  Gustave Flaubert.    
 * **Making "Nature"**, Melinda Baldwin.  
-* **Meet Me in the Bathroom: Rebirth and Rock and Roll in New York City 2001–2011**, Lizzy Goodman.  
 * **The Melancholia of Class**, Cynthia Cruz.  
 * **Miles from Nowhere**, Nami Mun.  
 * **Mill**, David Macaulay.    
 * **More Trees to Climb**, Ben Moor.  
+* **Moshi Moshi**, Banana Yoshimoto.  
 * **My First Summer in the Sierra**, John Muir.  
 * **Naming Infinity**, Loren Graham & Jean-Michel Kantor.  
 * **Night Sky with Exit Wounds**, Ocean Vuong.  
@@ -112,7 +113,8 @@ Some books I'd like, in case you need to get me a gift.
 * **One Way and Another: new and selected essays**, Adam Phillips.  
 * **Once a Runner**, John L. Parker Jr.  
 * **Once They Were Hats**, Frances Backhouse.  
-* **Ordinary Differential Equations (MIT Press)**, V. I. Arnold.   
+* **Ordinary Differential Equations (MIT Press)**, V. I. Arnold.
+* **Our Magnificent Bastard Tongue**, John McWhorter.     
 * **Perdido Street Station**, China Miéville.  
 * **Picture This**, Molly Bang.  
 * **Planet Hong Kong: Popular Cinema and the Art of Entertainment**, David Bordwell.  
@@ -128,7 +130,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Ruin of all Witches**, Malcolm Gaskill.  
 * **The Sarah Book**, Scott McClanahan.  
 * **A Scheme of Heaven: Astrology and the Birth of Science**, Alexander Boxer.     
-* **Set Adrift Upon the World**, James Hunter.  
+* **Seventh Day**, Yu Hua.    
 * **Seven Games: a human history**, Oliver Roeder.   
 * **Silence**, Endō Shūsaku.  
 * **Silent Spring**, Rachel Carson.  
