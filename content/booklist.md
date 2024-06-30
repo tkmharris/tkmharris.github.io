@@ -33,6 +33,18 @@ Things I read for book club are marked with a tilde (&#126;).
 
 10. **God Complex**, Rachael Allen.  
 
+11. **The Mask of Dimitrios**, Eric Ambler. &#126;  
+
+12. **Roadside Picnic**, Arkady & Boris Strugatsky. &dagger; (Russian)  &#126;  
+
+13. **Bring Up the Bodies**, Hilary Mantell.  
+
+14. **Brother Poem**, Will Harris.  
+
+15. **Golden Age**, Wang Xiaobo. &dagger; (Mandarin)
+
+16. **Cold Enough for Snow**, Jessica Au. &#126;    
+
 ### <a name="2023"></a>2023
 
 1. **You Are Not Expected to Understand This**, Torie Bosch (ed.).  

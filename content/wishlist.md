@@ -159,8 +159,10 @@ Some books I'd like, in case you need to get me a gift.
 * **The Unreal and the Real: Selected Stories**, Ursula K. LeGuin.   
 * **Up in the Old Hotel**, Joseph Mitchell.  
 * **Urne Burial**, Thomas Browne.  
+* **Very Important People**, Ashley Mears.  
 * **Virtual Light**, William Gibson.  
 * **Watching the English**, Kate Fox.  
+* **Waves**, Bei Dao.  
 * **We Who Are About To...**, Joanna Russ.  
 * **What Artists Wear**, Charlie Porter.  
 * **What's Your Pronoun**, Dennis Baron.  
