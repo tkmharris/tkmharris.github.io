@@ -8,7 +8,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Ælfred’s Britain: War and Peace in the Viking Age**, Max Adams.    
 * **At the Existentialist Cafe**, Sarah Bakewell.  
 * **The Age of Wonder**, Richard Holmes.  
-* **All the Wrong Moves**, Sasha Chapin.  
+* **Against the Gods: The Remarkable Story of Risk**, Peter L. Bernstein.   
 * **The Ashtray: (Or the Man Who Denied Reality)**, Errol Morris.  
 * **Backroom Boys**, Francis Spufford.    
 * **The Black Death (Manchester Medieval Sources)**, Rosemary Horrox.  
@@ -50,7 +50,7 @@ Some books I'd like, in case you need to get me a gift.
 * **First Love, Last Rites**, Ian McEwan.  
 * **First You Write a Sentence**, Joe Moran.  
 * **The Fish Can Sing**, Halldór Laxness.  
-* **Foolproof**, Brian Hayes.  
+* **Four Thousand Weeks**, Oliver Burkeman.    
 * **Fred**, Posy Simmonds.  
 * **The Friendly Young Ladies**, Mary Renault.      
 * **From Hell**, Alan Moore & Eddie Campbell.  
@@ -80,7 +80,6 @@ Some books I'd like, in case you need to get me a gift.
 * **Infinitesimal**, Amir Alexander.  
 * **The Infinities**, John Banville.  
 * **An Instinct for Dragons**, David E. Jones.  
-* **The Intellectuals and the Masses**, John Carey.  
 * **The Internet Is Not What You Think It Is**, Justin E.H. Smith.  
 * **It**, Stephen King.  
 * **Japan Sinks**, Sakyo Komatsu.   
@@ -113,14 +112,13 @@ Some books I'd like, in case you need to get me a gift.
 * **One Way and Another: new and selected essays**, Adam Phillips.  
 * **Once a Runner**, John L. Parker Jr.  
 * **Once They Were Hats**, Frances Backhouse.  
-* **Ordinary Differential Equations (MIT Press)**, V. I. Arnold.
 * **Our Magnificent Bastard Tongue**, John McWhorter.     
 * **Perdido Street Station**, China Miéville.  
 * **Picture This**, Molly Bang.  
 * **Planet Hong Kong: Popular Cinema and the Art of Entertainment**, David Bordwell.  
 * **The Planets**, Dava Sobel.  
-* **The Platform's Edge: uncanny tales of the railways**, Mike Ashley.
 * **Poor**, Caleb Femi.  
+* **Private Revolutions**, Yuan Yang.  
 * **Reasons and Persons**, Derek Parfit.    
 * **The Reinvention of Humanity**, Charles King.  
 * **Revolting Prostitutes**, Juno Mac & Molly Smith.  

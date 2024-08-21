@@ -45,6 +45,14 @@ Things I read for book club are marked with a tilde (&#126;).
 
 16. **Cold Enough for Snow**, Jessica Au. &#126;    
 
+17. **The Honjin Murders**, Seishi Yokomizi. &#126; &dagger; (Japanese)
+
+18. **Dicing With Death**, Stephen Senn.  
+
+19. **The Intellectuals and the Masses**, John Carey.  
+
+20. **The Real North Korea**, Andrei Lankov.  
+
 ### <a name="2023"></a>2023
 
 1. **You Are Not Expected to Understand This**, Torie Bosch (ed.).  
