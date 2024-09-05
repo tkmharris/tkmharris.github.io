@@ -53,6 +53,8 @@ Things I read for book club are marked with a tilde (&#126;).
 
 20. **The Real North Korea**, Andrei Lankov.  
 
+21. **Shogun**, James Clavell.  
+
 ### <a name="2023"></a>2023
 
 1. **You Are Not Expected to Understand This**, Torie Bosch (ed.).  
