@@ -51,7 +51,6 @@ Some books I'd like, in case you need to get me a gift.
 * **First You Write a Sentence**, Joe Moran.  
 * **The Fish Can Sing**, Halldór Laxness.  
 * **Four Thousand Weeks**, Oliver Burkeman.    
-* **Fred**, Posy Simmonds.  
 * **The Friendly Young Ladies**, Mary Renault.      
 * **From Hell**, Alan Moore & Eddie Campbell.  
 * **Fuccboi**, Sean Thor Conroe.  
@@ -78,7 +77,6 @@ Some books I'd like, in case you need to get me a gift.
 * **In My Own Time: thoughts and afterthoughts**, Jane Miller.  
 * **Indelible City: Dispossession and Defiance in Hong Kong**, Louisa Lim.  
 * **Infinitesimal**, Amir Alexander.  
-* **The Infinities**, John Banville.  
 * **An Instinct for Dragons**, David E. Jones.  
 * **The Internet Is Not What You Think It Is**, Justin E.H. Smith.  
 * **It**, Stephen King.  
@@ -155,6 +153,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Tyranny of Merit**, Michael J. Sandel.  
 * **Uncanny Valley**, Anna Wiener.  
 * **The Unconsoled**, Kazuo Ishiguro.  
+* **A Universal History of Infamy**, J.L. Borges.  
 * **Unix: a history and a memoir**, Brian W. Kernighan. 
 * **The Unreal and the Real: Selected Stories**, Ursula K. LeGuin.   
 * **Up in the Old Hotel**, Joseph Mitchell.  
