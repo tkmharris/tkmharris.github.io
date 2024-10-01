@@ -55,6 +55,10 @@ Things I read for book club are marked with a tilde (&#126;).
 
 21. **Shogun**, James Clavell.  
 
+22. **How I Killed Pluto and Why It Had It Coming**, Mike Brown.  
+
+23. **The Infinities**, John Banville. &#126;  
+
 ### <a name="2023"></a>2023
 
 1. **You Are Not Expected to Understand This**, Torie Bosch (ed.).  
