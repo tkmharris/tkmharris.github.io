@@ -10,7 +10,7 @@ hugo
 git push
 
 # Switch to master, which is where we keep the built pages
-git checkout master
+git checkout gh-pages
 
 # Clean the directory, so it will only contain generated files, CNAME and git
 # files
