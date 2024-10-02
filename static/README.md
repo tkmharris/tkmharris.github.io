@@ -1,1 +1,0 @@
-My personal website. Created with [hugo](https://gohugo.io/), style adapted from the [solar theme](https://themes.gohugo.io/solar-theme-hugo/).

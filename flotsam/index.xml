@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flotsam on Tom Harris</title>
+    <link>https://tkmh.space/flotsam/</link>
+    <description>Recent content in Flotsam on Tom Harris</description>
+    <generator>Hugo</generator>
+    <language>en-uk</language>
+    <managingEditor>tkmharris@protonmail.com (Tom Harris)</managingEditor>
+    <webMaster>tkmharris@protonmail.com (Tom Harris)</webMaster>
+    <lastBuildDate>Sat, 12 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tkmh.space/flotsam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Associahedron</title>
+      <link>https://tkmh.space/flotsam/associahedron/</link>
+      <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate><author>tkmharris@protonmail.com (Tom Harris)</author>
+      <guid>https://tkmh.space/flotsam/associahedron/</guid>
+      <description>&lt;p&gt;Jean-Louis Loday&amp;rsquo;s realisation of the (5-)&lt;a href=&#34;https://en.wikipedia.org/wiki/Associahedron&#34;&gt;associahedron&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../flotsam/img/associahedron.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The vertices are generated from planar binary trees using the algorithm described in Loday&amp;rsquo;s paper&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; (Loday gives vertices in 4-space but they sit in a 3-dimsional hyperplane which I&amp;rsquo;ve projected onto ordinary 3-space). The surface was created and written to STL with the Trimesh Python library.&#xA;&lt;a href=&#34;https://gist.github.com/tkmharris/cca3976c30a8ddb27297d8eaa731ae87&#34;&gt;Code&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li id=&#34;fn:1&#34;&gt;&#xA;&lt;p&gt;Loday, J-L. Realization of the Stasheff polytope. &lt;em&gt;Archiv der Mathematik&lt;/em&gt; &lt;strong&gt;83&lt;/strong&gt;, 267–278 (2004).&#xA;&lt;a href=&#34;https://doi.org/10.1007/s00013-004-1026-y&#34;&gt;doi&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fimmvörðuháls</title>
+      <link>https://tkmh.space/flotsam/fimmv%C3%B6r%C3%B0uh%C3%A1ls/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate><author>tkmharris@protonmail.com (Tom Harris)</author>
+      <guid>https://tkmh.space/flotsam/fimmv%C3%B6r%C3%B0uh%C3%A1ls/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../flotsam/img/fimmv%C3%B6r%C3%B0uh%C3%A1ls.jpg&#34; alt=&#34;&#34;&gt;&#xA;Fimmvörðuháls, June 2017.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Herb</title>
+      <link>https://tkmh.space/flotsam/turing-herb/</link>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate><author>tkmharris@protonmail.com (Tom Harris)</author>
+      <guid>https://tkmh.space/flotsam/turing-herb/</guid>
+      <description>&lt;p&gt;From an amazon.com &lt;a href=&#34;https://www.amazon.com/gp/customer-reviews/R3785IO9T49LAZ/&#34;&gt;review&lt;/a&gt; of Lewis &amp;amp; Papadimitrious&amp;rsquo;s &lt;em&gt;Elements of the Theory of Computation&lt;/em&gt;:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;And also&amp;hellip; who the hell is this geek on the cover? It doesn&amp;rsquo;t reveal his identity anywhere in the book. You know this book is bad when they have a herb like him staring at you. This guy needs a new suit, a haircut, and he needs to learn how to smile.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../flotsam/img/turing-herb.jpeg&#34; title=&#34;yes, it&#39;s Alan Turing&#34;&gt;The herb&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Latin Wiphala</title>
+      <link>https://tkmh.space/flotsam/latin-square-wiphala/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate><author>tkmharris@protonmail.com (Tom Harris)</author>
+      <guid>https://tkmh.space/flotsam/latin-square-wiphala/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been playing with Latin squares today. Here is a &lt;a href=&#34;https://en.wikipedia.org/wiki/Wiphala&#34;&gt;wiphala&lt;/a&gt; arranged in the pattern of the 7 by 7 Latin square used on the cover of Ronald Fisher&amp;rsquo;s &lt;em&gt;The Design of Experiments&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../flotsam/img/fisher-wiphala.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Haskell Akiyama–Tanigawa</title>
+      <link>https://tkmh.space/flotsam/haskell-akiyama-tanigawa/</link>
+      <pubDate>Sat, 01 May 2021 17:03:32 +0100</pubDate><author>tkmharris@protonmail.com (Tom Harris)</author>
+      <guid>https://tkmh.space/flotsam/haskell-akiyama-tanigawa/</guid>
+      <description>&lt;p&gt;I am a big fan of the Akiyama–Tanigawa algorithm&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; for computing &lt;a href=&#34;https://en.wikipedia.org/wiki/Bernoulli_number&#34;&gt;Bernoulli numbers&lt;/a&gt;.&#xA;It works by generating a structure resembling Pascal&amp;rsquo;s triangle, with rows whose entries are determined by a simple calculation on the two entries above them, from which we can read off the sequence of Bernoulli numbers.&lt;/p&gt;&#xA;&lt;p&gt;What I like about this algorithm, besides its simplicity and elegance, is that it admits a concordantly simple and elgant implementation in Haskell using infinite data structures.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
