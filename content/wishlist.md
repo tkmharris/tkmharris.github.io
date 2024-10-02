@@ -66,7 +66,6 @@ Some books I'd like, in case you need to get me a gift.
 * **The Honest Rainmaker: The life and times of Colonel John R. Stingo**, A. J. Liebling.  
 * **How Animals Work**, Knut Schmidt-Nelson.    
 * **How To Be Depressed**, George Scialabba.    
-* **House of Leaves**, Mark Z. Danielewski.    
 * **Hunger Makes Me a Modern Girl**, Carrie Brownstein.  
 * **I Must Go**, Yiyun Li.  
 * **The Ice Palace**, Tarjei Vessas.  
@@ -80,7 +79,6 @@ Some books I'd like, in case you need to get me a gift.
 * **An Instinct for Dragons**, David E. Jones.  
 * **The Internet Is Not What You Think It Is**, Justin E.H. Smith.  
 * **It**, Stephen King.  
-* **Japan Sinks**, Sakyo Komatsu.   
 * **The Journals Of A White Sea Wolf**, Mariusz Wilk.  
 * **Journey to the Edge of Reason: The life of Kurt Gödel**, Stephen Budiansky.  
 * **Kepler**, Max Caspar.  
