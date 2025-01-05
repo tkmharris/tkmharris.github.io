@@ -11,6 +11,10 @@ Re-reads are marked with an asterisk (&lowast;).
 Works read in translation are marked with a dagger (&dagger;).  
 Things I read for book club are marked with a tilde (&#126;).
 
+### <a name="2025"></a>2025
+
+1. **Little Seed**, Wei Tchou.      
+
 ### <a name="2024"></a>2024
 
 1. **Where the Crawdads Sing**, Delia Owens. &#126;  
@@ -58,6 +62,16 @@ Things I read for book club are marked with a tilde (&#126;).
 22. **How I Killed Pluto and Why It Had It Coming**, Mike Brown.  
 
 23. **The Infinities**, John Banville. &#126;  
+
+24. **alphabet**, Inger Christensen. &dagger; (Danish)  
+
+25. **There Is No Planet B**, Mike Berners-Lee.  
+
+26. **The Bells of Nagasaki**, Takashi Nagai. &dagger; (Japanese)  
+
+27. **The Mushroom at the End of the World**, Anna Lowenhaupt Tsing.  
+
+28. **The Line of Beauty**, Alan Hollinghurst.  
 
 ### <a name="2023"></a>2023
 

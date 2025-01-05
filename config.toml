@@ -32,10 +32,10 @@ relativeURLs = true
     name = "Booklist"
     url = "/booklist/"
     weight = 2
-  [[menu.other]]
-    name = "Flotsam"
-    url = "/flotsam/"
-    weight = 3
+  # [[menu.other]]
+  #   name = "Flotsam"
+  #   url = "/flotsam/"
+  #   weight = 3
 
 
 

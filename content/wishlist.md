@@ -71,6 +71,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Ice Palace**, Tarjei Vessas.  
 * **Icelandic Folk Tales**, Hjörleifur Helgi Stefánsson.  
 * **Idoru**, William Gibson.  
+* **The Iliad**, Emily Wilson.  
 * **Imaginary Museums**, Nicolette Polek.  
 * **Impro (Performance Books)**, Keith Johnstone.  
 * **In My Own Time: thoughts and afterthoughts**, Jane Miller.  
@@ -78,6 +79,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Infinitesimal**, Amir Alexander.  
 * **An Instinct for Dragons**, David E. Jones.  
 * **The Internet Is Not What You Think It Is**, Justin E.H. Smith.  
+* **Introduction to Geometry**, H. S. M. Coxeter.  
 * **It**, Stephen King.  
 * **The Journals Of A White Sea Wolf**, Mariusz Wilk.  
 * **Journey to the Edge of Reason: The life of Kurt Gödel**, Stephen Budiansky.  
@@ -91,6 +93,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Luminous**, Greg Egan.  
 * **Madam Bovary**,  Gustave Flaubert.    
 * **Making "Nature"**, Melinda Baldwin.  
+* **Masquerade**, Mike Fu.  
 * **The Melancholia of Class**, Cynthia Cruz.  
 * **Miles from Nowhere**, Nami Mun.  
 * **Mill**, David Macaulay.    
@@ -103,6 +106,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Nineties**, Chuck Kloosterman.  
 * **Njal's Saga (Penguin Classics)**, Anonymous.  
 * **The Norton Introduction to Philosophy**, Gideon Rosen, Alex Byrne, Joshua Cohen & Seana Shiffrin *(Eds.)*.  
+* **The Odyssey**, Emily Wilson.  
 * **On Bullshit**, Harry G. Frankfurt.  
 * **On Murder Considered as One of the Fine Arts**, Thomas de Quincey.  
 * **One Way and Another: new and selected essays**, Adam Phillips.  
@@ -114,6 +118,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Planet Hong Kong: Popular Cinema and the Art of Entertainment**, David Bordwell.  
 * **The Planets**, Dava Sobel.  
 * **Poor**, Caleb Femi.  
+* **The Princeton Companion to Mathematics**.
 * **Private Revolutions**, Yuan Yang.  
 * **Reasons and Persons**, Derek Parfit.    
 * **The Reinvention of Humanity**, Charles King.  
@@ -134,6 +139,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Speak Not: Empire, Identity and the Politics of Language**, James Griffiths.  
 * **Stephen King, Stephen King**, William Walsh.  
 * **The Strangest Man: The hidden Life of Paul Dirac, Quantum Genius**, Graham Farmelo.  
+* **Sweet Sour**, Timothy Mo.  
 * **Tales from the Loop**, Simon Stålenhag.  
 * **Ten Great Ideas About Chance**, Persi Diaconis & Brian Skyrms.  
 * **Territory of Light**, Yuko Tsushima.  
