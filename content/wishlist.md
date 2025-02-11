@@ -12,6 +12,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Ashtray: (Or the Man Who Denied Reality)**, Errol Morris.  
 * **Backroom Boys**, Francis Spufford.    
 * **The Black Death (Manchester Medieval Sources)**, Rosemary Horrox.  
+* **The Black Swan**, Nassim Nicholas Taleb.  
 * **Black Teacher**, Beryl Gilroy.  
 * **Blindsight**, Peter Watts.  
 * **A Brief History of Neoliberalism**, David Harvey.  
@@ -24,6 +25,7 @@ Some books I'd like, in case you need to get me a gift.
 * **CoDex 1962: A Trilogy**, Sjón.  
 * **The Compleat Strategyst**, J.D. Williams.  
 * **A Confederacy of Dunces**, John Kennedy Toole.  
+* **The Corner that Held Them**, Sylvia Townsend Warner.  
 * **Crossroads**, Jonathan Franzen.  
 * **Crow Court**, Andy Charman.  
 * **The Cry of the Owl**, Patricia Highsmith.  
@@ -133,7 +135,9 @@ Some books I'd like, in case you need to get me a gift.
 * **Seven Games: a human history**, Oliver Roeder.   
 * **Silence**, Endō Shūsaku.  
 * **Silent Spring**, Rachel Carson.  
+* **The Sleepwalkers: A History of Man's Changing Vision of the Universe**, Arthur Koestler.  
 * **Something in Disguise**, Elizabeth Jane Howard.  
+* **Starting Strength**, Mark Rippetoe.  
 * **Stubborn Attachments**, Tyler Cohen.  
 * **The Souls of Yellow Folk**, Wesley Yang.  
 * **Speak Not: Empire, Identity and the Politics of Language**, James Griffiths.  
@@ -157,6 +161,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Tyranny of Merit**, Michael J. Sandel.  
 * **Uncanny Valley**, Anna Wiener.  
 * **The Unconsoled**, Kazuo Ishiguro.  
+* **Unexpected Vanilla**, Lee Hyemi.  
 * **A Universal History of Infamy**, J.L. Borges.  
 * **Unix: a history and a memoir**, Brian W. Kernighan. 
 * **The Unreal and the Real: Selected Stories**, Ursula K. LeGuin.   
