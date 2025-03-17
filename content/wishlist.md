@@ -22,7 +22,6 @@ Some books I'd like, in case you need to get me a gift.
 * **The City Authentic: How the Attention Economy Builds Urban America**, David A. Banks.  
 * **Climbers**, M. John Harrison.  
 * **Cod: A Biography of the Fish that Changed the World**, Mark Kurlansky.  
-* **CoDex 1962: A Trilogy**, Sjón.  
 * **The Compleat Strategyst**, J.D. Williams.  
 * **A Confederacy of Dunces**, John Kennedy Toole.  
 * **The Corner that Held Them**, Sylvia Townsend Warner.  
@@ -96,6 +95,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Madam Bovary**,  Gustave Flaubert.    
 * **Making "Nature"**, Melinda Baldwin.  
 * **Masquerade**, Mike Fu.  
+* **Math through the Ages: A Gentle History for Teachers and Others**,  William P. Berlinghoff & Fernando Q. Gouvêa.  
 * **The Melancholia of Class**, Cynthia Cruz.  
 * **Miles from Nowhere**, Nami Mun.  
 * **Mill**, David Macaulay.    
@@ -170,7 +170,6 @@ Some books I'd like, in case you need to get me a gift.
 * **Very Important People**, Ashley Mears.  
 * **Virtual Light**, William Gibson.  
 * **Watching the English**, Kate Fox.  
-* **Waves**, Bei Dao.  
 * **We Who Are About To...**, Joanna Russ.  
 * **What Artists Wear**, Charlie Porter.  
 * **What's Your Pronoun**, Dennis Baron.  

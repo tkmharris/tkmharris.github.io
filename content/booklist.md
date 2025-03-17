@@ -13,7 +13,21 @@ Things I read for book club are marked with a tilde (&#126;).
 
 ### <a name="2025"></a>2025
 
-1. **Little Seed**, Wei Tchou.      
+1. **Little Seed**, Wei Tchou.
+
+2. **Waves**, Bei Dao. &dagger; (Mandarin)  
+
+3. **Three Births**, K. Patrick.  
+
+4. **Energy Systems: A Very Short Introduction**, Nick Jenkins.  
+
+5. **A Random Walk Down Wall Street**, Burton G. Malkiel.  
+
+6. **The Ink Cloud Reader**, Kit Fan.  
+
+7. **The Silmarillion**, J.R.R. Tolkein, Christopher Tolkein (ed.).  
+
+8. **Python Tricks: The Book**, Dan Bader.  
 
 ### <a name="2024"></a>2024
 
