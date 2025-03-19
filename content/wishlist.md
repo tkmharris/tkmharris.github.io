@@ -25,6 +25,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Compleat Strategyst**, J.D. Williams.  
 * **A Confederacy of Dunces**, John Kennedy Toole.  
 * **The Corner that Held Them**, Sylvia Townsend Warner.  
+* **Crack-Up Capitalism**, Quinn Slobodian.  
 * **Crossroads**, Jonathan Franzen.  
 * **Crow Court**, Andy Charman.  
 * **The Cry of the Owl**, Patricia Highsmith.  
@@ -131,6 +132,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Ruin of all Witches**, Malcolm Gaskill.  
 * **The Sarah Book**, Scott McClanahan.  
 * **A Scheme of Heaven: Astrology and the Birth of Science**, Alexander Boxer.     
+* **Second-Hand Time**, Svetlana Alexievich.  
 * **Seventh Day**, Yu Hua.    
 * **Seven Games: a human history**, Oliver Roeder.   
 * **Silence**, Endō Shūsaku.  

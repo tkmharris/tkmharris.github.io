@@ -29,6 +29,8 @@ Things I read for book club are marked with a tilde (&#126;).
 
 8. **Python Tricks: The Book**, Dan Bader.  
 
+9. **Assembly**, Natasha Brown.  
+
 ### <a name="2024"></a>2024
 
 1. **Where the Crawdads Sing**, Delia Owens. &#126;  
