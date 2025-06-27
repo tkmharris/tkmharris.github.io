@@ -31,6 +31,22 @@ Things I read for book club are marked with a tilde (&#126;).
 
 9. **Assembly**, Natasha Brown.  
 
+10. **The Unaccountability Machine**, Dan Davies.  
+
+11. **Death's End**, Cixin Liu. &dagger; (Mandarin)  
+
+12. **Sir Gawain and the Green Knight**, Anonymous, Simon Arimitage (trans.)  
+
+13. **Love in a Fallen City (& other stories)**, Eileen Chang. &dagger; (Mandarin)  
+
+14. **Star Wars: The Rising Force**, Dave Wolverton.  
+
+15. **Universality**, Natasha Brown.  
+
+16. **The Seaplane on Final Approach**, Rebecca Rukeyser.  
+
+17. **The Beauty of Everyday Things**, Soetsu Yanagi. &dagger; (Japanese)  
+
 ### <a name="2024"></a>2024
 
 1. **Where the Crawdads Sing**, Delia Owens. &#126;  

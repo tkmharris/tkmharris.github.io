@@ -93,6 +93,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Library at Mount Char**, Scott Hawkins.  
 * **Lint**, Steve Aylett.  
 * **Luminous**, Greg Egan.  
+* **Lust, Caution**, Eileen Chang.  
 * **Madam Bovary**,  Gustave Flaubert.    
 * **Making "Nature"**, Melinda Baldwin.  
 * **Masquerade**, Mike Fu.  
@@ -115,6 +116,7 @@ Some books I'd like, in case you need to get me a gift.
 * **One Way and Another: new and selected essays**, Adam Phillips.  
 * **Once a Runner**, John L. Parker Jr.  
 * **Once They Were Hats**, Frances Backhouse.  
+* **Osweald Bera: An Introduction to Old English**, Colin Gorrie.  
 * **Our Magnificent Bastard Tongue**, John McWhorter.     
 * **Perdido Street Station**, China Miéville.  
 * **Picture This**, Molly Bang.  
