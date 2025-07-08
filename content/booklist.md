@@ -45,7 +45,9 @@ Things I read for book club are marked with a tilde (&#126;).
 
 16. **The Seaplane on Final Approach**, Rebecca Rukeyser.  
 
-17. **The Beauty of Everyday Things**, Soetsu Yanagi. &dagger; (Japanese)  
+17. **Blindsight**, Peter Watts.  
+
+18. **The Beauty of Everyday Things**, Soetsu Yanagi. &dagger; (Japanese)  
 
 ### <a name="2024"></a>2024
 

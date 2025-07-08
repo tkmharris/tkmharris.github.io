@@ -125,6 +125,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Poor**, Caleb Femi.  
 * **The Princeton Companion to Mathematics**.
 * **Private Revolutions**, Yuan Yang.  
+* **The Racket**, Connor Niland.  
 * **Reasons and Persons**, Derek Parfit.    
 * **The Reinvention of Humanity**, Charles King.  
 * **Revolting Prostitutes**, Juno Mac & Molly Smith.  

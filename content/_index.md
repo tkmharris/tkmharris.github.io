@@ -8,7 +8,7 @@ layout: staticpage
 
 Hello, I'm Tom. 
 
-I am a software engineer in Bath, UK. I work on decarbonising the grid with [Granular Energy](https://www.granular-energy.com/).
+I am a software engineer living in North London. I work on decarbonising the grid with [Granular Energy](https://www.granular-energy.com/). Before this I worked on the Rails team at BugSnag.
 
 Previously I have been a commissioning editor at Cambridge University Press, where I worked on books in maths, logic and theoretical CS. More previously I did a PhD in pure maths. 
 
