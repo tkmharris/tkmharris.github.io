@@ -47,7 +47,11 @@ Things I read for book club are marked with a tilde (&#126;).
 
 17. **Blindsight**, Peter Watts.  
 
-18. **The Beauty of Everyday Things**, Soetsu Yanagi. &dagger; (Japanese)  
+18. **Life in the United Kingdom: a guide for new residents**, Home Office.  
+
+19. **The Door**, Magda Szabó. &dagger; (Hungarian)  
+
+20. **The Beauty of Everyday Things**, Soetsu Yanagi. &dagger; (Japanese)  
 
 ### <a name="2024"></a>2024
 

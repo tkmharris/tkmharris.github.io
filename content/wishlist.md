@@ -14,7 +14,6 @@ Some books I'd like, in case you need to get me a gift.
 * **The Black Death (Manchester Medieval Sources)**, Rosemary Horrox.  
 * **The Black Swan**, Nassim Nicholas Taleb.  
 * **Black Teacher**, Beryl Gilroy.  
-* **Blindsight**, Peter Watts.  
 * **A Brief History of Neoliberalism**, David Harvey.  
 * **Capitalist Realism**, Mark Fisher.  
 * **The Centaur**, John Updike.
@@ -41,6 +40,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Elite Capture**, Olúfẹ́mi O. Táíwò.     
 * **The Embrace of the Fourth Dimension**, Mark Blacklock.  
 * **Emergent Tokyo: Designing the Spontaneous City**, Jorge Almazan.   
+* **Enter Ghost**, Isabella Hammad.  
 * **Erasure**, Percival Everett.  
 * **Error of Judgement**, Chris Mullin.  
 * **Essays (Penguin Modern Classics)**, George Orwell.  
@@ -146,6 +146,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Stubborn Attachments**, Tyler Cohen.  
 * **The Souls of Yellow Folk**, Wesley Yang.  
 * **Speak Not: Empire, Identity and the Politics of Language**, James Griffiths.  
+* **Stay True**, Hua Hsu.  
 * **Stephen King, Stephen King**, William Walsh.  
 * **The Strangest Man: The hidden Life of Paul Dirac, Quantum Genius**, Graham Farmelo.  
 * **Sweet Sour**, Timothy Mo.  
