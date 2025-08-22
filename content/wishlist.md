@@ -18,7 +18,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Capitalist Realism**, Mark Fisher.  
 * **The Centaur**, John Updike.
 * **The Chrysanthemum and the Sword**, Ruth Benedict.  
-* **The City Authentic: How the Attention Economy Builds Urban America**, David A. Banks.  
+* **Classical Probability in the Elightenment**, Lorraine Daston.  
 * **Climbers**, M. John Harrison.  
 * **Cod: A Biography of the Fish that Changed the World**, Mark Kurlansky.  
 * **The Compleat Strategyst**, J.D. Williams.  
@@ -105,6 +105,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Moshi Moshi**, Banana Yoshimoto.  
 * **My First Summer in the Sierra**, John Muir.  
 * **Naming Infinity**, Loren Graham & Jean-Michel Kantor.  
+* **The Nature of Rationality**, Robert Nozick.  
 * **Night Sky with Exit Wounds**, Ocean Vuong.  
 * **The Nine Billion Names of God**, Arthur C. Clarke.  
 * **The Nineties**, Chuck Kloosterman.  
@@ -185,3 +186,4 @@ Some books I'd like, in case you need to get me a gift.
 * **The Women Are Up to Something**, Benjamin J.B. Lipscomb.  
 * **Yes Yes More More**, Anna Wood.  
 * **You Too Can Have a Body Like Mine**, Alexandra Kleeman.  
+* **99 Variations on a Proof**, Phillip Ording.  
