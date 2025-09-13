@@ -53,7 +53,11 @@ Things I read for book club are marked with a tilde (&#126;).
 
 20. **The Songlines**, Bruce Chatwin.  
 
-21. **The Beauty of Everyday Things**, Soetsu Yanagi. &dagger; (Japanese)  
+21. **Lolita**, Vladimir Nabakov. 
+
+22. **On Earth We're Briefly Gorgeous**, Ocean Vuong.   
+
+23. **The Beauty of Everyday Things**, Soetsu Yanagi. &dagger; (Japanese) 
 
 ### <a name="2024"></a>2024
 

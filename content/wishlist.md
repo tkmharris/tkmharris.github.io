@@ -130,6 +130,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Reasons and Persons**, Derek Parfit.    
 * **The Reinvention of Humanity**, Charles King.  
 * **Revolting Prostitutes**, Juno Mac & Molly Smith.  
+* **ReWork**, David Heinemeier Hansson & Jason Fried.  
 * **The Rise and Fall of the Dinosaurs: a new history of a lost world**, Steve Brusatte.  
 * **RISINGTIDEFALLINGSTAR**, Phillip Hoare.  
 * **Rosencrantz and Guildenstern Are Dead**, Tom Stoppard.  
@@ -147,6 +148,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Stubborn Attachments**, Tyler Cohen.  
 * **The Souls of Yellow Folk**, Wesley Yang.  
 * **Speak Not: Empire, Identity and the Politics of Language**, James Griffiths.  
+* **Starting Point**, Hayao Miyazake.  
 * **Stay True**, Hua Hsu.  
 * **Stephen King, Stephen King**, William Walsh.  
 * **The Strangest Man: The hidden Life of Paul Dirac, Quantum Genius**, Graham Farmelo.  
