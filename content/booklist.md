@@ -57,7 +57,15 @@ Things I read for book club are marked with a tilde (&#126;).
 
 22. **On Earth We're Briefly Gorgeous**, Ocean Vuong.   
 
-23. **The Beauty of Everyday Things**, Soetsu Yanagi. &dagger; (Japanese) 
+23. **Pnin**, Vladimir Nabakov.  
+
+24. **Mathematica**, David Bessis. &dagger; (French)  
+
+25. **Do Androids Dream of Electric Sheep**, Philip K. Dick.  
+
+26. **Ludwig II: a different kind of king**, Markus Spangenburg. &dagger; (German)  
+
+27. **The Beauty of Everyday Things**, Soetsu Yanagi. &dagger; (Japanese)  
 
 ### <a name="2024"></a>2024
 
@@ -182,6 +190,7 @@ Things I read for book club are marked with a tilde (&#126;).
 31. **Everything That Rises Must Converge**, Flannery O'Connor.  
 
 32. **Mathematics and the Unexpected**, Ivar Ekeland. &dagger; (French)  
+
 
 ### <a name="2022"></a>2022
 

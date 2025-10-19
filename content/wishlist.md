@@ -9,8 +9,10 @@ Some books I'd like, in case you need to get me a gift.
 * **At the Existentialist Cafe**, Sarah Bakewell.  
 * **The Age of Wonder**, Richard Holmes.  
 * **Against the Gods: The Remarkable Story of Risk**, Peter L. Bernstein.   
+* **All That Is Solid Melts Into Air**, Marshall Berman.  
 * **The Ashtray: (Or the Man Who Denied Reality)**, Errol Morris.  
 * **Backroom Boys**, Francis Spufford.    
+* **Bismark: A Life**, Jonathan Steinberg.  
 * **The Black Death (Manchester Medieval Sources)**, Rosemary Horrox.  
 * **The Black Swan**, Nassim Nicholas Taleb.  
 * **Black Teacher**, Beryl Gilroy.  
@@ -18,7 +20,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Capitalist Realism**, Mark Fisher.  
 * **The Centaur**, John Updike.
 * **The Chrysanthemum and the Sword**, Ruth Benedict.  
-* **Classical Probability in the Elightenment**, Lorraine Daston.  
+* **Classical Probability in the Enlightenment**, Lorraine Daston.  
 * **Climbers**, M. John Harrison.  
 * **Cod: A Biography of the Fish that Changed the World**, Mark Kurlansky.  
 * **The Compleat Strategyst**, J.D. Williams.  
@@ -59,6 +61,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Full Tilt**, Dervla Murphy.  
 * **Future Sex**, Emily Witt.  
 * **The Gallows Pole**, Benjamin Myers.  
+* **Germany: A Nation in Its Time**, Helmust Walser Smith.  
 * **Ghosts of Gondwana: The History of Life in New Zealand**, George Gibbs.   
 * **The Golden Bough**, James Frazer.  
 * **The Great Railway Bazaar: By Train Through Asia**, Paul Theroux.  
@@ -176,7 +179,6 @@ Some books I'd like, in case you need to get me a gift.
 * **The Unreal and the Real: Selected Stories**, Ursula K. LeGuin.   
 * **Up in the Old Hotel**, Joseph Mitchell.  
 * **Urne Burial**, Thomas Browne.  
-* **Very Important People**, Ashley Mears.  
 * **Virtual Light**, William Gibson.  
 * **Watching the English**, Kate Fox.  
 * **We Who Are About To...**, Joanna Russ.  
@@ -185,6 +187,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The What, Why and How of Assessment**, Simon Child & Paul Ellis.  
 * **White Chapell, Scarlet Tracings**, Iain Sinclair.  
 * **White is for Witching**, Helen Oyeyemi.  
+* **Why Switzerland?**, Jonathan Steinberg.  
 * **The Women Are Up to Something**, Benjamin J.B. Lipscomb.  
 * **Yes Yes More More**, Anna Wood.  
 * **You Too Can Have a Body Like Mine**, Alexandra Kleeman.  
