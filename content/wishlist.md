@@ -60,7 +60,6 @@ Some books I'd like, in case you need to get me a gift.
 * **Fuccboi**, Sean Thor Conroe.  
 * **Full Tilt**, Dervla Murphy.  
 * **Future Sex**, Emily Witt.  
-* **The Gallows Pole**, Benjamin Myers.  
 * **Germany: A Nation in Its Time**, Helmust Walser Smith.  
 * **Ghosts of Gondwana: The History of Life in New Zealand**, George Gibbs.   
 * **The Golden Bough**, James Frazer.  
@@ -101,6 +100,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Making "Nature"**, Melinda Baldwin.  
 * **Masquerade**, Mike Fu.  
 * **Math through the Ages: A Gentle History for Teachers and Others**,  William P. Berlinghoff & Fernando Q. Gouvêa.  
+* **Mating**, Norman Rush.  
 * **The Melancholia of Class**, Cynthia Cruz.  
 * **Miles from Nowhere**, Nami Mun.  
 * **Mill**, David Macaulay.    

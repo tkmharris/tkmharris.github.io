@@ -67,6 +67,18 @@ Things I read for book club are marked with a tilde (&#126;).
 
 27. **The Beauty of Everyday Things**, Soetsu Yanagi. &dagger; (Japanese)  
 
+28. **On Bullshit**, Harry G. Frankfurt.
+
+29. **NW**, Zadie Smith.  
+
+30. **Takeaway**, Angela Hui.  
+
+31. **Hear the Wind Sing**, Haruki Murakami. &dagger; (Japanese)  
+
+32. **Pinball, 1973**, Haruki Murakami. &dagger; (Japanese)  
+
+33. **Of Walking in Ice**, Werner Herzog. &dagger; (German)  
+
 ### <a name="2024"></a>2024
 
 1. **Where the Crawdads Sing**, Delia Owens. &#126;  
