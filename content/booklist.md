@@ -79,6 +79,8 @@ Things I read for book club are marked with a tilde (&#126;).
 
 33. **Of Walking in Ice**, Werner Herzog. &dagger; (German)  
 
+34. **The Dean of Shandong**, Daniel A. Bell.  
+
 ### <a name="2024"></a>2024
 
 1. **Where the Crawdads Sing**, Delia Owens. &#126;  
