@@ -82,6 +82,7 @@ Some books I'd like, in case you need to get me a gift.
 * **In My Own Time: thoughts and afterthoughts**, Jane Miller.  
 * **Indelible City: Dispossession and Defiance in Hong Kong**, Louisa Lim.  
 * **Infinitesimal**, Amir Alexander.  
+* **Industry and Empire: From 1750 to the Present Day**, E. J. Hobsbawm.  
 * **An Instinct for Dragons**, David E. Jones.  
 * **The Internet Is Not What You Think It Is**, Justin E.H. Smith.  
 * **Introduction to Geometry**, H. S. M. Coxeter.  
@@ -130,6 +131,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Poor**, Caleb Femi.  
 * **The Princeton Companion to Mathematics**.
 * **Private Revolutions**, Yuan Yang.  
+* **Pure Invention**, Matt Alt.  
 * **The Racket**, Connor Niland.  
 * **Reasons and Persons**, Derek Parfit.    
 * **The Reinvention of Humanity**, Charles King.  
@@ -139,6 +141,7 @@ Some books I'd like, in case you need to get me a gift.
 * **RISINGTIDEFALLINGSTAR**, Phillip Hoare.  
 * **Rosencrantz and Guildenstern Are Dead**, Tom Stoppard.  
 * **The Ruin of all Witches**, Malcolm Gaskill.  
+* **Saint Sebastian's Abyss**, Mark Haber.  
 * **The Sarah Book**, Scott McClanahan.  
 * **A Scheme of Heaven: Astrology and the Birth of Science**, Alexander Boxer.     
 * **Second-Hand Time**, Svetlana Alexievich.  
