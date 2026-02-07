@@ -65,6 +65,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Golden Bough**, James Frazer.  
 * **The Great Railway Bazaar: By Train Through Asia**, Paul Theroux.  
 * **Half of a Yellow Sun**, Chimamanda Ngozi Adichie.  
+* **Hayek's Bastards**, Quinn Slobodian.  
 * **The Hedgehog and the Fox**, Isaiah Berlin.  
 * **Hiroshima**, John Hersey.  
 * **The Honest Rainmaker: The life and times of Colonel John R. Stingo**, A. J. Liebling.  
@@ -149,13 +150,14 @@ Some books I'd like, in case you need to get me a gift.
 * **Something in Disguise**, Elizabeth Jane Howard.  
 * **Starting Strength**, Mark Rippetoe.  
 * **Stubborn Attachments**, Tyler Cohen.  
+* **Such Great Heights: The Complete Cultural History of the Indie Rock Explosion**, Chris Deville.  
 * **The Souls of Yellow Folk**, Wesley Yang.  
 * **Speak Not: Empire, Identity and the Politics of Language**, James Griffiths.  
 * **Starting Point**, Hayao Miyazake.  
-* **Stay True**, Hua Hsu.  
 * **Stephen King, Stephen King**, William Walsh.  
 * **The Strangest Man: The hidden Life of Paul Dirac, Quantum Genius**, Graham Farmelo.  
 * **Sweet Sour**, Timothy Mo.  
+* **Taiwan Travelogue**, Yang Shuang-zi.  
 * **Tales from the Loop**, Simon Stålenhag.  
 * **Ten Great Ideas About Chance**, Persi Diaconis & Brian Skyrms.  
 * **Territory of Light**, Yuko Tsushima.  

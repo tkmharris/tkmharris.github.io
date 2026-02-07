@@ -11,6 +11,14 @@ Re-reads are marked with an asterisk (&lowast;).
 Works read in translation are marked with a dagger (&dagger;).  
 Things I read for book club are marked with a tilde (&#126;).
 
+### <a name="2025"></a>2026
+
+1. **Forbidden Nation: A History of Taiwan**, Jonathan Manthorpe.  
+
+2. **The Power of Cute**, Simon May.  
+
+3. **Stay True**, Hua Hsu.  
+
 ### <a name="2025"></a>2025
 
 1. **Little Seed**, Wei Tchou.
