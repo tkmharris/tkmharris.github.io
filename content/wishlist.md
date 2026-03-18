@@ -101,6 +101,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Madam Bovary**,  Gustave Flaubert.    
 * **Making "Nature"**, Melinda Baldwin.  
 * **Masquerade**, Mike Fu.  
+* **Masters of Doom**, David Kushner.  
 * **Math through the Ages: A Gentle History for Teachers and Others**,  William P. Berlinghoff & Fernando Q. Gouvêa.  
 * **Mating**, Norman Rush.  
 * **The Melancholia of Class**, Cynthia Cruz.  
@@ -151,6 +152,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Silent Spring**, Rachel Carson.  
 * **The Sleepwalkers: A History of Man's Changing Vision of the Universe**, Arthur Koestler.  
 * **Something in Disguise**, Elizabeth Jane Howard.  
+* **The Soul of a New Machine**, Tracy Kidder.  
 * **Starting Strength**, Mark Rippetoe.  
 * **Stubborn Attachments**, Tyler Cohen.  
 * **Such Great Heights: The Complete Cultural History of the Indie Rock Explosion**, Chris Deville.  

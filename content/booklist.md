@@ -19,6 +19,14 @@ Things I read for book club are marked with a tilde (&#126;).
 
 3. **Stay True**, Hua Hsu.  
 
+4. **The Colour of Magic**, Terry Pratchett. (&lowast;)  
+
+5. **The Light Fantastic**, Terry Pratchett. (&lowast;)  
+
+6. **Kusamakura**, Natsume Sōseki. &dagger; (Japanese)  
+
+7. **A Divine Language: Learning Algebra, Geometry, and Calculus at the Edge of Old Age**, Alec Wilkinson.  
+
 ### <a name="2025"></a>2025
 
 1. **Little Seed**, Wei Tchou.
