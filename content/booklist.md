@@ -27,6 +27,10 @@ Things I read for book club are marked with a tilde (&#126;).
 
 7. **A Divine Language: Learning Algebra, Geometry, and Calculus at the Edge of Old Age**, Alec Wilkinson.  
 
+8. **Private Citizens**, Tony Tulathimutte.  
+
+9. **A Mind at Play**, Jimmy Soni & Rob Goodman.
+
 ### <a name="2025"></a>2025
 
 1. **Little Seed**, Wei Tchou.

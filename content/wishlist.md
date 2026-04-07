@@ -124,6 +124,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Once a Runner**, John L. Parker Jr.  
 * **Once They Were Hats**, Frances Backhouse.  
 * **Osweald Bera: An Introduction to Old English**, Colin Gorrie.  
+* **Our Aesthetic Categories**, Sianne Ngai.  
 * **Our Magnificent Bastard Tongue**, John McWhorter.     
 * **Perdido Street Station**, China Miéville.  
 * **Picture This**, Molly Bang.  
