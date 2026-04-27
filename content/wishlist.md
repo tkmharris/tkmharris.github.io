@@ -92,7 +92,6 @@ Some books I'd like, in case you need to get me a gift.
 * **Kepler**, Max Caspar.  
 * **Kokoro**, Natsume Sōseki.  
 * **K-Punk: The Collected and Unpublished Writings of Mark Fisher**, Mark Fisher.  
-* **Kusamakura**, Natsume Sōseki.    
 * **The Lady Tasting Tea**, David Salsburb.  
 * **The Library at Mount Char**, Scott Hawkins.  
 * **Lint**, Steve Aylett.  
@@ -122,7 +121,6 @@ Some books I'd like, in case you need to get me a gift.
 * **On Murder Considered as One of the Fine Arts**, Thomas de Quincey.  
 * **One Way and Another: new and selected essays**, Adam Phillips.  
 * **Once a Runner**, John L. Parker Jr.  
-* **Once They Were Hats**, Frances Backhouse.  
 * **Osweald Bera: An Introduction to Old English**, Colin Gorrie.  
 * **Our Aesthetic Categories**, Sianne Ngai.  
 * **Our Magnificent Bastard Tongue**, John McWhorter.     

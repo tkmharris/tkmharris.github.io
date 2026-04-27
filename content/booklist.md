@@ -11,7 +11,7 @@ Re-reads are marked with an asterisk (&lowast;).
 Works read in translation are marked with a dagger (&dagger;).  
 Things I read for book club are marked with a tilde (&#126;).
 
-### <a name="2025"></a>2026
+### <a name="2026"></a>2026
 
 1. **Forbidden Nation: A History of Taiwan**, Jonathan Manthorpe.  
 
@@ -29,7 +29,9 @@ Things I read for book club are marked with a tilde (&#126;).
 
 8. **Private Citizens**, Tony Tulathimutte.  
 
-9. **A Mind at Play**, Jimmy Soni & Rob Goodman.
+9. **Once They Were Hats: In Search of the Mighty Beaver**, Frances Backhouse.  
+
+10. **A Mind at Play**, Jimmy Soni & Rob Goodman.
 
 ### <a name="2025"></a>2025
 
