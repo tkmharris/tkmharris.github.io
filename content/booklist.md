@@ -33,6 +33,8 @@ Things I read for book club are marked with a tilde (&#126;).
 
 10. **A Mind at Play**, Jimmy Soni & Rob Goodman.
 
+11. **Something in Disguise**, Elizabeth Jane Howard.  
+
 ### <a name="2025"></a>2025
 
 1. **Little Seed**, Wei Tchou.

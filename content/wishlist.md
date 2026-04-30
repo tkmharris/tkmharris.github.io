@@ -64,6 +64,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Ghosts of Gondwana: The History of Life in New Zealand**, George Gibbs.   
 * **The Golden Bough**, James Frazer.  
 * **The Great Railway Bazaar: By Train Through Asia**, Paul Theroux.  
+* **The Greatest Knight: The Remarkable Life of William Marshal, the Power Behind Five English Thrones**, Thomas Asbridge.  
 * **Half of a Yellow Sun**, Chimamanda Ngozi Adichie.  
 * **Hayek's Bastards**, Quinn Slobodian.  
 * **The Hedgehog and the Fox**, Isaiah Berlin.  
@@ -87,6 +88,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Internet Is Not What You Think It Is**, Justin E.H. Smith.  
 * **Introduction to Geometry**, H. S. M. Coxeter.  
 * **It**, Stephen King.  
+* **John Maynard Keynes: 1883-1946**, Robert Skidelsky.  
 * **The Journals Of A White Sea Wolf**, Mariusz Wilk.  
 * **Journey to the Edge of Reason: The life of Kurt Gödel**, Stephen Budiansky.  
 * **Kepler**, Max Caspar.  
@@ -138,7 +140,6 @@ Some books I'd like, in case you need to get me a gift.
 * **Revolting Prostitutes**, Juno Mac & Molly Smith.  
 * **ReWork**, David Heinemeier Hansson & Jason Fried.  
 * **The Rise and Fall of the Dinosaurs: a new history of a lost world**, Steve Brusatte.  
-* **RISINGTIDEFALLINGSTAR**, Phillip Hoare.  
 * **Rosencrantz and Guildenstern Are Dead**, Tom Stoppard.  
 * **The Ruin of all Witches**, Malcolm Gaskill.  
 * **Saint Sebastian's Abyss**, Mark Haber.  
@@ -150,16 +151,16 @@ Some books I'd like, in case you need to get me a gift.
 * **Silence**, Endō Shūsaku.  
 * **Silent Spring**, Rachel Carson.  
 * **The Sleepwalkers: A History of Man's Changing Vision of the Universe**, Arthur Koestler.  
-* **Something in Disguise**, Elizabeth Jane Howard.  
+* **Solenoid**, Mircea Cartarescu.  
+* **So Long, See You Tomorrow**, William Maxwell.  
 * **The Soul of a New Machine**, Tracy Kidder.  
-* **Starting Strength**, Mark Rippetoe.  
-* **Stubborn Attachments**, Tyler Cohen.  
-* **Such Great Heights: The Complete Cultural History of the Indie Rock Explosion**, Chris Deville.  
 * **The Souls of Yellow Folk**, Wesley Yang.  
 * **Speak Not: Empire, Identity and the Politics of Language**, James Griffiths.  
 * **Starting Point**, Hayao Miyazake.  
+* **Stubborn Attachments**, Tyler Cohen.  
 * **Stephen King, Stephen King**, William Walsh.  
-* **The Strangest Man: The hidden Life of Paul Dirac, Quantum Genius**, Graham Farmelo.  
+* **The Strangest Man: The hidden Life of Paul Dirac, Quantum Genius**, Graham Farmelo.    
+* **Such Great Heights: The Complete Cultural History of the Indie Rock Explosion**, Chris Deville.  
 * **Sweet Sour**, Timothy Mo.  
 * **Taiwan Travelogue**, Yang Shuang-zi.  
 * **Tales from the Loop**, Simon Stålenhag.  
@@ -193,6 +194,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The What, Why and How of Assessment**, Simon Child & Paul Ellis.  
 * **White Chapell, Scarlet Tracings**, Iain Sinclair.  
 * **White is for Witching**, Helen Oyeyemi.  
+* **White Nights**, Fyodor Dostoevsky.  
 * **Why Switzerland?**, Jonathan Steinberg.  
 * **The Women Are Up to Something**, Benjamin J.B. Lipscomb.  
 * **Yes Yes More More**, Anna Wood.  
