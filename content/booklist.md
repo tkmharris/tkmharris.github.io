@@ -31,9 +31,13 @@ Things I read for book club are marked with a tilde (&#126;).
 
 9. **Once They Were Hats: In Search of the Mighty Beaver**, Frances Backhouse.
 
-10. **A Mind at Play**, Jimmy Soni & Rob Goodman.
+10. **A Mind at Play: How Claude Shannon Invented the Information Age**, Jimmy Soni & Rob Goodman.
 
 11. **Something in Disguise**, Elizabeth Jane Howard.
+
+12. **Double Indemnity**, James M. Cain.
+
+13. **Rejection**, Tony Tulathimutte.
 
 ### <a name="2025"></a>2025
 

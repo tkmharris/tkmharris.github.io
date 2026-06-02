@@ -26,7 +26,6 @@ Some books I'd like, in case you need to get me a gift.
 * **Cod: A Biography of the Fish that Changed the World**, Mark Kurlansky.
 * **The Compleat Strategyst**, J.D. Williams.
 * **A Confederacy of Dunces**, John Kennedy Toole.
-* **The Corner that Held Them**, Sylvia Townsend Warner.
 * **Crack-Up Capitalism**, Quinn Slobodian.
 * **Crossroads**, Jonathan Franzen.
 * **Crow Court**, Andy Charman.
@@ -78,6 +77,7 @@ Some books I'd like, in case you need to get me a gift.
 * **I Must Go**, Yiyun Li.
 * **The Ice Palace**, Tarjei Vessas.
 * **Icelandic Folk Tales**, Hjörleifur Helgi Stefánsson.
+* **The Idea of a Critical Theory**, Raymond Guess.
 * **Idoru**, William Gibson.
 * **The Iliad**, Emily Wilson.
 * **Imaginary Museums**, Nicolette Polek.
