@@ -39,6 +39,13 @@ Things I read for book club are marked with a tilde (&#126;).
 
 13. **Rejection**, Tony Tulathimutte.
 
+14. **Revolting Prostitutes**, Molly Smith & Juno Mac.
+
+15. **London Falling**, Patrick Radden Keefe.
+
+16. **The Melancholia of Class**, Cynthia Cruz.
+
+
 ### <a name="2025"></a>2025
 
 1. **Little Seed**, Wei Tchou.

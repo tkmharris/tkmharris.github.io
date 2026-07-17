@@ -136,13 +136,13 @@ Some books I'd like, in case you need to get me a gift.
 * **Planet Hong Kong: Popular Cinema and the Art of Entertainment**, David Bordwell.
 * **The Planets**, Dava Sobel.
 * **Poor**, Caleb Femi.
+* **The Prestige**, Christopher Priest.  
 * **The Princeton Companion to Mathematics**.
 * **Private Revolutions**, Yuan Yang.
 * **Pure Invention**, Matt Alt.
 * **The Racket**, Connor Niland.
 * **Reasons and Persons**, Derek Parfit.
 * **The Reinvention of Humanity**, Charles King.
-* **Revolting Prostitutes**, Juno Mac & Molly Smith.
 * **ReWork**, David Heinemeier Hansson & Jason Fried.
 * **The Rise and Fall of the Dinosaurs: a new history of a lost world**, Steve Brusatte.
 * **Rosencrantz and Guildenstern Are Dead**, Tom Stoppard.
