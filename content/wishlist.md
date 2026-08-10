@@ -12,6 +12,7 @@ Some books I'd like, in case you need to get me a gift.
 * **All That Is Solid Melts Into Air**, Marshall Berman.
 * **Asgard and the Gods**, W. Wagner.
 * **The Ashtray: (Or the Man Who Denied Reality)**, Errol Morris.
+* **Audition**, Katie Kitamura.
 * **Backroom Boys**, Francis Spufford.
 * **Bismark: A Life**, Jonathan Steinberg.
 * **The Black Death (Manchester Medieval Sources)**, Rosemary Horrox.
@@ -90,6 +91,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Internet Is Not What You Think It Is**, Justin E.H. Smith.
 * **Introduction to Geometry**, H. S. M. Coxeter.
 * **It**, Stephen King.
+* **Japanese Video Game Obscurities**, Kurt Kalata.
 * **John Maynard Keynes: 1883-1946**, Robert Skidelsky.
 * **The Journals Of A White Sea Wolf**, Mariusz Wilk.
 * **Journey to the Edge of Reason: The life of Kurt Gödel**, Stephen Budiansky.
@@ -99,6 +101,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Lady Tasting Tea**, David Salsburb.
 * **The Library at Mount Char**, Scott Hawkins.
 * **Lint**, Steve Aylett.
+* **Lord of Light**, Roger Zelazny.
 * **Luminous**, Greg Egan.
 * **Lust, Caution**, Eileen Chang.
 * **Madam Bovary**,  Gustave Flaubert.
@@ -150,11 +153,11 @@ Some books I'd like, in case you need to get me a gift.
 * **Saint Sebastian's Abyss**, Mark Haber.
 * **The Sarah Book**, Scott McClanahan.
 * **A Scheme of Heaven: Astrology and the Birth of Science**, Alexander Boxer.
+* **Seasonal Associate**, Heike Geissler.
 * **Second-Hand Time**, Svetlana Alexievich.
 * **Seventh Day**, Yu Hua.
 * **Seven Games: a human history**, Oliver Roeder.
 * **Silence**, Endō Shūsaku.
-* **Silent Spring**, Rachel Carson.
 * **The Sleepwalkers: A History of Man's Changing Vision of the Universe**, Arthur Koestler.
 * **Solenoid**, Mircea Cartarescu.
 * **So Long, See You Tomorrow**, William Maxwell.
@@ -182,6 +185,7 @@ Some books I'd like, in case you need to get me a gift.
 * **The Tokyo Zodiac Murders**, Soji Shimada.
 * **The Topeka School**, Ben Lerner.
 * **The Transcendent Kingdom**, Yaa Gyasi.
+* **Twilight of the Dons**, Colin Kidd.
 * **The Tyranny of Merit**, Michael J. Sandel.
 * **Uncanny Valley**, Anna Wiener.
 * **The Unconsoled**, Kazuo Ishiguro.
@@ -193,6 +197,7 @@ Some books I'd like, in case you need to get me a gift.
 * **Urne Burial**, Thomas Browne.
 * **Virtual Light**, William Gibson.
 * **Watching the English**, Kate Fox.
+* **We Are For the Dark**, Robert Aickman & Elizabeth Jane Howard.
 * **We Who Are About To...**, Joanna Russ.
 * **What Artists Wear**, Charlie Porter.
 * **What's Your Pronoun**, Dennis Baron.

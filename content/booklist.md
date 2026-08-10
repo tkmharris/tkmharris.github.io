@@ -19,9 +19,9 @@ Things I read for book club are marked with a tilde (&#126;).
 
 3. **Stay True**, Hua Hsu.
 
-4. **The Colour of Magic**, Terry Pratchett. (&lowast;)
+4. **The Colour of Magic**, Terry Pratchett. &lowast;
 
-5. **The Light Fantastic**, Terry Pratchett. (&lowast;)
+5. **The Light Fantastic**, Terry Pratchett. &lowast;
 
 6. **Kusamakura**, Natsume Sōseki. &dagger; (Japanese)
 
@@ -45,6 +45,9 @@ Things I read for book club are marked with a tilde (&#126;).
 
 16. **The Melancholia of Class**, Cynthia Cruz.
 
+17. **People Who Eat Darkness**, Richard Lloyd Parry.
+
+18. **Comet in Moominland**, Tove Jansson. &dagger; (Swedish)
 
 ### <a name="2025"></a>2025
 
